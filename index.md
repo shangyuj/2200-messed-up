@@ -54,6 +54,8 @@ By the end of the course, you can do this:
 - Review diagrams and take quizzes
 - Ask questions
 
+### Diagnostic Quiz
+Do the diagnostic quiz on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6615755).
+
 ### Homework
-- Do the [diagnostic quiz](https://canvas.iastate.edu/courses/113318/modules/items/6615755).
-- Tell us about you and your learning in this course on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6616007).
+Tell us about you and your learning in this course on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6616007).
