@@ -45,3 +45,15 @@ By the end of the course, you can do this:
 
 - Class participation
 - Assessments (assignments and exams)
+
+### Tips for success
+- Make note of assessment dates
+- Turn on Canvas notifications and check the site often
+- Don't wait until the last minute
+- Schedule time for this class several days a week
+- Review diagrams and take quizzes
+- Ask questions
+
+### Homework
+- Do the [diagnostic quiz](https://canvas.iastate.edu/courses/113318/modules/items/6615755).
+- Tell us about you and your learning in this course on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6616007).
