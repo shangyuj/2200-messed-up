@@ -21,12 +21,22 @@ What are the steps we did automatically?
 - Help others to express themselves in the best way possible
 
 ### Course objectives
-- Identify form and function of English words, phrases, and sentences
-- Use tree diagramming to show this understanding
-- Explain grammar influence and uses
+- Understand and be able to accurately use terms and concepts related to morphology and syntax
+- Be able to analyze the major grammatical structures of English
+- Be able to explain grammar influences and uses
   
 By the end of the course, you can do this:
 ![Screenshot 2024-08-27 133117](https://github.com/user-attachments/assets/f14170e1-e083-48e5-ac4f-1d5839318b37)
 
 
 ### Introduce Yourself!
+- Your name
+- Your major
+- Anything you want us to know about you?
+- What do you think of this course so far?
+
+### Some requirements
+- Prerequisite: English 2500
+- Textbook: 	Altenberg, E. P., & Vago, R. M. (2010).  English grammar: Understanding the basics. Cambridge University Press.
+![610nwJGf6hL](https://github.com/user-attachments/assets/4e3e6b46-a2f9-43b8-af33-fd592c25230d)
+
