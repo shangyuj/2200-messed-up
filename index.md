@@ -43,3 +43,5 @@ By the end of the course, you can do this:
   
 ![610nwJGf6hL2](https://github.com/user-attachments/assets/f41133d2-3e22-4b7b-a521-0f2f4b55febf)
 
+- Class participation
+- Assessments (assignments and exams)
