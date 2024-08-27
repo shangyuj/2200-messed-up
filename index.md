@@ -37,6 +37,6 @@ By the end of the course, you can do this:
 
 ### Some requirements
 - Prerequisite: English 2500
-- Textbook: 	Altenberg, E. P., & Vago, R. M. (2010).  English grammar: Understanding the basics. Cambridge University Press.
-![610nwJGf6hL](https://github.com/user-attachments/assets/4e3e6b46-a2f9-43b8-af33-fd592c25230d = 250x)
+- Textbook: Altenberg, E. P., & Vago, R. M. (2010).  English grammar: Understanding the basics. Cambridge University Press. 
+![610nwJGf6hL1](https://github.com/user-attachments/assets/cc59e08c-6967-4159-8804-9563c262c242)
 
