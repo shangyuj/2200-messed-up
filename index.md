@@ -26,7 +26,6 @@ What are the steps we did automatically?
 - Explain grammar influence and uses
   
 By the end of the course, you can do this:
-![vlcsnap-2024-08-27-13h25m32s918](https://github.com/user-attachments/assets/92567534-8d85-42c8-8f2b-ac916ce7d23c)
 
 
 ### Introduce Yourself!
