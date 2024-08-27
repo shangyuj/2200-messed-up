@@ -58,5 +58,5 @@ By the end of the course, you can do this:
 Do the diagnostic quiz on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6615755).
 
 ### Homework
-Tell us about you and your learning in this course on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6616007).
-Read the [syllabus](https://drive.google.com/file/d/1ZtfyThdypFTgaMoOPAOJTuequJbo_g-S/view?usp=sharing). 
+- Tell us about you and your learning in this course on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6616007).
+- Read the [syllabus](https://drive.google.com/file/d/1ZtfyThdypFTgaMoOPAOJTuequJbo_g-S/view?usp=sharing). 
