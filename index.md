@@ -38,5 +38,6 @@ By the end of the course, you can do this:
 ### Some requirements
 - Prerequisite: English 2500
 - Textbook: Altenberg, E. P., & Vago, R. M. (2010).  English grammar: Understanding the basics. Cambridge University Press. 
-![610nwJGf6hL1](https://github.com/user-attachments/assets/cc59e08c-6967-4159-8804-9563c262c242)
+![610nwJGf6hL2](https://github.com/user-attachments/assets/f41133d2-3e22-4b7b-a521-0f2f4b55febf)
+
 
