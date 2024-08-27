@@ -29,7 +29,7 @@ By the end of the course, you can do this:
 ![Screenshot 2024-08-27 133117](https://github.com/user-attachments/assets/f14170e1-e083-48e5-ac4f-1d5839318b37)
 
 
-### Introduce Yourself!
+### Introduce yourself!
 - Your name
 - Your major
 - Anything you want us to know about you?
@@ -54,7 +54,7 @@ By the end of the course, you can do this:
 - Review diagrams and take quizzes
 - Ask questions
 
-### Diagnostic Quiz
+### Diagnostic quiz
 Do the diagnostic quiz on [Canvas](https://canvas.iastate.edu/courses/113318/modules/items/6615755).
 
 ### Homework
