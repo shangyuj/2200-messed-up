@@ -42,6 +42,11 @@ Pick a few questions to discussion with people around you!
 
 ![image](https://github.com/user-attachments/assets/dead31ed-54cc-4858-bb5d-cc17d4809230)
 
+### Prescriptive grammar
+- The view that one variety (or use) of a language has an inherently higher value than others and ought to be the norm for the whole of the speech community (Crystal, 1995)  
+- An approach to the study of grammar that stipulates the grammatical forms that speakers should use or ought to use. (Cummings, 2018)
+  
+![image](https://github.com/user-attachments/assets/a264d3bb-7e3e-42a5-9ee4-7a0ddffdbe43)
 
 
 ## 8/27
