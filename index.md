@@ -30,6 +30,18 @@ Pick a few questions to discussion with people around you!
   - a handbook containing the prescriptive rules
     - *Look it up in your grammar.*
 
+### Prescriptive and Descriptive Grammar
+- Descriptive rules: “how our grammatical system operates, rules that are the same for all speakers of English (e.g., subjects precede verbs in most sentences).”
+- Prescriptive rules “govern the version of English considered appropriate (e.g., Standard American English)”
+
+### Evolution of grammar study
+- The reason why grammar gets a bad rap
+- Two hallmarks:
+  - Insisted only certain “high” forms of English were worth studying
+  - Studied it in an complicated, obscure way, using a system borrowed from Latin  
+![image](https://github.com/user-attachments/assets/c94cc980-c845-4230-a5f4-ea5d123e0560)
+
+
 ## 8/27
 ### Welcome to English 2200!
 What is English 2200?  
