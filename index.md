@@ -90,7 +90,7 @@ Any question?
 In the next part we take a look at morphology — the structure of words.
 
 ### Homework
-Give ["Morphology Overview"](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing) a read. You can skip the Knowledge Check questions for now. 
+Give the [Morphology Overview](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing) a read. You can skip the Knowledge Check questions for now. 
 
 ## 8/27
 ### Welcome to English 2200!
