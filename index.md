@@ -3,7 +3,7 @@
 ## 8/29
 ### Objectives for this lesson
 - Identify how grammar is defined
-- Learn key influences on English usage (e.g., prescriptive vs descriptive grammar, regional and social dialects, language standards)
+- Learn key influences on English usage (e.g., prescriptive vs. descriptive grammar, regional and social dialects, language standards)
   
 ### Before we dive in, some questions to think about...
 1. Before this course, how would you define what "grammar" is?
@@ -90,7 +90,7 @@ Any question?
 In the next part we take a look at morphology — the structure of words.
 
 ### Homework
-Read ["What is morphology?"](https://canvas.iastate.edu/courses/113318/modules/items/6623386)
+Give ["Morphology Overview"](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing) a read. You can skip the Knowledge Check questions for now. 
 
 ## 8/27
 ### Welcome to English 2200!
