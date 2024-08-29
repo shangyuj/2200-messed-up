@@ -48,6 +48,49 @@ Pick a few questions to discussion with people around you!
   
 ![image](https://github.com/user-attachments/assets/a264d3bb-7e3e-42a5-9ee4-7a0ddffdbe43)
 
+### Modern/Descriptive views of grammar
+- Objective
+- More data-driven
+- Studying language as it's actually used	by members of a	speech community in	real world contexts
+
+### Prescriptive vs. Descriptive grammar
+What camp do you consider yourself to be in at this point? Why?
+
+### “Standard” and “Nonstandard”
+What is your grammar “tolerance”? What about the following sentences that make them incorrect from a prescriptive standpoint? 
+1. Edwin keeps insisting that the black hole theory has never been proven.
+2. Gavin will graduate from bartending school next week.
+3. Your brother does not seem nearly as eager to find a job as I.
+4. Joey has finally received the body-building course he sent for.
+5. Ellen complained that there is too little variation in the cafeteria menus from week to week.
+6. I am going to need a long rest when this semester ends.
+
+### Let's revisit these questions:
+1. Before this course, how would you define what "grammar" is?
+2. Do you know someone who is a strict "grammar police"? Do you agree with them? Why?
+3. Can you think of any expressions you use now that a different generation might not understand?
+4. Can you think of any expressions that someone from a different geographic area uses but you find awkward?
+5. Share a time when you criticized or were criticized because of your language use. What was it that made the language nonstandard — was it an error or a dialect difference? Do you feel the correction was appropriate?
+6. How should language teachers handle dialect differences in the classroom?  
+
+### Why do we use language differently?
+- Language change
+- Dialects
+- Language development
+
+### Summary of this lesson
+- Key definitions in the study of grammar, such as prescriptive/descriptive approaches, dialects, standard and nonstandard language
+- Reasons for variations in grammar
+
+### In-class quiz
+[Study of Grammar Quiz](https://canvas.iastate.edu/courses/113318/modules/items/6622642) (3 min)  
+Any question?
+
+### What's next?
+In the next part we take a look at morphology — the structure of words.
+
+### Homework
+Read ["What is morphology?"](https://canvas.iastate.edu/courses/113318/modules/items/6623386)
 
 ## 8/27
 ### Welcome to English 2200!
