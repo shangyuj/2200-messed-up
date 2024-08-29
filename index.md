@@ -21,14 +21,14 @@ Pick a few questions to discussion with people around you!
 
 ### Definitions of grammar
 - Klammer et al. (2010):
- - “the linguistic system that presumably exists in the mind of a speaker of a language”
-  - Syntax + morphology
- - “the knowledge to which we refer when we say that someone "knows" a language.”
- - “a description of the language system”
- - “an ideal set of rules”
-  - *He always uses good grammar.*
- - a handbook containing the prescriptive rules
-  - *Look it up in your grammar.*
+  - “the linguistic system that presumably exists in the mind of a speaker of a language”
+    - Syntax + morphology
+  - “the knowledge to which we refer when we say that someone "knows" a language.”
+  - “a description of the language system”
+  - “an ideal set of rules”
+    - *He always uses good grammar.*
+  - a handbook containing the prescriptive rules
+    - *Look it up in your grammar.*
 
 ## 8/27
 ### Welcome to English 2200!
