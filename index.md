@@ -8,13 +8,18 @@
 ### Before we dive in, some questions to think about...
 1. Before this course, how would you define what "grammar" is?
 2. Do you know someone who is a strict "grammar police"? Do you agree with them? Why?
-3. Can you think of any words you use now that which different generation would recognize but of which they might not understand your meaning?
-4. Can you think of any words that someone of a different generation would not recognize or understand?
-5. Can you think of any words that someone from a different geographic area would not understand?
-6. Share a time when you criticized or were criticized because of your language use. What was it that made the language nonstandard—was it an error or a dialect difference? Do you feel the correction was appropriate?
-7. How should language teachers handle dialect differences in the classroom?
+3. Can you think of any expressions you use now that a different generation might not understand?
+4. Can you think of any expressions that someone from a different geographic area uses but you find awkward?
+5. Share a time when you criticized or were criticized because of your language use. What was it that made the language nonstandard — was it an error or a dialect difference? Do you feel the correction was appropriate?
+6. How should language teachers handle dialect differences in the classroom?  
 
+Pick a few questions to discussion with people around you!  
 
+### In-class readings
+- Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/113318/modules/items/6622711)
+- Read ["Varieties of English"](https://canvas.iastate.edu/courses/113318/modules/items/6622759)
+
+  
 ## 8/27
 ### Welcome to English 2200!
 What is English 2200?  
