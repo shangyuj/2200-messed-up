@@ -6,8 +6,8 @@
 - Learn key influences on English usage (e.g., prescriptive vs descriptive grammar, regional and social dialects, language standards)
   
 ### Before we dive in, some questions to think about...
-1. Before this course, how would you define what “grammar” is?
-2. Do you know someone who is a strict prescriptivist? Do you find yourself more in the “prescriptive” or “descriptive” camp? Why?
+1. Before this course, how would you define what "grammar" is?
+2. Do you know someone who is a strict "grammar police"? Do you agree with them? Why?
 3. Can you think of any words you use now that which different generation would recognize but of which they might not understand your meaning?
 4. Can you think of any words that someone of a different generation would not recognize or understand?
 5. Can you think of any words that someone from a different geographic area would not understand?
