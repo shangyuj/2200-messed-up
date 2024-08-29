@@ -39,7 +39,9 @@ Pick a few questions to discussion with people around you!
 - Two hallmarks:
   - Insisted only certain “high” forms of English were worth studying
   - Studied it in an complicated, obscure way, using a system borrowed from Latin  
-![image](https://github.com/user-attachments/assets/c94cc980-c845-4230-a5f4-ea5d123e0560)
+
+![image](https://github.com/user-attachments/assets/dead31ed-54cc-4858-bb5d-cc17d4809230)
+
 
 
 ## 8/27
