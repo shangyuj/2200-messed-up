@@ -16,8 +16,8 @@
 Pick a few questions to discussion with people around you!  
 
 ### In-class readings
-- Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/113318/modules/items/6622711)
-- Read ["Varieties of English"](https://canvas.iastate.edu/courses/113318/modules/items/6622759)
+- Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/113318/modules/items/6622711) (5 min)
+- Read ["Varieties of English"](https://canvas.iastate.edu/courses/113318/modules/items/6622759) (5 min))
 
   
 ## 8/27
