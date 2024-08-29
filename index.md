@@ -17,9 +17,19 @@ Pick a few questions to discussion with people around you!
 
 ### In-class readings
 - Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/113318/modules/items/6622711) (5 min)
-- Read ["Varieties of English"](https://canvas.iastate.edu/courses/113318/modules/items/6622759) (5 min))
+- Read ["Varieties of English"](https://canvas.iastate.edu/courses/113318/modules/items/6622759) (5 min)
 
-  
+### Definitions of grammar
+- Klammer et al. (2010):
+ - “the linguistic system that presumably exists in the mind of a speaker of a language”
+  - Syntax + morphology
+ - “the knowledge to which we refer when we say that someone "knows" a language.”
+ - “a description of the language system”
+ - “an ideal set of rules”
+  - *He always uses good grammar.*
+ - a handbook containing the prescriptive rules
+  - *Look it up in your grammar.*
+
 ## 8/27
 ### Welcome to English 2200!
 What is English 2200?  
