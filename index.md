@@ -36,6 +36,9 @@ Example: _unhelpful_
 
 #### Affixes
 ![image](https://github.com/user-attachments/assets/3edfc800-4669-4465-ae13-f5ac3ad11e0f)
+  
+##### Prefixes vs. Suffixes
+![image](https://github.com/user-attachments/assets/27143718-58d5-4ba0-9266-62daee5d7f04)
 
 
 ## 8/29 Study of Grammar
