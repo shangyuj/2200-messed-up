@@ -64,6 +64,14 @@ novice           auditorium          during              capture
 novelist         audio               endurance           intercept
 </pre>
 
+<details>
+  <summary>Click me for answer</summary>
+![image](https://github.com/user-attachments/assets/f0dce9b6-9eae-467a-addc-ef808d70a866)
+
+b) trust
+c) joy
+</details>
+
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
 - Identify how grammar is defined
