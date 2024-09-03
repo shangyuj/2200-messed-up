@@ -20,7 +20,7 @@
 </details>
 
 ### Morphological structure in English
-![image](https://github.com/user-attachments/assets/1aa87274-ea3f-4685-b979-bdfe780580c7)
+![364076562-1aa87274-ea3f-4685-b979-bdfe780580c7](https://github.com/user-attachments/assets/c5d9f480-7653-43c5-8a70-f08907c9a4c2)
   
 ### Roots and affixes
 - root: the base of a word, the morpheme that gives the word its primary lexical meaning
