@@ -20,8 +20,7 @@
 </details>
 
 ### Morphological structure in English
-![image](https://github.com/user-attachments/assets/a6cf50ac-e084-495b-8073-455ad7b9879d)
-
+![image](https://github.com/user-attachments/assets/1aa87274-ea3f-4685-b979-bdfe780580c7)
 
 
 ## 8/29 Study of Grammar
