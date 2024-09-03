@@ -13,12 +13,12 @@
   - syllable
 
 <details>
-  <summary>Click me for answer</summary>
+  <summary>👆 Click me for answer</summary>
   word: the	smallest	unit	of	language	that	can	stand	on	its	own   <br>
   morpheme: the smallest meaningful unit in a word   <br>
   syllable: a word or part of a word that contains a single vowel sound   
 </details>
-
+  
 - What makes [this poem](https://www.poetryfoundation.org/poems/42916/jabberwocky) English sounding?
 ![image](https://github.com/user-attachments/assets/31e66e30-4499-4d8b-af95-fae7c37b29c3)
 
@@ -103,7 +103,7 @@ b) mistrustful
 c) joyfulness  
   
 <details>
-  <summary>Click me for answer</summary>
+  <summary>👆 Click me for answer</summary>
 a) domestic  <br>
 b) trust  <br>
 c) joy  <br>
@@ -120,7 +120,7 @@ novelist         audio               endurance           intercept
 </pre>
 
 <details>
-  <summary>Click me for answer</summary>
+  <summary>👆 Click me for answer</summary>
 nova: classical Latin nova, feminine singular of novus, meaning new.  <br>
 audi: classical Latin audīre, meaning to hear.  <br>
 dure: Latin dūrus, meaning hard.  <br>
