@@ -40,7 +40,7 @@ Example: _unhelpful_
 ##### Prefixes vs. Suffixes
 ![image](https://github.com/user-attachments/assets/27143718-58d5-4ba0-9266-62daee5d7f04)
 
-### Practice
+#### Practice
 - What are the roots of the following words?  
 a) domestication  
 b) mistrustful  
@@ -78,7 +78,7 @@ capt: classical Latin capere, meaning to take.
 - **Free** morphemes are able to **stand on their** own as words.
 - A free morpheme is a word; a bound morpheme is not.
 
-### Practice
+#### Practice
 Think of words with morphemes that fit the following formula: (e.g. free + bound = birds; bound + free = rerun)
 1. free + bound
 2. bound + free
@@ -88,6 +88,44 @@ Think of words with morphemes that fit the following formula: (e.g. free + bound
 6. bound + free + bound + bound
 7. bound + bound
 8. bound + bound + bound
+
+### Affix: Derivational vs. Inflectional
+What’s the difference?  
+![image](https://github.com/user-attachments/assets/2e6914a5-96d4-45e9-91c3-1ef1cab7a598)  
+- Derivational morphemes **form new words**.
+- Inflectional morphemes do not create new words.
+
+#### Derivational morphemes
+![image](https://github.com/user-attachments/assets/b365293f-c264-44b2-9082-4fdc8ad92805)  
+Derivational morphemes **form new words**. They do this by altering either the lexical meaning of a root (e.g., nonsense) or by changing the grammatical category of the word (e.g., kindness).  
+##### Some derivational morphemes
+1. -able
+2. -age
+3. -ese
+4. -ward(s)
+5. -esque
+6. -ify
+7. -less
+8. -ness
+9. -wise
+##### The problem with derivational morphemes
+Derivational morphemes are not systematic; they are arbitrary and there are no rules:
+
+sweet: sweetness  
+happy: happiness  
+kind: kindness  
+**but not**
+sunny: sunniness  
+difficult: difficultness  
+warm: warmness  
+  
+#### Inflectional morphemes
+![image](https://github.com/user-attachments/assets/613f4185-efc9-412d-ba23-d58a4145b3dc)
+- Inflectional suffixes change words but do not make new words.
+- All inflectional morphemes are suffixes.
+- There are now only eight inflectional morphemes.
+![image](https://github.com/user-attachments/assets/769c8e24-0c23-4a74-94fb-418defac6182)
+
 
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
