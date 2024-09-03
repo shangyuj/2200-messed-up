@@ -21,6 +21,21 @@
 
 ### Morphological structure in English
 ![image](https://github.com/user-attachments/assets/1aa87274-ea3f-4685-b979-bdfe780580c7)
+  
+### Roots and affixes
+- root: the base of a word, the morpheme that gives the word its primary lexical meaning
+- affix: a morpheme which can come before (prefix) or after (suffix) a root
+  
+Example: _unhelpful_  
+- _un_: affix	(prefix)
+- _help_: root
+- _ful_: affix	(suffix)
+
+#### Roots
+![image](https://github.com/user-attachments/assets/390407e8-0f60-4999-92a2-75e68498cbda)
+
+#### Affixes
+![image](https://github.com/user-attachments/assets/3edfc800-4669-4465-ae13-f5ac3ad11e0f)
 
 
 ## 8/29 Study of Grammar
