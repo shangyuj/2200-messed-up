@@ -42,16 +42,16 @@ Example: _unhelpful_
 
 ### Practice:
 #### Identifying morphemes
-- What are the roots of the following words?
-a) domestication
-b) mistrustful
-c) joyfulness
+- What are the roots of the following words?  
+a) domestication  
+b) mistrustful  
+c) joyfulness  
   
 <details>
   <summary>Click me for answer</summary>
-a) domestic
-b) trust
-c) joy
+a) domestic  <br>
+b) trust  <br>
+c) joy  <br>
 </details>
 
 #### Identifying roots
@@ -66,10 +66,7 @@ novelist         audio               endurance           intercept
 
 <details>
   <summary>Click me for answer</summary>
-![image](https://github.com/user-attachments/assets/f0dce9b6-9eae-467a-addc-ef808d70a866)
-
-b) trust
-c) joy
+nova: < classical Latin nova, feminine singular of novus, meaning new.
 </details>
 
 ## 8/29 Study of Grammar
