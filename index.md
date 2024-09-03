@@ -19,6 +19,12 @@
   syllable: a word or part of a word that contains a single vowel sound   
 </details>
 
+- What makes [this poem](https://www.poetryfoundation.org/poems/42916/jabberwocky) English sounding?
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
+
 ### Morphological structure in English
 ![364076562-1aa87274-ea3f-4685-b979-bdfe780580c7](https://github.com/user-attachments/assets/c5d9f480-7653-43c5-8a70-f08907c9a4c2)
   
