@@ -1,6 +1,26 @@
 # English 2200
 
-## 8/29
+## 9/3 Morphology
+### Objectives for this lesson
+- Understand that words have an internal structure (studied in the branch of linguistics known as morphology)
+- Apply morphological concepts like root and affix in analysis of word structure
+- Understand the difference between derivational and inflectional word formation
+
+### Warm-up question
+- What’s the difference between these?
+  - word
+  - morpheme
+  - syllable
+ 
+> Hawaii has hot weather all year round and beautiful beaches, so it is the best place for a vacation.
+<details>
+  <summary>Click me for answer</summary>
+  Premise 1: Hawaii has hot weather	all year round   <br>
+  Premise 2: Hawaii has beautiful beaches   <br>
+  Conclusion: Hawaii is the best place for a vacation.   
+</details>
+
+## 8/29 Study of Grammar
 ### Objectives for this lesson
 - Identify how grammar is defined
 - Learn key influences on English usage (e.g., prescriptive vs. descriptive grammar, regional and social dialects, language standards)
@@ -92,7 +112,7 @@ In the next part we take a look at morphology — the structure of words.
 ### Homework
 Give the [Morphology Overview](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing) a read. You can skip the Knowledge Check questions for now. 
 
-## 8/27
+## 8/27 Intro
 ### Welcome to English 2200!
 What is English 2200?  
 Why English 2200?  
