@@ -40,8 +40,7 @@ Example: _unhelpful_
 ##### Prefixes vs. Suffixes
 ![image](https://github.com/user-attachments/assets/27143718-58d5-4ba0-9266-62daee5d7f04)
 
-### Practice:
-#### Identifying morphemes
+### Practice
 - What are the roots of the following words?  
 a) domestication  
 b) mistrustful  
@@ -66,11 +65,29 @@ novelist         audio               endurance           intercept
 
 <details>
   <summary>Click me for answer</summary>
-nova: classical Latin _nova_, feminine singular of novus, meaning new.  <br>
-audi: classical Latin _audīre_, meaning to hear.  <br>
-dure: Latin _dūrus_, meaning hard.  <br>
-capt: classical Latin _capere_, meaning to take.
+nova: classical Latin nova, feminine singular of novus, meaning new.  <br>
+audi: classical Latin audīre, meaning to hear.  <br>
+dure: Latin dūrus, meaning hard.  <br>
+capt: classical Latin capere, meaning to take.
 </details>
+
+**Tip:** We as ISU students have access to [Oxfird English Dictionary](https://go.openathens.net/redirector/iastate.edu?url=https://www.oed.com), where you can find detailed etymology for words.  
+  
+### Bound and Free morphemes
+- Many morphemes cannot stand alone as words; they are **bound** to other morphemes.
+- **Free** morphemes are able to **stand on their** own as words.
+- A free morpheme is a word; a bound morpheme is not.
+
+### Practice
+Think of words with morphemes that fit the following formula: (e.g. free + bound = birds; bound + free = rerun)
+1. free + bound
+2. bound + free
+3. free + bound + bound
+4. bound + free + bound
+5. free + free
+6. bound + free + bound + bound
+7. bound + bound
+8. bound + bound + bound
 
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
