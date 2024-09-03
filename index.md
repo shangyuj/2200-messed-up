@@ -161,8 +161,8 @@ warm: warmness
 
 ![image](https://github.com/user-attachments/assets/a2ad7a53-304f-4bbc-8c2c-0cb0efe3fd46)
 
-![image](https://github.com/user-attachments/assets/deeaee24-38c1-47c8-ab77-e0f7631df1f3)
-
+![image](https://github.com/user-attachments/assets/117958ff-53a2-45bd-aaaf-7367422e18eb)
+  
 ![image](https://github.com/user-attachments/assets/fc98d7ab-e69e-4a72-b168-ce34b5110093)
 
 #### Inflectional morphemes
