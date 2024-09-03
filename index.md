@@ -66,7 +66,10 @@ novelist         audio               endurance           intercept
 
 <details>
   <summary>Click me for answer</summary>
-nova: < classical Latin nova, feminine singular of novus, meaning new.
+nova: classical Latin _nova_, feminine singular of novus, meaning new.  <br>
+audi: classical Latin _audīre_, meaning to hear.  <br>
+dure: Latin _dūrus_, meaning hard.  <br>
+capt: classical Latin _capere_, meaning to take.
 </details>
 
 ## 8/29 Study of Grammar
