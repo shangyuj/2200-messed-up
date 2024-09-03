@@ -127,7 +127,7 @@ dure: Latin dūrus, meaning hard.  <br>
 capt: classical Latin capere, meaning to take.
 </details>
 
-**Tip:** We as ISU students have access to [Oxfird English Dictionary](https://go.openathens.net/redirector/iastate.edu?url=https://www.oed.com), where you can find detailed etymology for words.  
+**Tip:** We as ISU students have access to [Oxford English Dictionary](https://go.openathens.net/redirector/iastate.edu?url=https://www.oed.com), where you can find detailed etymology for words.  
   
 ### Affix: Derivational vs. Inflectional
 What’s the difference?  
