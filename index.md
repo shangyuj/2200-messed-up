@@ -40,6 +40,29 @@ Example: _unhelpful_
 ##### Prefixes vs. Suffixes
 ![image](https://github.com/user-attachments/assets/27143718-58d5-4ba0-9266-62daee5d7f04)
 
+### Practice:
+#### Identifying morphemes
+- What are the roots of the following words?
+a) domestication
+b) mistrustful
+c) joyfulness
+  
+<details>
+  <summary>Click me for answer</summary>
+a) domestic
+b) trust
+c) joy
+</details>
+
+#### Identifying roots
+Find the common root for the following sets of words. What does the root mean?  
+<pre>
+nova             auditor             endure              conceive
+renovation       audience            duration            capable
+innovate         inaudible           durable             susceptible
+novice           auditorium          during              capture
+novelist         audio               endurance           intercept
+</pre>
 
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
