@@ -11,13 +11,12 @@
   - word
   - morpheme
   - syllable
- 
-> Hawaii has hot weather all year round and beautiful beaches, so it is the best place for a vacation.
+
 <details>
   <summary>Click me for answer</summary>
-  Premise 1: Hawaii has hot weather	all year round   <br>
-  Premise 2: Hawaii has beautiful beaches   <br>
-  Conclusion: Hawaii is the best place for a vacation.   
+  word: The	smallest	unit	of	language	that	can	stand	on	its	own   <br>
+  morpheme: The smallest meaningful unit in a word   <br>
+  syllable: A word or part of a word that contains a single vowel sound   
 </details>
 
 ## 8/29 Study of Grammar
