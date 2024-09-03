@@ -20,14 +20,64 @@
 </details>
 
 - What makes [this poem](https://www.poetryfoundation.org/poems/42916/jabberwocky) English sounding?
-’Twas brillig, and the slithy toves  
-      Did gyre and gimble in the wabe:  
-All mimsy were the borogoves,  
-      And the mome raths outgrabe.  
+![image](https://github.com/user-attachments/assets/31e66e30-4499-4d8b-af95-fae7c37b29c3)
+
 
 ### Morphological structure in English
+We call word parts **morphemes**. Morphemes are the smallest meaningful part of language, but unlike words, they don’t have to be able to stand on their own.
+
 ![364076562-1aa87274-ea3f-4685-b979-bdfe780580c7](https://github.com/user-attachments/assets/c5d9f480-7653-43c5-8a70-f08907c9a4c2)
-  
+
+### Bound and Free morphemes
+- Many morphemes cannot stand alone as words; they are **bound** to other morphemes.
+- **Free** morphemes are able to **stand on their** own as words.
+- A free morpheme is a word; a bound morpheme is not.
+
+### Free morphemes
+A free morpheme is the smallest meaningful unit in language that can stand alone.  
+<pre>
+health  
+giraffe  
+week  
+side  
+boomerang  
+sun  
+up  
+</pre>
+
+#### Compounds
+In English we can combine two free morphemes to create compounds that have a new meaning together.
+<pre>
+weekend      week + end  
+sunlight     sun + light  
+playground   play + ground  
+upend        up + end  
+downside     down + side  
+moonlight    moon + light  
+</pre>
+
+![image](https://github.com/user-attachments/assets/d3ff95b6-2aa7-4c73-bf1b-309369a2afda)  
+
+### Bound morphemes
+A compound must have two free morphemes. The following are not compounds because the morphemes are not all free:  
+<pre>
+nonsense  
+unkind   
+kindness   
+removes  
+</pre>  
+
+#### Practice
+Think of words with morphemes that fit the following formula: (e.g. free + bound = birds; bound + free = rerun)
+1. free + bound
+2. bound + free
+3. free + bound + bound
+4. bound + free + bound
+5. free + free
+6. bound + free + bound + bound
+7. bound + bound
+8. bound + bound + bound
+
 ### Roots and affixes
 - root: the base of a word, the morpheme that gives the word its primary lexical meaning
 - affix: a morpheme which can come before (prefix) or after (suffix) a root
@@ -79,22 +129,6 @@ capt: classical Latin capere, meaning to take.
 
 **Tip:** We as ISU students have access to [Oxfird English Dictionary](https://go.openathens.net/redirector/iastate.edu?url=https://www.oed.com), where you can find detailed etymology for words.  
   
-### Bound and Free morphemes
-- Many morphemes cannot stand alone as words; they are **bound** to other morphemes.
-- **Free** morphemes are able to **stand on their** own as words.
-- A free morpheme is a word; a bound morpheme is not.
-
-#### Practice
-Think of words with morphemes that fit the following formula: (e.g. free + bound = birds; bound + free = rerun)
-1. free + bound
-2. bound + free
-3. free + bound + bound
-4. bound + free + bound
-5. free + free
-6. bound + free + bound + bound
-7. bound + bound
-8. bound + bound + bound
-
 ### Affix: Derivational vs. Inflectional
 What’s the difference?  
 ![image](https://github.com/user-attachments/assets/2e6914a5-96d4-45e9-91c3-1ef1cab7a598)  
@@ -124,7 +158,13 @@ kind: kindness
 sunny: sunniness  
 difficult: difficultness  
 warm: warmness  
-  
+
+![image](https://github.com/user-attachments/assets/a2ad7a53-304f-4bbc-8c2c-0cb0efe3fd46)
+
+![image](https://github.com/user-attachments/assets/deeaee24-38c1-47c8-ab77-e0f7631df1f3)
+
+![image](https://github.com/user-attachments/assets/fc98d7ab-e69e-4a72-b168-ce34b5110093)
+
 #### Inflectional morphemes
 ![image](https://github.com/user-attachments/assets/613f4185-efc9-412d-ba23-d58a4145b3dc)
 - Inflectional suffixes change words but do not make new words.
