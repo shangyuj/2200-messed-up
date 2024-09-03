@@ -171,7 +171,15 @@ warm: warmness
 - All inflectional morphemes are suffixes.
 - There are now only eight inflectional morphemes.
 ![image](https://github.com/user-attachments/assets/769c8e24-0c23-4a74-94fb-418defac6182)
-
+  
+##### Practice
+Identify the inflections in the bolded words.
+- Example: He **wishes** he could come.
+  - -es is the 3rd person singular _s_
+ 
+The August 2020 derecho windstorm was **bigger** than most people remember. The straight-line wind
+**gusts** **measured** up to 110 mph in Iowa. Trees were **broken** off by the wind. Nevertheless, **ISU's**
+campus **remains** the **prettiest** campus in the world.
 
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
