@@ -19,7 +19,11 @@
   syllable: a word or part of a word that contains a single vowel sound   
 </details>
 
-Morphology: the study of morphemes
+**Morphology: the study of morphemes**
+
+### Morphological structure in English
+![image](https://github.com/user-attachments/assets/d6e0634e-4450-4929-843d-a25ba21a6951)
+
 
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
