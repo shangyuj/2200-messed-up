@@ -14,10 +14,12 @@
 
 <details>
   <summary>Click me for answer</summary>
-  word: The	smallest	unit	of	language	that	can	stand	on	its	own   <br>
-  morpheme: The smallest meaningful unit in a word   <br>
-  syllable: A word or part of a word that contains a single vowel sound   
+  word: the	smallest	unit	of	language	that	can	stand	on	its	own   <br>
+  morpheme: the smallest meaningful unit in a word   <br>
+  syllable: a word or part of a word that contains a single vowel sound   
 </details>
+
+Morphology: the study of morphemes
 
 ## 8/29 Study of Grammar
 ### Objectives for this lesson
