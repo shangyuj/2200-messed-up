@@ -7,10 +7,10 @@
 - Understand the difference between derivational and inflectional word formation
 
 ### Warm-up question
-- What’s the difference between these?
-  - word
-  - morpheme
-  - syllable
+#### What’s the difference between these?
+- word
+- morpheme
+- syllable
 
 <details>
   <summary>👆 Click me for answer</summary>
@@ -19,7 +19,7 @@
   syllable: a word or part of a word that contains a single vowel sound   
 </details>
   
-- What makes [this poem](https://www.poetryfoundation.org/poems/42916/jabberwocky) English sounding?
+#### What makes [this poem](https://www.poetryfoundation.org/poems/42916/jabberwocky) English sounding?
 ![image](https://github.com/user-attachments/assets/31e66e30-4499-4d8b-af95-fae7c37b29c3)
 
 
