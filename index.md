@@ -16,20 +16,19 @@ The corpus comprises of these text types:
   
 **Game question: What are the top 10 most frequently used words in English?**  
   
-<details>
-  <summary>👆 Click me for answer</summary>
-Rank    Word              Percentage    <br>
-1       the               5.24%    <br>
-2       be (of any form)  2.90%    <br>
-3       of                2.53%     <br>
-4       and               2.50%     <br>
-5       a                 1.86%    <br>
-6       in                1.75%     <br>
-7       to                1.27%    <br>
-8       for               0.73%    <br>
-9       you               0.72%    <br>
-10      it                0.65%    <br>
-</details>
+<pre>
+Rank    Word              Percentage    
+1       the               5.24%    
+2       be (of any form)  2.90%    
+3       of                2.53%     
+4       and               2.50%    
+5       a                 1.86%    
+6       in                1.75%     
+7       to                1.27%    
+8       for               0.73%    
+9       you               0.72%    
+10      it                0.65%    
+</pre>
   
 ## 9/3 Morphology
 ### Objectives for this lesson
