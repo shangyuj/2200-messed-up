@@ -8,7 +8,29 @@ Complete these three quizzes as a review
 - [Quiz: Identifying Roots](https://canvas.iastate.edu/courses/113318/modules/items/6632898)
 - [Quiz: Labeling Morphemes](https://canvas.iastate.edu/courses/113318/modules/items/6633192)
 
-
+### A Game (Family Feud-ish)
+This game is based on the [GUM Corpus (Georgetown University Multilayer Corpus)](https://gucorpling.org/gum/).  
+  
+The corpus comprises of these text types:  
+![image](https://github.com/user-attachments/assets/51be6018-bea6-4a83-b4b1-203363bf9e82)  
+  
+**Game question: What are the top 10 most frequently used words in English?**  
+  
+<details>
+  <summary>👆 Click me for answer</summary>
+Rank    Word              Percentage  
+1       the               5.24%
+2       be (of any form)  2.90%
+3       of                2.53%
+4       and               2.50%
+5       a                 1.86%
+6       in                1.75%
+7       to                1.27%
+8       for               0.73%
+9       you               0.72%
+10      it                0.65%
+</details>
+  
 ## 9/3 Morphology
 ### Objectives for this lesson
 - Understand that words have an internal structure (studied in the branch of linguistics known as morphology)
