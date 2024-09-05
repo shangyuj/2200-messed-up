@@ -38,19 +38,23 @@ Word class = Part of Speech (POS)
  
 ### “Major” and ”Minor” word classes
 - Major class words: Content words
-  - Noun (castle)
-  - Verb (decide)
-  - Adjective (happy)
-  - Adverb (beautifully)
+  - Noun (_castle_)
+  - Verb (_decide_)
+  - Adjective (_happy_)
+  - Adverb (_beautifully_)
 
 - Minor class words: Function words
-  - Pronoun (their)
-  - Determiner (the)
-  - Auxiliary (will)
-  - Preposition (across)
-  - Conjunction (and)
-  - Particle (break up)
+  - Pronoun (_their_)
+  - Determiner (_the_)
+  - Auxiliary (_will_)
+  - Preposition (_across_)
+  - Conjunction (_and_)
+  - Particle (break _up_)
 
+### Nouns: What do we already know?
+- A person, place, thing, idea, event, etc.
+
+But we can	also	identify	content	words	by	 their	forms	(morphology)	and	where	 they	are	in	the	phrase	or	sentence	 structure	(syntax).
 ## 9/3 Morphology
 ### Objectives for this lesson
 - Understand that words have an internal structure (studied in the branch of linguistics known as morphology)
