@@ -14,22 +14,43 @@ This game is based on the [GUM Corpus (Georgetown University Multilayer Corpus)]
 The corpus comprises of these text types:  
 ![image](https://github.com/user-attachments/assets/51be6018-bea6-4a83-b4b1-203363bf9e82)  
   
-**Game question: What are the top 10 most frequently used words in English?**  
+**Game question: What are the top 10 most commonly used words in English?**  
   
-<pre>
-Rank    Word              Percentage    
-1       the               5.24%    
-2       be (of any form)  2.90%    
-3       of                2.53%     
-4       and               2.50%    
-5       a                 1.86%    
-6       in                1.75%     
-7       to                1.27%    
-8       for               0.73%    
-9       you               0.72%    
-10      it                0.65%    
-</pre>
+What word class is each of these top 10 words?
   
+What do you think is the most frequently used word class in English?  
+
+
+### Objectives for this lesson
+- Understand what word class is
+- Use morphological and syntactic features to identify the word classes of nouns and pronouns
+- Understand the distinction between common and proper nouns, count and non-count nouns, abstract and concrete nouns
+- Distinguish sub-classes of pronouns
+
+### Identifying word class
+Word class = Part of Speech (POS)
+- Traditional means of teaching word class: using semantic features
+  - Noun = person, place, or thing
+  - Verb = action word
+- We will use morphological and syntactic features to identify word classes
+  - The builder’s _plan_ was to lay the foundations in a fortnight.
+  - They _plan_ to visit Paris next spring.
+ 
+### “Major” and ”Minor” word classes
+- Major class words: Content words
+  - Noun (castle)
+  - Verb (decide)
+  - Adjective (happy)
+  - Adverb (beautifully)
+
+- Minor class words: Function words
+  - Pronoun (their)
+  - Determiner (the)
+  - Auxiliary (will)
+  - Preposition (across)
+  - Conjunction (and)
+  - Particle (break up)
+
 ## 9/3 Morphology
 ### Objectives for this lesson
 - Understand that words have an internal structure (studied in the branch of linguistics known as morphology)
