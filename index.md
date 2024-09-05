@@ -124,17 +124,15 @@ Pronouns help us avoid repetition!
   
 #### Demonstrative Pronouns
 - Convey information about the position of something.
-  - This/that/these/those
-    - The girl wants this.
-    - That is unbelievable.
+  - _this_/_that_/_these_/_those_
+    - The girl wants **this**.
+    - **That** is unbelievable.
   
 "That car is expensive." Is "that" a demonstrative pronoun?
 
 #### Reflexive Pronouns
-Formed by added –self or –selves to the personal pronouns
+Formed by added _–self_ or _–selves_ to the personal pronouns
 - Must have their antecedent in the same clause.
-- Jack exhausted himself.
-- She hurt herself outside.
 
 #### Emphatic Reflexive Pronouns
 - Also known as intensive pronoun.
@@ -158,15 +156,15 @@ There are a lot of them!
   
 #### Interrogative Pronouns
 - Used to ask questions
-   Includes some Wh- words (who/whose/whom/which)
+   Includes some Wh- words (_who_/_whose_/_whom_/_which_)
 
 #### Relative Pronouns
-Who, whom, whose, which, that
+_who_, _whom_, _whose_, _which_, _that_
 - Occur in relative clauses (clauses that modify their antecedents)
 
 ### Homework
 - Read Unit 1 and Unit 7 in our textbook.
-- Do these quizzes:
+- Do these quizzes and bring your questions to the next class:
   - [Quiz: Count and noncount nouns](https://canvas.iastate.edu/courses/113318/modules/items/6634797)
   - [Quiz: Concrete or abstract nouns, common or proper nouns](https://canvas.iastate.edu/courses/113318/modules/items/6634804)
   - [Quiz: Possessive, demonstrative, and reflexive pronouns](https://canvas.iastate.edu/courses/113318/modules/items/6634806)
