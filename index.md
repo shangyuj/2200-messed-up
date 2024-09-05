@@ -163,8 +163,8 @@ _who_, _whom_, _whose_, _which_, _that_
 - Occur in relative clauses (clauses that modify their antecedents)
 
 ### Homework
-- Read Unit 1 and Unit 7 of our textbook.
-- Do these quizzes and bring your questions to the next class:
+- Read Unit 1 and Unit 7 of our textbook as a review.
+- Do these quizzes to check your knowledge and bring your questions to the next class:
   - [Quiz: Count and noncount nouns](https://canvas.iastate.edu/courses/113318/modules/items/6634797)
   - [Quiz: Concrete or abstract nouns, common or proper nouns](https://canvas.iastate.edu/courses/113318/modules/items/6634804)
   - [Quiz: Possessive, demonstrative, and reflexive pronouns](https://canvas.iastate.edu/courses/113318/modules/items/6634806)
