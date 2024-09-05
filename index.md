@@ -54,13 +54,44 @@ Word class = Part of Speech (POS)
 ### Nouns: What do we already know?
 - A person, place, thing, idea, event, etc.
 
-But we can	also	identify	content	words	by	 their	forms	(morphology)	and	where	 they	are	in	the	phrase	or	sentence	 structure	(syntax).
+**But we can	also	identify	content	words	by	 their	forms	(morphology)	and	where	 they	are	in	the	phrase	or	sentence	 structure	(syntax).**
+  
+### ID tests of “noun-ness”
+![image](https://github.com/user-attachments/assets/60fcd955-bcd4-481b-a0dd-9b348711ca5c)
+
+Basically...  
+- A noun is a word that can be made plural and/or possessive; it is signaled by determiners
 ## 9/3 Morphology
 ### Objectives for this lesson
 - Understand that words have an internal structure (studied in the branch of linguistics known as morphology)
 - Apply morphological concepts like root and affix in analysis of word structure
 - Understand the difference between derivational and inflectional word formation
 
+### Common/Proper nouns
+- Common nouns are general names.
+- Proper nouns are specific people, places, or things.
+- Proper nouns are capitalized.
+  - The **singer** was excited to take the stage.
+  - **Taylor Swift** released her new album today.
+
+### Concrete/Abstract nouns
+- Concrete: tangible (people, objects, events)
+- Abstract: intangible (ideas, values, emotions)
+
+### Collective and non-count nouns
+- Collective nouns
+  - Can be followed by singular or plural verb form depending on meaning
+    - The **team** is here on vacation.
+    - The **team** have chosen different restaurants.
+- Non-count nouns
+  - Do not take a/an
+    - The car needed **oil**.
+  - Some can be both
+    - Example: water, experience
+
+
+
+## 9/3 
 ### Warm-up question
 #### What’s the difference between these?
 - word
