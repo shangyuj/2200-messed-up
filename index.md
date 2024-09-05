@@ -1,5 +1,14 @@
 # English 2200
 
+## 9/5 Word Classes
+Added resource: [NYT's dialect survey](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)
+### Review of Morphology
+Complete these three quizzes as a review
+- [Quiz: Syntax or Morphology?](https://canvas.iastate.edu/courses/113318/modules/items/6632712)
+- [Quiz: Identifying Roots](https://canvas.iastate.edu/courses/113318/modules/items/6632898)
+- [Quiz: Labeling Morphemes](https://canvas.iastate.edu/courses/113318/modules/items/6633192)
+
+
 ## 9/3 Morphology
 ### Objectives for this lesson
 - Understand that words have an internal structure (studied in the branch of linguistics known as morphology)
