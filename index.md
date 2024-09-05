@@ -15,6 +15,21 @@ The corpus comprises of these text types:
 ![image](https://github.com/user-attachments/assets/51be6018-bea6-4a83-b4b1-203363bf9e82)  
   
 **Game question: What are the top 10 most commonly used words in English?**  
+
+Answer:  
+<pre>
+Rank    Word              Percentage    
+1       the               5.24%    
+2       be (of any form)  2.90%    
+3       of                2.53%     
+4       and               2.50%    
+5       a                 1.86%    
+6       in                1.75%     
+7       to                1.27%    
+8       for               0.73%    
+9       you               0.72%    
+10      it                0.65%    
+</pre>
   
 What word class is each of these top 10 words?
   
@@ -148,6 +163,14 @@ There are a lot of them!
 #### Relative Pronouns
 Who, whom, whose, which, that
 - Occur in relative clauses (clauses that modify their antecedents)
+
+### Homework
+- Read Unit 1 and Unit 7 in our textbook.
+- Do these quizzes:
+  - [Quiz: Count and noncount nouns](https://canvas.iastate.edu/courses/113318/modules/items/6634797)
+  - [Quiz: Concrete or abstract nouns, common or proper nouns](https://canvas.iastate.edu/courses/113318/modules/items/6634804)
+  - [Quiz: Possessive, demonstrative, and reflexive pronouns](https://canvas.iastate.edu/courses/113318/modules/items/6634806)
+  - [Quiz: Reciprocal, indefinite, interrogative, and relative pronouns](https://canvas.iastate.edu/courses/113318/modules/items/6634807)
 
 ## 9/3 Morphology
 ### Objectives for this lesson
