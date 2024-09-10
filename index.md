@@ -89,6 +89,7 @@ They are almost the same as adjectives morphlogically. How do we further tell th
   <summary>👆 Click me</summary>
 Adjectives proceed or follow nouns; adverbs can be (almost) anywhere in the sentence. <br>
 </details>
+     
 #### Different roles for adjectives  
 ![image](https://github.com/user-attachments/assets/fc45e9f1-0428-4ced-952e-7006defb67b5)
 
