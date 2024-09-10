@@ -53,7 +53,7 @@ Defined by the morphological changes applicable to verbs: can	be	used	in	both	pr
 4. Now, she has to stay home all weekend.
 5. Mary is frustrating her parents.
 6. Curfews can be frustrating.
-
+    
 ### Adjectives
 - Semantic definition: “Describing words”
 - Morphological definition:
@@ -68,20 +68,20 @@ Defined by the morphological features applicable to adjectives: have an adjectiv
   
 #### Comparative (_-er_ or _more_)
 #### Superlative (_-est_ or _most_)
-
+  
 ### Adverbs
 - Semantic definition:
 <details>
   <summary>👆 Click me</summary>
 words that usually modify (limit or restrict the meaning of) verbs <br>
 </details>
-  
+     
 - Morphological definition:
 <details>
   <summary>👆 Click me</summary>
 Defined by the morphological features applicable to adverbs: have an adverb-making morpheme; takes comparative and superlative morphemes <br>
 </details>
-  
+    
 They are almost the same as adjectives morphlogically. How do we further tell them apart?  
   
 - Syntactic feature:
