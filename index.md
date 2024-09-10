@@ -105,11 +105,11 @@ Note: Some words look like adverbs but are not:
   - He ran _towards_ us.
 
 ### Quizzes
-[Quiz: Identifying verbs](https://canvas.iastate.edu/courses/113318/modules/items/6640358)
-[Quiz: Auxiliary and main verbs](https://canvas.iastate.edu/courses/113318/modules/items/6640363)
-[Quiz: Identifying adjectives](https://canvas.iastate.edu/courses/113318/modules/items/6640371)
-[Quiz: Identifying Adverbs](https://canvas.iastate.edu/courses/113318/modules/items/6640385)
-[Quiz: Review of the major word classes](https://canvas.iastate.edu/courses/113318/modules/items/6640388)
+[Quiz: Identifying verbs](https://canvas.iastate.edu/courses/113318/modules/items/6640358)   
+[Quiz: Auxiliary and main verbs](https://canvas.iastate.edu/courses/113318/modules/items/6640363)     
+[Quiz: Identifying adjectives](https://canvas.iastate.edu/courses/113318/modules/items/6640371)   
+[Quiz: Identifying Adverbs](https://canvas.iastate.edu/courses/113318/modules/items/6640385)  
+[Quiz: Review of the major word classes](https://canvas.iastate.edu/courses/113318/modules/items/6640388)  
 
 ## 9/5 Word Classes
 Added resource: [NYT's dialect survey](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)
