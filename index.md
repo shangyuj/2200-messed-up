@@ -20,16 +20,17 @@ What do you think?
   <summary>👆 Click me</summary>
   Defined by meaning as a word that expresses an action, being, or state of being
 </details>
+  
 - Morphological definition
 <details>
   <summary>👆 Click me</summary>
 Defined by the morphological changes only applicable to verbs  <br>
 - Example:  <br>
-    Base form: talk <br>
-    Present tense (third person singular): talks <br>
-    Past tense: talked <br>
-    Past participle: talked <br>
-    -ing form: talking
+---    Base form: talk <br>
+---    Present tense (third person singular): talks <br>
+---    Past tense: talked <br>
+---    Past participle: talked <br>
+---    -ing form: talking
 </details>
 
 
