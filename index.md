@@ -1,5 +1,38 @@
 # English 2200
 
+## 9/10
+### Annoucements
+- Please redo the quizzes until you get them all right.
+- No class this Thursday (9/12)
+- Exam 1 next Thursday (9/19)
+  - Study guide is provided: [Link to Canvas](https://canvas.iastate.edu/courses/113318/pages/exam-1-study-guide)
+  - Sample questions will be provided next Tuesday (9/17)
+ 
+### A debate: Are possessive determiners possessive pronouns?
+What do you think?
+### Verbs, Adjectives, Adverbs
+#### Objectives for this lesson
+- Use morphological and syntactic features to identify the word classes of verbs, adjectives, and adverbs.
+- Distinguish between auxiliaries and main verbs.
+### Verbs
+- Semantic definition
+<details>
+  <summary>👆 Click me</summary>
+  Defined by meaning as a word that expresses an action, being, or state of being
+</details>
+- Morphological definition
+<details>
+  <summary>👆 Click me</summary>
+Defined by the morphological changes only applicable to verbs  <br>
+- Example:  <br>
+    Base form: talk <br>
+    Present tense (third person singular): talks <br>
+    Past tense: talked <br>
+    Past participle: talked <br>
+    -ing form: talking
+</details>
+
+
 ## 9/5 Word Classes
 Added resource: [NYT's dialect survey](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)
 ### Review of Morphology
