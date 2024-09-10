@@ -14,6 +14,7 @@ What do you think?
 #### Objectives for this lesson
 - Use morphological and syntactic features to identify the word classes of verbs, adjectives, and adverbs.
 - Distinguish between auxiliaries and main verbs.
+  
 ### Verbs
 - Semantic definition
 <details>
@@ -71,17 +72,18 @@ Defined by the morphological features applicable to adjectives: have an adjectiv
   
 ### Adverbs
 - Semantic definition:
+     
 <details>
   <summary>👆 Click me</summary>
 words that usually modify (limit or restrict the meaning of) verbs <br>
 </details>
-     
+       
 - Morphological definition:
 <details>
   <summary>👆 Click me</summary>
 Defined by the morphological features applicable to adverbs: have an adverb-making morpheme; takes comparative and superlative morphemes <br>
 </details>
-    
+      
 They are almost the same as adjectives morphlogically. How do we further tell them apart?  
   
 - Syntactic feature:
@@ -89,7 +91,7 @@ They are almost the same as adjectives morphlogically. How do we further tell th
   <summary>👆 Click me</summary>
 Adjectives proceed or follow nouns; adverbs can be (almost) anywhere in the sentence. <br>
 </details>
-     
+       
 #### Different roles for adjectives  
 ![image](https://github.com/user-attachments/assets/fc45e9f1-0428-4ced-952e-7006defb67b5)
 
