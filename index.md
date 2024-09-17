@@ -1,5 +1,34 @@
 # English 2200
 
+## 9/17: Minor Word Classes & Exam Review
+### Objectives for this lesson
+- Identify the word classes of determiners, prepositions, and conjunctions
+- Understand the distinction between definite and indefinite articles, numerals, possessives, quantity words, and demonstratives
+- Differentiate between coordinating, subordinating, and correlative conjunctions
+### Review: Major/Content/Open vs. Minor/Function/Closed word classes
+- Major class words = Content words
+  - Noun (_castle_)
+  - Verb (_decide_)
+  - Adjective (_happy_)
+  - Adverb (_beautifully_)
+      
+- Minor class words = Function words
+  - Pronoun (_their_)
+  - Determiner (_the_)
+  - Auxiliary (_will_)
+  - Preposition (_across_)
+  - Conjunction (_and_)
+  - Particle (break _up_)
+
+### Determiners
+- Signalers of nouns
+- Including:
+  - Articles: (the = definite, a/an = indefinite)
+  - Numerals (one, twelve, first, third, etc.)
+  - Quantities (more, all, another, any, no)
+  - Possessives (his, my, etc. [has to be followed by a noun phrase])
+  - Demonstratives (this, that, these, those [has to be followed by a noun phrase])
+
 ## 9/10
 ### Annoucements
 - Please redo the quizzes until you get them all right.
