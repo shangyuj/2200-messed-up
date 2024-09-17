@@ -5,6 +5,7 @@
 - Identify the word classes of determiners, prepositions, and conjunctions
 - Understand the distinction between definite and indefinite articles, numerals, possessives, quantity words, and demonstratives
 - Differentiate between coordinating, subordinating, and correlative conjunctions
+  
 ### Review: Major/Content/Open vs. Minor/Function/Closed word classes
 - Major class words = Content words
   - Noun (_castle_)
