@@ -121,7 +121,8 @@ Conjunctions connect words, phrases and clauses inside a sentence. They also con
 [Quiz: Conjunctions](https://canvas.iastate.edu/courses/113318/modules/items/6649785)  
   
 ### Exam 1 Review
-Take a look at this [past Exam 1](https://docs.google.com/document/d/1X0PXfwmWRgZuipLDzqtR8X2dVDgvGXp8/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true). 
+Take a look at this [past Exam 1](https://docs.google.com/document/d/1X0PXfwmWRgZuipLDzqtR8X2dVDgvGXp8/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true).  
+- Here is a [version with the answer keys](https://docs.google.com/document/d/1KW42kNB5s7srwg8kHzcJFEJQmqo3rXus/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true)
 
 ## 9/10
 ### Annoucements
