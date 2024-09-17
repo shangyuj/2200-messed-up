@@ -97,13 +97,13 @@ Conjunctions connect words, phrases and clauses inside a sentence. They also con
 - main clause + dependent/subordinate clause
   
 Time: when, whenever, after, as, before, once, since, till, until, now that, while, as long as, as soon as  
-Concession: though, although, even though, if, while  
-Contingency: if, once  
-Condition: if, in case, as long as, unless, provided that  
-Reason: because, since, as long as  
-Result: so that  
-Comparison: as, just as, as if  
-Contrast: while, whereas  
+**Concession**: though, although, even though, if, while  
+**Contingency**: if, once  
+**Condition**: if, in case, as long as, unless, provided that  
+**Reason**: because, since, as long as  
+**Result**: so that  
+**Comparison**: as, just as, as if  
+**Contrast**: while, whereas  
 
 ### Exercise: Prepositions or Subordinating Conjunctions?
 1. __Before__ the show, seniors and students line up outside the box office.
