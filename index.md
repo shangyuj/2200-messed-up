@@ -96,7 +96,7 @@ Conjunctions connect words, phrases and clauses inside a sentence. They also con
 - connects or shows a relationship between “unequal” ideas
 - main clause + dependent/subordinate clause
   
-Time: when, whenever, after, as, before, once, since, till, until, now that, while, as long as, as soon as  
+**Time**: when, whenever, after, as, before, once, since, till, until, now that, while, as long as, as soon as  
 **Concession**: though, although, even though, if, while  
 **Contingency**: if, once  
 **Condition**: if, in case, as long as, unless, provided that  
