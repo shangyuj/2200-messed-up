@@ -114,6 +114,13 @@ Conjunctions connect words, phrases and clauses inside a sentence. They also con
 6. Any student or senior who arrives __after__ that has to pay full price.
 7. __After__ they buy their tickets, students and seniors have along wait __until__ curtain time.
 
+### Quizzes:
+[Quiz: Determiners](https://canvas.iastate.edu/courses/113318/modules/items/6649782)  
+[Quiz: Prepositions](https://canvas.iastate.edu/courses/113318/modules/items/6649784)  
+[Quiz: Conjunctions](https://canvas.iastate.edu/courses/113318/modules/items/6649785)  
+  
+### Exam 1 Review
+Take a look at this [past Exam 1](https://docs.google.com/document/d/1X0PXfwmWRgZuipLDzqtR8X2dVDgvGXp8/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true). 
 
 ## 9/10
 ### Annoucements
