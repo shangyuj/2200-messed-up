@@ -109,7 +109,7 @@ Conjunctions connect words, phrases and clauses inside a sentence. They also con
 ### Exercise: Prepositions or Subordinating Conjunctions?
 1. __Before__ the show, seniors and students line up outside the box office.
 2. __Since__ some orchestra seats remain unsold at most performances, the opera company sells a small number of them to seniors and students for a low price.
-3. Rush rickets have been offered for sale __since__ the beginning of the year, but not everyone knows about them.
+3. Rush tickets have been offered for sale __since__ the beginning of the year, but not everyone knows about them.
 4. Ticket sellers often tell older and younger people about the rush __before__ they sell them tickets at full price.
 5. Rush tickets go on sale 90 minutes __before__ the performance, and sales continue __until__ all the rush tickets have been sold.
 6. Any student or senior who arrives __after__ that has to pay full price.
