@@ -208,7 +208,7 @@ words that usually modify (limit or restrict the meaning of) verbs <br>
 Defined by the morphological features applicable to adverbs: have an adverb-making morpheme; takes comparative and superlative morphemes <br>
 </details>
       
-They are almost the same as adjectives morphlogically. How do we further tell them apart?  
+They are almost the same as adjectives morphologically. How do we further tell them apart?  
   
 - Syntactic feature:
 <details>
