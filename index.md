@@ -5,7 +5,7 @@
 At 2:20pm, your instructor will hand the 6-page exam to you. Please answer the questions on the paper. By 3:25pm, please hand in the exam with your name written on the first page.
   
 ### If you want to do this exam digitally...
-At 2:20pm, please click [this link](https://docs.google.com/document/d/1fwPtMG6ziB0jcx0WS0FoStBsiA4WrGD9c1Wyg8ZWFEo/copy) to make a copy of the Google Doc and answer the questions on the Google Doc. By 3:25pm, on the Google Doc please click "File" --> "Download" --> "PDF Document" and submit the PDF file. 
+At 2:20pm, please click [this link](https://docs.google.com/document/d/1fwPtMG6ziB0jcx0WS0FoStBsiA4WrGD9c1Wyg8ZWFEo/copy) to make a copy of the Google Doc and answer the questions on the Google Doc. By 3:25pm, on the Google Doc please click "File" --> "Download" --> "PDF Document" and submit the PDF file [here](https://canvas.iastate.edu/courses/113318/modules/items/6653003). 
 
 ## 9/17: Minor Word Classes & Exam Review
 ### Objectives for this lesson
