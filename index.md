@@ -1,5 +1,62 @@
 # English 2200
 
+## 9/24 Exam 1Review, Phrases, Noun Phrase
+### We will review the exam together
+Please ask questions!
+### Phrases
+What are phrases?   
+What makes a phrase?    
+What are the components of a phrase?    
+### Noun Phrases
+- Nouns: defined in terms of meaning
+  - Person, place, thing
+- Nouns: defined by their form
+  - Can be made plural and possessive
+- How about in a phrase?
+  - Buggy	died
+  - The	bug	died.
+  - The	brown	bug	died.
+  - The	brown	bug	on the floow died.
+
+**Noun phrases are made of a head noun and others.**  
+
+- Which one is the head noun?
+1. Life
+2. Back pain
+3. Fires in hospitals
+4. Absence from work
+5. Bad attitude in children
+6. Firewall security breaches
+7. Itchy skin disease in the cat
+8. Failure in metallic structures
+9. Home owner insurance claims
+10. A computer problem in my residence hall
+
+### Determiners
+I saw *the* boy on *the* bus.
+
+### Multiple determiners
+*his first* love  
+*few other* books
+
+### Pre-modifiers
+- Adjectives
+- Nouns
+- Phrases
+  - the best solution -- Adjective
+  - the really old car -- Phrases
+  - the church warden -- Nouns
+
+### Post-modifiers
+- Prepositional phrases
+  - the beginning of the end
+- Adjective phrases
+  - girls fond of chocolate
+- Non-finite clauses
+  - the war to end all wars
+- Relative clauses
+  - the parcel that went astray
+
 ## 9/19 Exam 1
 ### If you want to do this exam on paper...
 At 2:20pm, your instructor will hand the 6-page exam to you. Please answer the questions on the paper. By 3:25pm, please hand in the exam with your name written on the first page.
