@@ -1,6 +1,6 @@
 # English 2200
 
-## 9/24 Exam 1Review, Phrases, Noun Phrase
+## 9/24 Exam 1 Review, Phrases, Noun Phrases
 ### We will review the exam together
 Please ask questions!
 ### Phrases
@@ -16,7 +16,7 @@ What are the components of a phrase?
   - Buggy	died
   - The	bug	died.
   - The	brown	bug	died.
-  - The	brown	bug	on the floow died.
+  - The	brown	bug	on the floor died.
 
 **Noun phrases are made of a head noun and others.**  
 
