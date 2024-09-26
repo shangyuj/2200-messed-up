@@ -1,5 +1,63 @@
 # English 2200
 
+## 9/26 Phrases: continued
+
+### Noun phrases
+**optional determiners + optional pre-modifiers + head noun + optional post-modifiers**
+#### Possible pre-modifiers
+- Adjectives
+- Nouns
+- Phrases
+
+#### Possible post-modifiers
+- Prepositional phrases
+- Adjective phrases
+- Non-finite clauses
+- Relative clauses
+
+### Prepositional phrases
+**preposition + noun phrase**
+- Is this *about my application*?
+- _In this current study_, we are seeking smokers.
+- I’ve lived here _since 2013_.
+   
+Not to be confused with the infinitive (to + verb)
+- I went to the store.
+  - "to" as a preposition
+- I went to buy groceries.
+  - "to”" as an infinitive marker
+
+#### Multiple embedded prepositional phrases
+e.g.: She	opened the	drawer in	the	cupboard near	the	antique	table in	the	middle of	the	room.
+
+### Adjective phrases
+**optional pre-modifiers + adjective + optional post-modifiers**  
+- adjective
+  - She was _popular_.
+- Pre-modified by adverbs
+  - Jane was _really tired_ yesterday.
+- Post-modified by adverbs
+  - He was not _strong enough_.
+  
+### Adverb phrases
+**optional pre-modifiers + head adverb + optional post-modifiers**
+
+- Adverb
+  - They sing _beautifully_.
+- Pre-modified by adverbs
+  - Bill walked _very slowly_.
+- Post-modified by prepositional phrases
+  - _Unfortunately for Jack_, the treatment came too late.
+
+### Verb phrases
+**optional auxiliaries + optional negation + optional pre-modifiers + head verb + optional post-modifier**
+
+
+### Quizzes
+[Quiz: Identifying noun phrases](https://canvas.iastate.edu/courses/113318/modules/items/6659000)
+[Quiz: Parts of noun phrases](https://canvas.iastate.edu/courses/113318/modules/items/6659002)
+
+
 ## 9/24 Exam 1 Review, Phrases, Noun Phrases
 ### We will review the exam together
 Please ask questions!
