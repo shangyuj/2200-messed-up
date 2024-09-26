@@ -55,9 +55,9 @@ e.g.: She	opened the	drawer in	the	cupboard near	the	antique	table in	the	middle
 
 ### Quizzes
 [Quiz: Identifying noun phrases](https://canvas.iastate.edu/courses/113318/modules/items/6659000)  
-[Quiz: Parts of noun phrases](https://canvas.iastate.edu/courses/113318/modules/items/6659002)
-[Quiz: Identifying prepositional phrases](https://canvas.iastate.edu/courses/113318/modules/items/6663097)
-[Quiz: Adjective, adverb, or prepositional phrase](https://canvas.iastate.edu/courses/113318/modules/items/6663098)
+[Quiz: Parts of noun phrases](https://canvas.iastate.edu/courses/113318/modules/items/6659002)  
+[Quiz: Identifying prepositional phrases](https://canvas.iastate.edu/courses/113318/modules/items/6663097)  
+[Quiz: Adjective, adverb, or prepositional phrase](https://canvas.iastate.edu/courses/113318/modules/items/6663098)  
 
 ### Homework
 Reading: Introducing to Sentence Diagramming
