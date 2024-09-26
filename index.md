@@ -60,7 +60,9 @@ e.g.: She	opened the	drawer in	the	cupboard near	the	antique	table in	the	middle
 [Quiz: Adjective, adverb, or prepositional phrase](https://canvas.iastate.edu/courses/113318/modules/items/6663098)  
 
 ### Homework
-Reading: [Introducing to Sentence Diagramming](https://drive.google.com/file/d/18wTYf5A6KoJieOD7TlqrxRSuGoYsQGqy/view?usp=sharing)
+Reading: 
+- [Diagramming Supplement Part 1](https://drive.google.com/file/d/18wTYf5A6KoJieOD7TlqrxRSuGoYsQGqy/view?usp=sharing)
+- [Diagramming Supplement Part 2](https://drive.google.com/file/d/1q193VOVLU2TfnuGAewf7VHAzNqCXttnR/view?usp=sharing)
 
 ## 9/24 Exam 1 Review, Phrases, Noun Phrases
 ### We will review the exam together
