@@ -30,7 +30,15 @@
 #### Verb Valency Labels (Thursday content)
 ![image](https://github.com/user-attachments/assets/e3ea4508-d231-4b00-bd50-cdccb1a9cb70)
 
-### Typical Diagrams of Noun Phrases, Adjective Phrases, Adverb Phrases, and Prepositional Phrases
+### Exercise: Exercise 1: Identifying Phrases / Segmenting Sentences into Constituents
+![image](https://github.com/user-attachments/assets/750d1895-a511-4291-8297-2a6a13ce2b99)
+![image](https://github.com/user-attachments/assets/f3530d29-a4f4-41ef-92cd-ebd018ffa933)
+![image](https://github.com/user-attachments/assets/a71ff009-8156-4f28-8474-c11ecf60c1fc)
+![image](https://github.com/user-attachments/assets/c929e54f-edd2-4afe-81e6-f2e688879475)
+![image](https://github.com/user-attachments/assets/87e0aeea-1553-4883-a078-3bac758e7713)
+
+
+### Diagrams of Noun Phrases, Adjective Phrases, Adverb Phrases, and Prepositional Phrases
 See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.google.com/file/d/18wTYf5A6KoJieOD7TlqrxRSuGoYsQGqy/view?usp=sharing).
 #### Noun Phrase
 ##### Simple noun phrases with noun and pronoun heads
@@ -45,6 +53,19 @@ See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.googl
 ![image](https://github.com/user-attachments/assets/b418ad15-2efa-4b36-8fb5-18504eed14de)
 ![image](https://github.com/user-attachments/assets/e3400089-e64c-40b2-9b1c-a5a838cbfe6b)
 ![image](https://github.com/user-attachments/assets/54ff4eac-a649-4cf8-9fc3-639a657dbd94)
+
+#### Exercise 2: Diagramming Noun Phrases
+![image](https://github.com/user-attachments/assets/e1770bde-5d6c-4fc4-9391-20425144fb72)
+![image](https://github.com/user-attachments/assets/c88b35c4-c2e6-4e55-971f-27a7b0b91367)
+![image](https://github.com/user-attachments/assets/d63c9871-2699-48c6-a7bc-775487541881)
+![image](https://github.com/user-attachments/assets/1ca64d51-d33d-47e0-9cf0-2aa63af22c3f)
+![image](https://github.com/user-attachments/assets/1be8bd2d-ba59-412c-986c-a07c770f220e)
+
+##### Draw the diagram
+1. my dying house plants  
+2. these updated course descriptions  
+3. three fairly positive outcomes  
+
 #### Adjective Phrase
 ##### Simple adjective phrase
 ![image](https://github.com/user-attachments/assets/77c41217-cc97-4aa7-adec-96cb1196032d)
@@ -76,6 +97,22 @@ See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.googl
 ##### Multiple embedded prepositional phrases
 ![image](https://github.com/user-attachments/assets/60c23897-0155-47c7-9d90-ce3f4d819056)
 
+#### Exercise 3: Diagramming Adjective Phrases and Adverb Phrases
+![image](https://github.com/user-attachments/assets/b8ba9fa4-cfb5-4d3e-8529-da38385af3aa)
+![image](https://github.com/user-attachments/assets/33beed8a-2112-433f-bebd-bf0819792388)
+![image](https://github.com/user-attachments/assets/d37e1ff6-3f14-4ad8-bd8b-4b78eae1bd94)
+##### Draw the diagram
+1. simply not true
+2. very intuitive
+3. not too enthusiastically
+
+#### Exercise 4: Diagramming Prepositional Phrases
+![image](https://github.com/user-attachments/assets/3f88034c-b630-4d75-86b8-3c79b3f84a4d)
+![image](https://github.com/user-attachments/assets/601efb5f-44dd-4af6-bbd7-516360fef693)
+![image](https://github.com/user-attachments/assets/9b83081e-84db-4b12-b693-863946ddb2bc)
+##### Draw the diagram
+1. beyond our wildest dreams
+2. besides all the exciting thrill rides
 
 ## 9/26 Phrases: continued
 
