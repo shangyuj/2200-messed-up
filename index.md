@@ -89,13 +89,6 @@ See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.googl
 ![image](https://github.com/user-attachments/assets/7dbd92cb-2011-46ee-9438-45af8de8e6bc)
 ##### Adverb phrase with prepositional phrase complement
 ![image](https://github.com/user-attachments/assets/f0e4b3d6-91ef-42d3-bede-41cbdfcfce64)
-#### Prepositional Phrases
-##### Prepositional phrase with simple preposition
-![image](https://github.com/user-attachments/assets/97ea4135-ecd9-4f70-aebc-05c64c7265f9)
-##### Prepositional phrase with a complex preposition (i.e., a multi-word preposition)
-![image](https://github.com/user-attachments/assets/827bc4fa-2eee-46ea-ab90-e21b1fa6587f)
-##### Multiple embedded prepositional phrases
-![image](https://github.com/user-attachments/assets/60c23897-0155-47c7-9d90-ce3f4d819056)
 
 #### Exercise 3: Diagramming Adjective Phrases and Adverb Phrases
 ![image](https://github.com/user-attachments/assets/b8ba9fa4-cfb5-4d3e-8529-da38385af3aa)
@@ -105,6 +98,14 @@ See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.googl
 1. simply not true
 2. very intuitive
 3. not too enthusiastically
+
+#### Prepositional Phrases
+##### Prepositional phrase with simple preposition
+![image](https://github.com/user-attachments/assets/97ea4135-ecd9-4f70-aebc-05c64c7265f9)
+##### Prepositional phrase with a complex preposition (i.e., a multi-word preposition)
+![image](https://github.com/user-attachments/assets/827bc4fa-2eee-46ea-ab90-e21b1fa6587f)
+##### Multiple embedded prepositional phrases
+![image](https://github.com/user-attachments/assets/60c23897-0155-47c7-9d90-ce3f4d819056)
 
 #### Exercise 4: Diagramming Prepositional Phrases
 ![image](https://github.com/user-attachments/assets/3f88034c-b630-4d75-86b8-3c79b3f84a4d)
