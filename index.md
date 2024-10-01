@@ -1,6 +1,12 @@
 # English 2200
 
 ## 10/1 Inro to Tree Diagrams
+### Announcements
+Major Assignment 1: due October 15 (next next Tuesday)  
+Exam 2 (Midterm Exam): October 17 (next next Thursday)
+- Major Assignment 1 works as a preview of Midterm Exam.
+
+
 ### What is in a diagram?  
 ![image](https://github.com/user-attachments/assets/fb2ec639-1e51-4fe9-90c8-ac62088d137e)  
 #### Word
@@ -23,6 +29,8 @@
 
 #### Verb Valency Labels (Thursday content)
 ![image](https://github.com/user-attachments/assets/e3ea4508-d231-4b00-bd50-cdccb1a9cb70)
+
+###
 
 ## 9/26 Phrases: continued
 
