@@ -2,9 +2,9 @@
 
 ## 10/1 Inro to Tree Diagrams
 ### Announcements
-Major Assignment 1: due October 15 (next next Tuesday)  
-Exam 2 (Midterm Exam): October 17 (next next Thursday)
-- Major Assignment 1 works as a preview of Midterm Exam.
+- Major Assignment 1: due October 15 (next next Tuesday)  
+- Exam 2 (Midterm Exam): October 17 (next next Thursday)
+   - Major Assignment 1 works as a preview of Midterm Exam.
 
 
 ### What is in a diagram?  
@@ -30,7 +30,52 @@ Exam 2 (Midterm Exam): October 17 (next next Thursday)
 #### Verb Valency Labels (Thursday content)
 ![image](https://github.com/user-attachments/assets/e3ea4508-d231-4b00-bd50-cdccb1a9cb70)
 
-###
+### Typical Diagrams of Noun Phrases, Adjective Phrases, Adverb Phrases, and Prepositional Phrases
+See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.google.com/file/d/18wTYf5A6KoJieOD7TlqrxRSuGoYsQGqy/view?usp=sharing).
+#### Noun Phrase
+##### Simple noun phrases with noun and pronoun heads
+![image](https://github.com/user-attachments/assets/3e438cfe-0b3b-4602-9dc2-e32da85bf84c)
+##### Noun phrases with multiple determiners
+![image](https://github.com/user-attachments/assets/08cec351-6b39-4963-abc2-225f79ac2e42)
+##### Noun phrases with pre-modifiers (including single, multiple, and phrasal modifiers)
+![image](https://github.com/user-attachments/assets/c399caf6-88d7-4941-a672-d51a2fbc8e93)
+![image](https://github.com/user-attachments/assets/95866762-2908-436a-85a9-d0dbfea55c87)
+##### Noun phrases with post-modifiers
+![image](https://github.com/user-attachments/assets/6f207158-96f2-4075-b52d-5fc6c8f3e6c5)
+![image](https://github.com/user-attachments/assets/b418ad15-2efa-4b36-8fb5-18504eed14de)
+![image](https://github.com/user-attachments/assets/e3400089-e64c-40b2-9b1c-a5a838cbfe6b)
+![image](https://github.com/user-attachments/assets/54ff4eac-a649-4cf8-9fc3-639a657dbd94)
+#### Adjective Phrase
+##### Simple adjective phrase
+![image](https://github.com/user-attachments/assets/77c41217-cc97-4aa7-adec-96cb1196032d)
+##### Adjective phrase with a pre-modifier (as a clause element)
+![image](https://github.com/user-attachments/assets/61bef12a-a2b8-45d5-af03-85bc08f72b22)
+##### Adjective phrase with pre-modifier (as a modifier within a phrase)
+![image](https://github.com/user-attachments/assets/54490bb3-9a02-46fe-9bce-501e5f945e37)
+##### Adjective phrase with a post-modifier
+![image](https://github.com/user-attachments/assets/eb4f4a68-a886-4816-9a87-d1145f8cce5c)
+##### Adjective phrase with a phrasal or clausal complement
+![image](https://github.com/user-attachments/assets/99950da2-83fa-4815-b09b-562d45c3ffe3)
+![image](https://github.com/user-attachments/assets/2c9eabef-3fe8-43ed-8932-7f0669fd31fa)
+![image](https://github.com/user-attachments/assets/930fbd5e-8af1-4311-82c5-6ed52e34bcb9)
+![image](https://github.com/user-attachments/assets/085525f0-e1c2-404c-8308-bcd18b6a90dd)
+#### Adverb Phrases
+##### Simple adverb phrase
+![image](https://github.com/user-attachments/assets/48de0a43-1389-4b8e-91ba-0d0d154d2a3f)
+##### Adverb phrase with adverb pre-modifier
+![image](https://github.com/user-attachments/assets/bce64902-e1b9-4952-ba6c-4a5773a311e2)
+![image](https://github.com/user-attachments/assets/d38b66f0-3745-40cd-ab00-7e41d08f88f0)
+![image](https://github.com/user-attachments/assets/7dbd92cb-2011-46ee-9438-45af8de8e6bc)
+##### Adverb phrase with prepositional phrase complement
+![image](https://github.com/user-attachments/assets/f0e4b3d6-91ef-42d3-bede-41cbdfcfce64)
+#### Prepositional Phrases
+##### Prepositional phrase with simple preposition
+![image](https://github.com/user-attachments/assets/97ea4135-ecd9-4f70-aebc-05c64c7265f9)
+##### Prepositional phrase with a complex preposition (i.e., a multi-word preposition)
+![image](https://github.com/user-attachments/assets/827bc4fa-2eee-46ea-ab90-e21b1fa6587f)
+##### Multiple embedded prepositional phrases
+![image](https://github.com/user-attachments/assets/60c23897-0155-47c7-9d90-ce3f4d819056)
+
 
 ## 9/26 Phrases: continued
 
