@@ -6,7 +6,6 @@
 - Exam 2 (Midterm Exam): October 17 (next next Thursday)
    - Major Assignment 1 works as a preview of Midterm Exam.
 
-
 ### What is in a diagram?  
 ![image](https://github.com/user-attachments/assets/fb2ec639-1e51-4fe9-90c8-ac62088d137e)  
 #### Word
