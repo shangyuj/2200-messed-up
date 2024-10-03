@@ -14,6 +14,12 @@ What makes modals different from general auxiliaries?
 - grammatical tense
 - semantics
 
+### modality
+
+### tense
+
+### aspect
+
 ## 10/1 Intro to Tree Diagrams
 ### Announcements
 - Major Assignment 1: due October 15 (next next Tuesday)  
