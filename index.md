@@ -1,6 +1,12 @@
 # English 2200
 
-## 10/1 Inro to Tree Diagrams
+## 10/3 Verb phrases
+### The Verb-Auxiliary-Modal hierarchy
+- Verb
+   - Auxiliary
+      - Modal
+
+## 10/1 Intro to Tree Diagrams
 ### Announcements
 - Major Assignment 1: due October 15 (next next Tuesday)  
 - Exam 2 (Midterm Exam): October 17 (next next Thursday)
