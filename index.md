@@ -1,10 +1,18 @@
 # English 2200
 
 ## 10/3 Verb phrases
+
+### Long verb phrase (LVP) vs. verb phrase (VP) vs. Main Verb (MV)
+The LVP consists of the verb phrase plus all other constituents that are required by the main verb.
+
 ### The Verb-Auxiliary-Modal hierarchy
 - Verb
    - Auxiliary
       - Modal
+  
+What makes modals different from general auxiliaries?
+- grammatical tense
+- semantics
 
 ## 10/1 Intro to Tree Diagrams
 ### Announcements
