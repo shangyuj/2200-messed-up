@@ -1,6 +1,6 @@
 # English 2200
 
-## 10/3 Verb phrases
+## 10/3 Verb phrases: Tense/Modality, Aspect
 
 ### Long verb phrase (LVP) vs. verb phrase (VP) vs. Main Verb (MV)
 The LVP consists of the verb phrase plus all other constituents that are required by the main verb.
@@ -13,17 +13,37 @@ When diagramming verb phrases, we mark tense/modality, aspect, voice, and valenc
       - Modal verbs
 
 Core modal verbs: _can_, _could_, _may_, _might_, _shall_, _should_, _will_, _would_, _must_
-Semi-modal or phrasal modal verbs: _had better_, _have to_, _have got to_, _need to_, _ought to_, _be supposed to_, _be going to_, _used to_
+Semi-modal (aka phrasal modal verbs): _had better_, _have to_, _have got to_, _need to_, _ought to_, _be supposed to_, _be going to_, _used to_
 
 What makes modals different from general auxiliaries?
 - grammatical tense: modal verbs have no tense
 - semantics: modal verbs express necessity or possibility
 
-### modality
-
-### tense
+### tense/modality
+There are three possibilities:
+- present tense (pres)
+- past tense (past)
+- modal, no grammatical tense (mod (NT))
+  
+**Note: We mark tense/modality and aspect on the VP node.**
+  
+#### simple present tense (pres)
+![image](https://github.com/user-attachments/assets/d1ca4b16-5dad-4bc4-b550-b6ba9cf90dc7)
+![image](https://github.com/user-attachments/assets/4d132b5d-9f95-4f31-b0d2-a7e9ab4c7283)
+![image](https://github.com/user-attachments/assets/d31049d2-9064-48dc-94f3-923359a2b42d)
+#### simple past tense (past)
+![image](https://github.com/user-attachments/assets/13eec71c-ad3e-4da2-bcc2-95951bccb2b3)
+![image](https://github.com/user-attachments/assets/6311496d-0895-443b-89e6-a894e86532cb)
+#### Core modal verbs with simple aspect (no grammatical tense)
+Core modal verbs: _can_, _could_, _may_, _might_, _shall_, _should_, _will_, _would_, _must_  
+![image](https://github.com/user-attachments/assets/2ed342a5-c58a-4813-9fd2-89d4987877b3)
+#### Semi-modal verbs (aka phrasal modals; no grammatical tense) 
+Semi-modal (aka phrasal modal verbs): _had better_, _have to_, _have got to_, _need to_, _ought to_, _be supposed to_, _be going to_, _used to_  
+![image](https://github.com/user-attachments/assets/81cf1733-2103-4cb4-9ef1-dee1c1219026)
+![image](https://github.com/user-attachments/assets/b4816a85-1e16-4df0-884d-25d82cb71302)
 
 ### aspect
+
 
 ## 10/1 Intro to Tree Diagrams
 ### Announcements
