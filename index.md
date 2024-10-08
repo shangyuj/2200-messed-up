@@ -5,14 +5,19 @@
 ### Long verb phrase (LVP) vs. verb phrase (VP) vs. Main Verb (MV)
 The LVP consists of the verb phrase plus all other constituents that are required by the main verb.
 
+When diagramming verb phrases, we mark tense/modality, aspect, voice, and valency. Today we learn tense, modality, and aspect. Assignment 1 and Midterm Exam will not ask you to mark voice or valency. In the following examples, I provided the valency labels for some examples, but other times we will use an empty placeholder (MV: ____) in the diagram to remind you of where the valency information will go.
+
 ### The Verb-Auxiliary-Modal hierarchy
-- Verb
-   - Auxiliary
-      - Modal
-  
+- Verbs
+   - Auxiliary verbs
+      - Modal verbs
+
+Core modal verbs: _can_, _could_, _may_, _might_, _shall_, _should_, _will_, _would_, _must_
+Semi-modal or phrasal modal verbs: _had better_, _have to_, _have got to_, _need to_, _ought to_, _be supposed to_, _be going to_, _used to_
+
 What makes modals different from general auxiliaries?
-- grammatical tense
-- semantics
+- grammatical tense: modal verbs have no tense
+- semantics: modal verbs express necessity or possibility
 
 ### modality
 
