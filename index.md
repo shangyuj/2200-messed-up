@@ -67,6 +67,9 @@ Perfect, progressive, and perfect progressive aspect
 #### Modal + perfect progressive aspect
 ![image](https://github.com/user-attachments/assets/3ba13690-b204-443c-b030-f54d3d67c0c0)
 
+### Exercise
+See page 16 of Exercise: Diagramming Phrases.pdf
+
 ### Modifiers within verb phrases
 #### Single-word modifier within the VP
 ![image](https://github.com/user-attachments/assets/ebd369ba-cbcb-442b-85d6-cfe6d57c3bf5)
@@ -86,6 +89,8 @@ If there is an auxiliary verb, the negator not is added after the first auxiliar
 If there are no auxiliary verbs and the main verb is not BE, then add a dummy auxiliary DO and place the negator not after the newly added auxiliary verb.  
 ![image](https://github.com/user-attachments/assets/6c5d07a0-11d6-4cb3-93e4-be758969bdb2)
 
+### Exercise
+See page 16 of Exercise: Diagramming Phrases.pdf
 
 ## 10/1 Intro to Tree Diagrams
 ### Announcements
