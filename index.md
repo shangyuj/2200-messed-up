@@ -2,6 +2,10 @@
 
 ## 10/3 Verb phrases: Tense/Modality, Aspect
 
+### Announcement
+- Major Assignment 1 is posted on Canvas. It is due next Tuesday.
+- Midterm Exam is next Thursday. It's open-book!
+
 ### Long verb phrase (LVP) vs. verb phrase (VP) vs. Main Verb (MV)
 The LVP consists of the verb phrase plus all other constituents that are required by the main verb.
 
