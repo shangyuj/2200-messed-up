@@ -9,7 +9,7 @@
 ### Long verb phrase (LVP) vs. verb phrase (VP) vs. Main Verb (MV)
 The LVP consists of the verb phrase plus all other constituents that are required by the main verb.
 
-When diagramming verb phrases, we mark tense/modality, aspect, voice, and valency. Today we learn tense, modality, and aspect. Assignment 1 and Midterm Exam will not ask you to mark voice or valency. In the following examples, I provided the valency labels for some examples, but other times we will use an empty placeholder (MV: ______) in the diagram to remind you of where the valency information will go.
+When diagramming verb phrases, we mark tense/modality, aspect, voice, and valency. Today we learn tense, modality, and aspect. Assignment 1 and Midterm Exam will not ask you to mark voice or valency. In the following examples, I provided the valency labels for some examples, but other times we will use an empty placeholder (MV: _____________) in the diagram to remind you of where the valency information will go.
 
 ### The Verb-Auxiliary-Modal hierarchy
 - Verbs
