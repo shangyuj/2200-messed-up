@@ -75,7 +75,7 @@ Perfect, progressive, and perfect progressive aspect
 ![image](https://github.com/user-attachments/assets/3ba13690-b204-443c-b030-f54d3d67c0c0)
 
 ### Exercise
-See page 16 of Exercise: Diagramming Phrases.pdf
+See page 16 of [Exercise: Diagramming Phrases.pdf](https://canvas.iastate.edu/courses/113318/modules/items/6671862)
 
 ### Modifiers within verb phrases
 #### Single-word modifier within the VP
@@ -97,7 +97,7 @@ If there are no auxiliary verbs and the main verb is not BE, then add a dummy au
 ![image](https://github.com/user-attachments/assets/6c5d07a0-11d6-4cb3-93e4-be758969bdb2)
 
 ### Exercise
-See page 16 of Exercise: Diagramming Phrases.pdf
+See page 16 of [Exercise: Diagramming Phrases.pdf](https://canvas.iastate.edu/courses/113318/modules/items/6671862)
 
 ## 10/1 Intro to Tree Diagrams
 ### Announcements
