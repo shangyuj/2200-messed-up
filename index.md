@@ -52,6 +52,7 @@ Perfect, progressive, and perfect progressive aspect
    - HAVE + ed-participle → perfect aspect
    - BE + ing-participle → progressive aspect
    - HAVE + been + ing-participle → perfect progressive aspect
+   - otherwise: simple aspect (unmarked)
  
   
 #### Present tense + perfect aspect
