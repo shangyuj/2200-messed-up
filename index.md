@@ -1,6 +1,55 @@
 # English 2200
 
-## 10/3 Verb phrases: Tense/Modality, Aspect
+## 10/10 Syntactic Functions: Complements
+
+#### **The General Concept of Complements**
+- **Definition**: A complement is a word or group of words necessary to complete the meaning of a sentence. Without a complement, the sentence is incomplete or lacks the necessary information.
+  - Complements differ from modifiers, which are optional and add extra information.
+  - Complements are essential because they clarify the action or subject of a sentence, allowing sentences to fully convey their intended meaning.
+
+#### **Adjective Complements**
+- **Definition**: An adjective complement is a clause or phrase that follows an adjective and provides additional information to complete its meaning.
+- **Examples**:
+  - “She is afraid **to speak in public**.” ('To speak in public' is an adjective complement that completes the meaning of 'afraid.')
+  - “They are eager **for the meeting to start**.” ('For the meeting to start' complements the adjective 'eager.')
+  
+- **Types of Adjective Complements**:
+  - **Infinitive Phrases**:
+    - E.g., "He is happy **to help**."
+  - **Prepositional Phrases**:
+    - E.g., "We were delighted **with the results**."
+  - **That-clauses**:
+    - E.g., "I am certain **that she will arrive on time**."
+  
+Find the adjective complement in Major Assignment 1.
+
+#### **Subject Complements**
+- **Definition**: A subject complement follows a **linking verb** (such as 'to be', 'seem', 'become') and provides more information about the subject of the sentence.
+- **Examples**:
+  - “The weather is **cold**.” ('Cold' complements the subject 'The weather.')
+  - “She became **a teacher**.” ('A teacher' is the subject complement providing information about 'She.')
+
+- **Types**:
+  - **Predicate Nominatives**: Rename or identify the subject.
+    - E.g., "My best friend is **a doctor**."
+  - **Predicate Adjectives**: Describe the subject.
+    - E.g., "The sky looks **blue**."
+
+#### **Object Complements**
+- **Definition**: An object complement provides additional information about the **direct object** of a verb. It renames or describes the object.
+- **Examples**:
+  - “They made him **captain**.” ('Captain' complements the object 'him.')
+  - “We found the movie **boring**.” ('Boring' complements the object 'the movie.')
+
+- **Types**:
+  - **Nouns**: Serve as object complements to rename or describe the object.
+    - E.g., "They called her **a genius**."
+  - **Adjectives**: Serve as object complements to describe the object.
+    - E.g., "The teacher found the paper **interesting**."
+
+
+
+## 10/8 Verb phrases: Tense/Modality, Aspect
 
 ### Announcement
 - [Major Assignment 1](https://canvas.iastate.edu/courses/113318/assignments/2385757) is posted on Canvas. It is due next Tuesday.
