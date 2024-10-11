@@ -55,7 +55,7 @@ Find the adjective complement in Major Assignment 1.
   - “She placed the book **on the table**.” ('the table' is the object of the preposition 'on'.)
   - “We talked **about the project**.” ('the project' is the object of the preposition 'about'.)
 
-### Post-Nominal Modifier (PNM)**
+### **Post-Nominal Modifier (PNM)**
 - A post-nominal modifier (PNM) is a phrase that comes **after** a noun to provide more information about it. PNMs often include prepositional phrases, relative clauses, and appositive noun phrases.
   
 - **Examples (Types of PNMs)**:
