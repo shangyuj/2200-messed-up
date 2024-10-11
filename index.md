@@ -62,6 +62,9 @@ Find the adjective complement in Major Assignment 1.
   - **Prepositional Phrase**: “The book **on the table** is mine.” ('On the table' is a PNM that modifies 'book.')
   - **Relative Clause**: “The student **who studied hard** passed the exam.” ('Who studied hard' is a PNM modifying 'student.')
   - **Appositive Noun Phrase**: “My brother, **a talented musician**, is performing tonight.” ('A talented musician' is a PNM that provides additional information about 'my brother.')
+
+### Homework
+Complete [Major Assignment 1](https://canvas.iastate.edu/courses/113318/assignments/2385757).
   
 ## 10/8 Verb phrases: Tense/Modality, Aspect
 
