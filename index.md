@@ -1,14 +1,15 @@
 # English 2200
 
-## 10/10 Syntactic Functions: Complements
+## 10/10 adjCompl (adjective complement); ObjP (object of a preposition); PNM (post-nominal modifier)
 
-#### **The General Concept of Complements**
-- **Definition**: A complement is a word or group of words necessary to complete the meaning of a sentence. Without a complement, the sentence is incomplete or lacks the necessary information.
+Adjective complement, object of a preposition, and post-nominal modifier are three more concepts you need to understand to be able to complete Major Assignment 1 and Midterm Exam. Subject complements and object complements are also discussed below but they won't be in Major Assignment 1 or Midterm Exam.
+  
+### **Complements**
+A complement is a word or group of words necessary to complete the meaning of a sentence. Without a complement, the sentence is incomplete or lacks the necessary information.
   - Complements differ from modifiers, which are optional and add extra information.
-  - Complements are essential because they clarify the action or subject of a sentence, allowing sentences to fully convey their intended meaning.
 
-#### **Adjective Complements**
-- **Definition**: An adjective complement is a clause or phrase that follows an adjective and provides additional information to complete its meaning.
+#### **Adjective (adjCompl)**
+- **Definition**: An adjective complement is a clause or phrase that follows an adjective and provides information to complete its meaning.
 - **Examples**:
   - “She is afraid **to speak in public**.” ('To speak in public' is an adjective complement that completes the meaning of 'afraid.')
   - “They are eager **for the meeting to start**.” ('For the meeting to start' complements the adjective 'eager.')
@@ -23,7 +24,7 @@
   
 Find the adjective complement in Major Assignment 1.
 
-#### **Subject Complements**
+#### **Subject Complements** (not in Major Assignment 1 or Midterm Exam)
 - **Definition**: A subject complement follows a **linking verb** (such as 'to be', 'seem', 'become') and provides more information about the subject of the sentence.
 - **Examples**:
   - “The weather is **cold**.” ('Cold' complements the subject 'The weather.')
@@ -35,7 +36,7 @@ Find the adjective complement in Major Assignment 1.
   - **Predicate Adjectives**: Describe the subject.
     - E.g., "The sky looks **blue**."
 
-#### **Object Complements**
+#### **Object Complements**  (not in Major Assignment 1 or Midterm Exam)
 - **Definition**: An object complement provides additional information about the **direct object** of a verb. It renames or describes the object.
 - **Examples**:
   - “They made him **captain**.” ('Captain' complements the object 'him.')
@@ -47,8 +48,21 @@ Find the adjective complement in Major Assignment 1.
   - **Adjectives**: Serve as object complements to describe the object.
     - E.g., "The teacher found the paper **interesting**."
 
+### **Object of a Preposition (ObjP)**
+- The object of a preposition (ObjP) is the noun phrase that follows a preposition and completes the prepositional phrase.
+  
+- **Examples**:
+  - “She placed the book **on the table**.” ('the table' is the object of the preposition 'on'.)
+  - “We talked **about the project**.” ('the project' is the object of the preposition 'about'.)
 
-
+### Post-Nominal Modifier (PNM)**
+- A post-nominal modifier (PNM) is a phrase that comes **after** a noun to provide more information about it. PNMs often include prepositional phrases, relative clauses, and appositive noun phrases.
+  
+- **Examples (Types of PNMs)**:
+  - **Prepositional Phrase**: “The book **on the table** is mine.” ('On the table' is a PNM that modifies 'book.')
+  - **Relative Clause**: “The student **who studied hard** passed the exam.” ('Who studied hard' is a PNM modifying 'student.')
+  - **Appositive Noun Phrase**: “My brother, **a talented musician**, is performing tonight.” ('A talented musician' is a PNM that provides additional information about 'my brother.')
+  
 ## 10/8 Verb phrases: Tense/Modality, Aspect
 
 ### Announcement
