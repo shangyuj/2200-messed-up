@@ -16,15 +16,17 @@
 ### More Exercise
 
 1. I am **so ready for a new beginning**.
-2. You have to pick **out of these choices for elective courses**.
-3. Many people didn't like **the highly predictable ending to the saga**.
-4. You **should've said** no. You **should've gone** home. (Swift, 2006)
-5. I **couldn't really understand** what you said.
-6. We watched all of **the four best movies of the awards season**.
-7. They were **incredibly wary of the dark alleyways**.
-8. He **probably couldn’t have taken** the picture.
-9. She **did purposely make** it more difficult.
-10. Lily is **nervous about her job interview**.
+   ![image](https://github.com/user-attachments/assets/a17762f4-e134-4524-b43b-277bee35e231)
+
+3. You have to pick **out of these choices for elective courses**.
+4. Many people didn't like **the highly predictable ending to the saga**.
+5. You **should've said** no. You **should've gone** home. (Swift, 2006)
+6. I **couldn't really understand** what you said.
+7. We watched all of **the four best movies of the awards season**.
+8. They were **incredibly wary of the dark alleyways**.
+9. He **probably couldn’t have taken** the picture.
+10. She **did purposely make** it more difficult.
+11. Lily is **nervous about her job interview**.
 
 ### Midterm Exam
 Midterm will be held at 2:25pm on Thursday. At 2pm I will be here for tutoring.
