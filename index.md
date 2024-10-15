@@ -18,7 +18,8 @@
 1. I am **so ready for a new beginning**.
    ![image](https://github.com/user-attachments/assets/a17762f4-e134-4524-b43b-277bee35e231)
    **or**
-   ![Untitled drawing](https://github.com/user-attachments/assets/59e34ae4-64d8-4b60-a5a7-c0f82423d05e)
+   ![Untitled drawing](https://github.com/user-attachments/assets/bb1e1d41-79be-44e0-9d60-f3fd2171072d)
+
 
 
 3. You have to pick **out of these choices for elective courses**.
