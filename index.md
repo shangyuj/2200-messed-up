@@ -17,6 +17,9 @@
 
 1. I am **so ready for a new beginning**.
    ![image](https://github.com/user-attachments/assets/a17762f4-e134-4524-b43b-277bee35e231)
+   **or**
+   ![Untitled drawing](https://github.com/user-attachments/assets/59e34ae4-64d8-4b60-a5a7-c0f82423d05e)
+
 
 3. You have to pick **out of these choices for elective courses**.
 4. Many people didn't like **the highly predictable ending to the saga**.
