@@ -29,11 +29,15 @@
    ![Untitled drawing (1)](https://github.com/user-attachments/assets/bb396f93-a409-4e93-8f9b-40eeb074555b)
 
 7. I **couldn't really understand** what you said.
-8. We watched all of **the four best movies of the awards season**.
-9. They were **incredibly wary of the dark alleyways**.
-10. He **probably couldn’t have taken** the picture.
-11. She **did purposely make** it more difficult.
-12. Lily is **nervous about her job interview**.
+   ![Screenshot 2024-10-15 165210](https://github.com/user-attachments/assets/cd0d3329-842c-4788-9b87-f8a922b8c272)
+
+9. We watched all of **the four best movies of the awards season**.
+    ![image](https://github.com/user-attachments/assets/b2943f89-185f-4c4a-908f-9e9abbbaf457)
+
+11. They were **incredibly wary of the dark alleyways**.
+12. He **probably couldn’t have taken** the picture.
+13. She **did purposely make** it more difficult.
+14. Lily is **nervous about her job interview**.
 
 ### Midterm Exam
 Midterm will be held at 2:25pm on Thursday. At 2pm I will be here for tutoring.
