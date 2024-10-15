@@ -1,5 +1,18 @@
 # English 2200
 
+## 10/15 Getting Ready for Midterm Exam
+### Review of Major Assignment 1
+1.	I was sprinting to my next class.
+2.	I suddenly heard the unruly crowd cheering.
+3.	I must have forgotten to turn off the lights.
+4.	With a sigh of relief, she finally submitted her assignment.
+5.	Beneath the moonlit sky, we shared stories around the campfire until the early hours of the morning.
+6.	The picturesque scenery of the countryside was undeniably breathtaking.
+7.	The concert ended rather unexpectedly due to technical difficulties.
+8.	The concert ended rather unexpectedly due to technical difficulties.
+9.	The fiercely determined athlete sprinted past the finish line.
+10.	 He was proud of his daughter's academic achievements.
+
 ## 10/10 adjCompl (adjective complement); ObjP (object of a preposition); PNM (post-nominal modifier)
 
 Adjective complement, object of a preposition, and post-nominal modifier are three more concepts you need to understand to be able to complete Major Assignment 1 and Midterm Exam. Subject complements and object complements are also discussed below but they won't be in Major Assignment 1 or Midterm Exam.
