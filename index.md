@@ -26,12 +26,14 @@
    ![Screenshot 2024-10-15 163534](https://github.com/user-attachments/assets/da3c1bb7-c9ee-4d1c-96d0-8959e973df09)
 
 5. You **should've said** no. You **should've gone** home. (Swift, 2006)
-6. I **couldn't really understand** what you said.
-7. We watched all of **the four best movies of the awards season**.
-8. They were **incredibly wary of the dark alleyways**.
-9. He **probably couldn’t have taken** the picture.
-10. She **did purposely make** it more difficult.
-11. Lily is **nervous about her job interview**.
+   ![Untitled drawing (1)](https://github.com/user-attachments/assets/bb396f93-a409-4e93-8f9b-40eeb074555b)
+
+7. I **couldn't really understand** what you said.
+8. We watched all of **the four best movies of the awards season**.
+9. They were **incredibly wary of the dark alleyways**.
+10. He **probably couldn’t have taken** the picture.
+11. She **did purposely make** it more difficult.
+12. Lily is **nervous about her job interview**.
 
 ### Midterm Exam
 Midterm will be held at 2:25pm on Thursday. At 2pm I will be here for tutoring.
