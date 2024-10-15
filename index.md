@@ -19,11 +19,12 @@
    ![image](https://github.com/user-attachments/assets/a17762f4-e134-4524-b43b-277bee35e231)
    **or**
    ![Untitled drawing](https://github.com/user-attachments/assets/bb1e1d41-79be-44e0-9d60-f3fd2171072d)
+2. You have to pick **out of these choices for elective courses**.
+   ![image](https://github.com/user-attachments/assets/2cc00e8b-9dad-45b4-ae6f-a009cc2c944e)
 
+3. Many people didn't like **the highly predictable ending to the saga**.
+   ![Screenshot 2024-10-15 163534](https://github.com/user-attachments/assets/da3c1bb7-c9ee-4d1c-96d0-8959e973df09)
 
-
-3. You have to pick **out of these choices for elective courses**.
-4. Many people didn't like **the highly predictable ending to the saga**.
 5. You **should've said** no. You **should've gone** home. (Swift, 2006)
 6. I **couldn't really understand** what you said.
 7. We watched all of **the four best movies of the awards season**.
