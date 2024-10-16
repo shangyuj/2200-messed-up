@@ -24,6 +24,9 @@
 
 3. Many people didn't like **the highly predictable ending to the saga**.
    ![Screenshot 2024-10-15 163534](https://github.com/user-attachments/assets/da3c1bb7-c9ee-4d1c-96d0-8959e973df09)
+   **or**
+   ![Screenshot 2024-10-15 163534](https://github.com/user-attachments/assets/bf1d42ae-6b13-47a6-be16-ca3bf65770c0)
+
 
 5. You **should've said** no. You **should've gone** home. (Swift, 2006)
    ![Untitled drawing (1)](https://github.com/user-attachments/assets/bb396f93-a409-4e93-8f9b-40eeb074555b)
