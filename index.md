@@ -35,12 +35,22 @@
    ![Screenshot 2024-10-15 165210](https://github.com/user-attachments/assets/cd0d3329-842c-4788-9b87-f8a922b8c272)
 
 9. We watched all of **the four best movies of the awards season**.
-    ![image](https://github.com/user-attachments/assets/b2943f89-185f-4c4a-908f-9e9abbbaf457)
+   ![376816287-b2943f89-185f-4c4a-908f-9e9abbbaf457](https://github.com/user-attachments/assets/644080af-3902-4e51-86ab-fc052a017c6c)
+   **or**
+   ![Screenshot 2024-10-15 165953](https://github.com/user-attachments/assets/2c171da2-cec6-42b7-be61-0eb84ea3bdb2)
 
 11. They were **incredibly wary of the dark alleyways**.
-12. He **probably couldn’t have taken** the picture.
-13. She **did purposely make** it more difficult.
-14. Lily is **nervous about her job interview**.
+    ![image](https://github.com/user-attachments/assets/44c31b67-1994-4ac4-a42a-dbd8ded76acf)
+    **or**
+    ![Screenshot 2024-10-15 191015](https://github.com/user-attachments/assets/54c779ce-c0ab-4522-8da6-55ca2c4ad6ce)
+
+13. He **probably couldn’t have taken** the picture.
+    ![Screenshot 2024-10-15 191451](https://github.com/user-attachments/assets/83578149-26c9-4e61-b30e-841bb62ca27d)
+
+15. She **did purposely make** it more difficult.
+    ![Screenshot 2024-10-15 191632](https://github.com/user-attachments/assets/83c05282-a1ce-447e-b741-2d7c4aabe632)
+
+17. Lily is **nervous about her job interview**.
 
 ### Midterm Exam
 Midterm will be held at 2:25pm on Thursday. At 2pm I will be here for tutoring.
