@@ -29,7 +29,7 @@
 
 
 5. You **should've said** no. You **should've gone** home. (Swift, 2006)
-   ![Untitled drawing (1)](https://github.com/user-attachments/assets/bb396f93-a409-4e93-8f9b-40eeb074555b)
+   ![Untitled drawing (2)](https://github.com/user-attachments/assets/634bb6ee-2fc7-4575-8227-69dad1773ab2)
 
 7. I **couldn't really understand** what you said.
    ![Screenshot 2024-10-15 165210](https://github.com/user-attachments/assets/cd0d3329-842c-4788-9b87-f8a922b8c272)
