@@ -51,6 +51,8 @@
     ![Screenshot 2024-10-15 191632](https://github.com/user-attachments/assets/83c05282-a1ce-447e-b741-2d7c4aabe632)
 
 17. Lily is **nervous about her job interview**.
+    ![Screenshot 2024-10-15 191015](https://github.com/user-attachments/assets/d5289674-2b1a-4767-b64c-f508d82b28cb)
+
 
 ### Midterm Exam
 Midterm will be held at 2:25pm on Thursday. At 2pm I will be here for tutoring.
