@@ -1,5 +1,10 @@
 # English 2200
 
+## 10/22 Clause Constituents and Verb Valency
+Please skim through [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing) before coming to class. This will give you a general idea of the concepts.
+
+## 10/17 Midterm Exam
+
 ## 10/15 Getting Ready for Midterm Exam
 ### Review of Major Assignment 1
 1.	I **was sprinting** to my next class.
