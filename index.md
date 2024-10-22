@@ -3,6 +3,167 @@
 ## 10/22 Clause Constituents and Verb Valency
 Please skim through [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing) before coming to class. This will give you a general idea of the concepts.
 
+---
+
+When we talk about **clauses**, we're referring to groups of words that form complete ideas. Every clause contains **constituents** (essential parts) that perform specific functions in the sentence.
+
+Here are the key components:
+- **Subject (Subj)**: Who or what the sentence is about (often a noun phrase).
+- **Verb (Predicator)**: The action or state in the sentence (the main verb).
+- **Object**: The entity that is affected by the action (when needed).
+
+In diagrams, we label both the **form** (what type of phrase it is) and the **function** (what role it plays in the sentence). For example:
+- **NP: Subj** (Noun Phrase as Subject)
+
+**Example Sentence**:  
+*The news outlet retracted the story about the accident.*
+- *The news outlet* is the **subject**.
+- *Retracted* is the **main verb**.
+- *The story about the accident* is the **direct object** (what got retracted).
+
+**Tree Diagram**:
+```
+S
+NP:Subj         LVP:Pred
+ |                VP:past    NP:DO
+ |                |          |
+The news outlet retracted the story about the accident
+```
+
+---
+
+#### **Verb Valency Explained**
+The term **valency** refers to how many extra pieces (constituents) a verb needs to form a complete sentence. Verbs can require different numbers of these pieces, depending on their type.
+
+Here’s what this means:
+- **Intransitive verbs (IT)**: These verbs don’t need anything beyond a subject and verb. Example: *She sleeps.*
+- **Monotransitive verbs (MT)**: These verbs need a subject and a **direct object** (DO). Example: *She eats pizza.*
+  
+Sometimes, sentences can have extra information that’s not required to make sense—these are called **optional adverbials** (e.g., *by the next day* in *The news outlet retracted the story by the next day*). If you remove them, the sentence still makes sense.
+
+---
+
+#### **Grammatical Functions and Valency Patterns**
+
+Now, let’s break down the different parts of a sentence and how verbs interact with them:
+
+1. **Subject (Subj)**: The "who" or "what" the sentence is about.
+2. **Subject Complement (SC)**: Extra information about the subject.
+3. **Direct Object (DO)**: The thing that the verb is acting upon.
+4. **Indirect Object (IO)**: The recipient of the action or the DO.
+5. **Object Complement (OC)**: Additional information that describes or refers back to the DO.
+6. **Adverbials (Advl)**: Information about **how, when, where**, or **why** the action happens.
+
+---
+
+### **Optional vs. Obligatory Adverbials**
+
+This distinction is important because adverbials can either be optional or necessary for the sentence to be complete:
+
+- **Optional Adverbials**: These are extra details about the action. If we remove them, the sentence still makes sense.
+  - Example: *The news outlet retracted the story by the next day.*
+    - *By the next day* is optional—it tells **when** the action happened but is not essential.
+  
+  **Tree Diagram**:
+  ```
+  S
+  NP:Subj         LVP:Pred
+  |                VP:past    NP:DO         PP:Advl
+  |                |          |             |
+  The news outlet retracted the story   by the next day
+  ```
+
+- **Obligatory Adverbials (Advloblig)**: These are necessary for the sentence to make sense. Without them, the sentence would feel incomplete.
+  - Example: *Paul was in power at that moment.*
+    - *In power* is essential here. Without it, *Paul was* sounds incomplete.
+  
+  **Tree Diagram**:
+  ```
+  S
+  NP:Subj       LVP:Pred
+   |             VP:past       PP:Advloblig
+   |             |             |
+  Paul           was        in power
+  ```
+
+---
+
+### **B. Copular Valency Patterns**
+
+**Copular verbs** (also called **linking verbs**) are a special type of verb. Instead of showing an action, they connect the subject to something that gives more information about it. These verbs usually need one of two things to complete the sentence:
+1. A **subject complement (SC)**: This describes the subject.
+2. An **obligatory adverbial (Advloblig)**: This tells something like where or when the subject is.
+
+#### **Pattern 1: Subj + Vcop + SC**
+The **subject complement (SC)** describes the subject, often adding more information or identifying it.
+
+- **Example**: 
+  - *Frank is a cardiologist.*
+  - *The music sounds fantastic.*
+
+  **Tree Diagram**:
+  ```
+  S
+  NP:Subj      LVP:Pred
+    |            VP:pres      NP:SC
+    |            |            |
+  Frank          is        a cardiologist
+  ```
+
+#### **Pattern 2: Subj + Vcop + Advloblig**
+The **obligatory adverbial** is needed to complete the sentence, often describing **where** or **when** something is happening.
+
+- **Example**: 
+  - *Paul was in power at that moment.*
+
+  **Tree Diagram**:
+  ```
+  S
+  NP:Subj       LVP:Pred
+     |             VP:past       PP:Advloblig
+     |             |             |
+   Paul           was        in power
+  ```
+
+#### **Subject Complement Test for Copular Verbs**
+To see if a verb is copular, try replacing the verb with an equals sign. If the sentence still makes sense, it’s a copular verb:
+- *Frank = a cardiologist.*
+- *The music = fantastic.*
+
+---
+
+### **Examples of Copular Sentences**:
+
+1. *The final exam proved difficult.*  
+   - *Difficult* is describing the subject.
+   ```
+   S
+   NP:Subj       LVP:Pred
+     |            VP:past      AdjP:SC
+     |            |            |
+   The final exam proved    difficult
+   ```
+
+2. *Annie and Janine look surprised.*  
+   - *Surprised* is describing Annie and Janine.
+   ```
+   S
+   NP:Subj        LVP:Pred
+     |              VP:pres     AdjP:SC
+     |              |           |
+   Annie and Janine look     surprised
+   ```
+
+3. *Her sincerest wish is that Bill makes a speedy and full recovery.*  
+   - The subject complement here is a whole clause.
+   ```
+   S
+   NP:Subj       LVP:Pred
+     |              VP:pres       that-clause:SC
+     |              |
+   Her sincerest wish   is      that Bill makes a full recovery
+   ```
+
 ## 10/17 Midterm Exam
 
 ## 10/15 Getting Ready for Midterm Exam
