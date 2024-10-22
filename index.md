@@ -97,7 +97,7 @@ The **subject complement (SC)** describes the subject, often adding more informa
   - *Frank is a cardiologist.*
   - *The music sounds fantastic.*
 
-  **Tree Diagram**:
+  **Tree Diagram**:  
 ![image](https://github.com/user-attachments/assets/f9f12171-ec47-412c-9727-1855f096ee27)
 
 #### **Pattern 2: Subj + Vcop + Advloblig**
