@@ -60,6 +60,19 @@ Let’s break down the different parts of a sentence and how verbs interact with
    - Optional
    - Obligatory
 
+### Key Grammatical Functions and Abbreviations
+
+| Function                | Abbreviation | Description |
+|-------------------------|--------------|-------------|
+| Subject                 | Subj         | The entity the sentence is about, typically placed before the verb. |
+| Subject complement       | SC           | Describes the subject, often an adjective or noun phrase. |
+| Direct object            | DO           | The entity affected by the verb. |
+| Indirect object          | IO           | The entity receiving the direct object. |
+| Object complement        | OC           | Provides information about the direct object. |
+| Optional adverbial       | Advl         | Additional information on time, place, manner, etc., not required to form a complete clause. |
+| Obligatory adverbial     | Advloblig    | Necessary adverbial information required to complete the clause. |
+
+
 ---
 
 ### **Optional vs. Obligatory Adverbials**
