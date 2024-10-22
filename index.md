@@ -82,7 +82,6 @@ This distinction is important because adverbials can either be optional or neces
   **Tree Diagram**:
 ![image](https://github.com/user-attachments/assets/8337416a-e219-42b9-92a5-a2d157189b2e)
 
-
 ---
 
 ### **Copular Valency Patterns**
@@ -99,13 +98,7 @@ The **subject complement (SC)** describes the subject, often adding more informa
   - *The music sounds fantastic.*
 
   **Tree Diagram**:
-  ```
-  S
-  NP:Subj      LVP:Pred
-    |            VP:pres      NP:SC
-    |            |            |
-  Frank          is        a cardiologist
-  ```
+![image](https://github.com/user-attachments/assets/f9f12171-ec47-412c-9727-1855f096ee27)
 
 #### **Pattern 2: Subj + Vcop + Advloblig**
 The **obligatory adverbial** is needed to complete the sentence, often describing **where** or **when** something is happening.
@@ -114,13 +107,8 @@ The **obligatory adverbial** is needed to complete the sentence, often describin
   - *Paul was in power at that moment.*
 
   **Tree Diagram**:
-  ```
-  S
-  NP:Subj       LVP:Pred
-     |             VP:past       PP:Advloblig
-     |             |             |
-   Paul           was        in power
-  ```
+![image](https://github.com/user-attachments/assets/cce81da5-8e4c-4391-ac07-9422e9c7a902)
+
 
 #### **Subject Complement Test for Copular Verbs**
 To see if a verb is copular, try replacing the verb with an equals sign. If the sentence still makes sense, it’s a copular verb:
@@ -133,33 +121,18 @@ To see if a verb is copular, try replacing the verb with an equals sign. If the 
 
 1. *The final exam proved difficult.*  
    - *Difficult* is describing the subject.
-   ```
-   S
-   NP:Subj       LVP:Pred
-     |            VP:past      AdjP:SC
-     |            |            |
-   The final exam proved    difficult
-   ```
+![image](https://github.com/user-attachments/assets/b45901fe-4a4b-44b8-9c9f-df158b360bac)
+
 
 2. *Annie and Janine look surprised.*  
    - *Surprised* is describing Annie and Janine.
-   ```
-   S
-   NP:Subj        LVP:Pred
-     |              VP:pres     AdjP:SC
-     |              |           |
-   Annie and Janine look     surprised
-   ```
+![image](https://github.com/user-attachments/assets/8b70cdc7-7376-4234-bc0e-78ae1f09c91a)
+
 
 3. *Her sincerest wish is that Bill makes a speedy and full recovery.*  
    - The subject complement here is a whole clause.
-   ```
-   S
-   NP:Subj       LVP:Pred
-     |              VP:pres       that-clause:SC
-     |              |
-   Her sincerest wish   is      that Bill makes a full recovery
-   ```
+![image](https://github.com/user-attachments/assets/722a04fa-f224-409b-9004-79db91ef0dc2)
+
 
 ## 10/17 Midterm Exam
 
