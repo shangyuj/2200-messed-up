@@ -51,17 +51,6 @@ Some examples to show you what this means:
 
 Let’s break down the different parts of a sentence and how verbs interact with them:
 
-1. **Subject (Subj)**: The "who" or "what" the sentence is about.
-2. **Subject Complement (SC)**: Extra information about the subject.
-3. **Direct Object (DO)**: The thing that the verb is acting upon.
-4. **Indirect Object (IO)**: The recipient of the action or the DO.
-5. **Object Complement (OC)**: Additional information that describes or refers back to the DO.
-6. **Adverbials (Advl)**: Information about **how, when, where**, or **why** the action happens.
-   - Optional
-   - Obligatory
-
-### Key Grammatical Functions and Abbreviations
-
 | Function                | Abbreviation | Description |
 |-------------------------|--------------|-------------|
 | Subject                 | Subj         | The entity the sentence is about, typically placed before the verb. |
@@ -71,7 +60,6 @@ Let’s break down the different parts of a sentence and how verbs interact with
 | Object complement        | OC           | Provides information about the direct object. |
 | Optional adverbial       | Advl         | Additional information on time, place, manner, etc., not required to form a complete clause. |
 | Obligatory adverbial     | Advloblig    | Necessary adverbial information required to complete the clause. |
-
 
 ---
 
