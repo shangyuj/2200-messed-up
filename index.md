@@ -1,51 +1,55 @@
 # English 2200
 
 ## 10/22 Clause Constituents and Verb Valency
-Please skim through [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing) before coming to class. This will give you a general idea of the concepts.
+**Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing).**
 
 ---
-
+  
 When we talk about **clauses**, we're referring to groups of words that form complete ideas. Every clause contains **constituents** (essential parts) that perform specific functions in the sentence.
-
+  
 Here are the key components:
-- **Subject (Subj)**: Who or what the sentence is about (often a noun phrase).
+- **Subject**: Who or what the sentence is about (often a noun phrase).
 - **Verb (Predicator)**: The action or state in the sentence (the main verb).
-- **Object**: The entity that is affected by the action (when needed).
-
+- **Object**: The entity that is affected by the action (sometimes not needed).
+  
 In diagrams, we label both the **form** (what type of phrase it is) and the **function** (what role it plays in the sentence). For example:
 - **NP: Subj** (Noun Phrase as Subject)
 
 **Example Sentence**:  
 *The news outlet retracted the story about the accident.*
-- *The news outlet* is the **subject**.
-- *Retracted* is the **main verb**.
-- *The story about the accident* is the **direct object** (what got retracted).
+- *the news outlet* is the **subject**.
+- *retracted the story about the accident* is the predicative **long verb phrase**.
+- *retracted* is the **verb phrase**.
+- *the story about the accident* is the **direct object** (what got retracted).
 
 **Tree Diagram**:
-```
-S
-NP:Subj         LVP:Pred
- |                VP:past    NP:DO
- |                |          |
-The news outlet retracted the story about the accident
-```
+![image](https://github.com/user-attachments/assets/5fa21511-8243-4727-a010-6769f353d107)
 
 ---
 
 #### **Verb Valency Explained**
 The term **valency** refers to how many extra pieces (constituents) a verb needs to form a complete sentence. Verbs can require different numbers of these pieces, depending on their type.
 
-Here’s what this means:
-- **Intransitive verbs (IT)**: These verbs don’t need anything beyond a subject and verb. Example: *She sleeps.*
-- **Monotransitive verbs (MT)**: These verbs need a subject and a **direct object** (DO). Example: *She eats pizza.*
+Some examples to show you what this means:
+- e.g.: **Intransitive verbs (IT)**: These verbs don’t need anything beyond a subject and a verb phrase. Example: *I slept.*
+- e.g.: **Monotransitive verbs (MT)**: These verbs need a subject, a verb phrase, and a **direct object** (DO). Example: *I ate the pizza slice.*
   
-Sometimes, sentences can have extra information that’s not required to make sense—these are called **optional adverbials** (e.g., *by the next day* in *The news outlet retracted the story by the next day*). If you remove them, the sentence still makes sense.
+##### Full list of Verb Valency
+
+| Valency Type     | Abbreviation | Clause Pattern                                  |
+|------------------|--------------|------------------------------------------------|
+| Copular          | cop          | Subj + Vcop + SC / Advloblig                    |
+| Intransitive     | IT           | Subj + VIT                                      |
+| Monotransitive   | MT           | Subj + VMT + DO                                 |
+| Ditransitive     | DT           | Subj + VDT + IO + DO / Subj + VDT + DO + to IO  |
+| Complex Transitive| CT          | Subj + VCT + DO + OC / Advloblig                |
+
 
 ---
 
 #### **Grammatical Functions and Valency Patterns**
 
-Now, let’s break down the different parts of a sentence and how verbs interact with them:
+Let’s break down the different parts of a sentence and how verbs interact with them:
 
 1. **Subject (Subj)**: The "who" or "what" the sentence is about.
 2. **Subject Complement (SC)**: Extra information about the subject.
@@ -53,6 +57,8 @@ Now, let’s break down the different parts of a sentence and how verbs interact
 4. **Indirect Object (IO)**: The recipient of the action or the DO.
 5. **Object Complement (OC)**: Additional information that describes or refers back to the DO.
 6. **Adverbials (Advl)**: Information about **how, when, where**, or **why** the action happens.
+   - Optional
+   - Obligatory
 
 ---
 
@@ -65,30 +71,20 @@ This distinction is important because adverbials can either be optional or neces
     - *By the next day* is optional—it tells **when** the action happened but is not essential.
   
   **Tree Diagram**:
-  ```
-  S
-  NP:Subj         LVP:Pred
-  |                VP:past    NP:DO         PP:Advl
-  |                |          |             |
-  The news outlet retracted the story   by the next day
-  ```
+![image](https://github.com/user-attachments/assets/c75e6cbd-dd9d-491e-8f4f-9bc92a58043f)
+
 
 - **Obligatory Adverbials (Advloblig)**: These are necessary for the sentence to make sense. Without them, the sentence would feel incomplete.
   - Example: *Paul was in power at that moment.*
     - *In power* is essential here. Without it, *Paul was* sounds incomplete.
   
   **Tree Diagram**:
-  ```
-  S
-  NP:Subj       LVP:Pred
-   |             VP:past       PP:Advloblig
-   |             |             |
-  Paul           was        in power
-  ```
+![image](https://github.com/user-attachments/assets/8337416a-e219-42b9-92a5-a2d157189b2e)
+
 
 ---
 
-### **B. Copular Valency Patterns**
+### **Copular Valency Patterns**
 
 **Copular verbs** (also called **linking verbs**) are a special type of verb. Instead of showing an action, they connect the subject to something that gives more information about it. These verbs usually need one of two things to complete the sentence:
 1. A **subject complement (SC)**: This describes the subject.
