@@ -1,7 +1,7 @@
 # English 2200
 
 ## 10/22 Clause Constituents and Verb Valency
-**Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing).**
+**Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)**
 
 ---
   
