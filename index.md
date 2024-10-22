@@ -5,12 +5,12 @@
 
 ---
   
-When we talk about **clauses**, we're referring to groups of words that form complete ideas. Every clause contains **constituents** (essential parts) that perform specific functions in the sentence.
+When we talk about **clauses**, we're referring to groups of words that form complete ideas with a predicate. Every clause contains **constituents** that perform specific functions in the sentence.
   
 Here are the key components:
 - **Subject**: Who or what the sentence is about (often a noun phrase).
-- **Verb (Predicator)**: The action or state in the sentence (the main verb).
-- **Object**: The entity that is affected by the action (sometimes not needed).
+- **Verb (Predicator)**: The action or state in the sentence (with the main verb).
+- **Object**: The entity that is affected by the action (**sometimes not needed**).
   
 In diagrams, we label both the **form** (what type of phrase it is) and the **function** (what role it plays in the sentence). For example:
 - **NP: Subj** (Noun Phrase as Subject)
@@ -51,9 +51,9 @@ Some examples to show you what this means:
 
 Let’s break down the different parts of a sentence and how verbs interact with them:
 
-| Function                | Abbreviation | Description |
-|-------------------------|--------------|-------------|
-| Subject                 | Subj         | The entity the sentence is about, typically placed before the verb. |
+| Function                 | Abbreviation | Description |
+|--------------------------|--------------|-------------|
+| Subject                  | Subj         | The entity the sentence is about, typically placed before the verb. |
 | Subject complement       | SC           | Describes the subject, often an adjective or noun phrase. |
 | Direct object            | DO           | The entity affected by the verb. |
 | Indirect object          | IO           | The entity receiving the direct object. |
@@ -61,23 +61,21 @@ Let’s break down the different parts of a sentence and how verbs interact with
 | Optional adverbial       | Advl         | Additional information on time, place, manner, etc., not required to form a complete clause. |
 | Obligatory adverbial     | Advloblig    | Necessary adverbial information required to complete the clause. |
 
----
-
-### **Optional vs. Obligatory Adverbials**
+#### **Optional vs. Obligatory Adverbials**
 
 This distinction is important because adverbials can either be optional or necessary for the sentence to be complete:
 
 - **Optional Adverbials**: These are extra details about the action. If we remove them, the sentence still makes sense.
   - Example: *The news outlet retracted the story by the next day.*
-    - *By the next day* is optional—it tells **when** the action happened but is not essential.
+    - *by the next day* is optional—it tells **when** the action happened but is not essential.
   
   **Tree Diagram**:
 ![image](https://github.com/user-attachments/assets/c75e6cbd-dd9d-491e-8f4f-9bc92a58043f)
 
 
-- **Obligatory Adverbials (Advloblig)**: These are necessary for the sentence to make sense. Without them, the sentence would feel incomplete.
+- **Obligatory Adverbials (Advloblig)**: These are necessary for the sentence to make sense. Without them, the sentence would be incomplete.
   - Example: *Paul was in power at that moment.*
-    - *In power* is essential here. Without it, *Paul was* sounds incomplete.
+    - *in power* is essential here. Without it, *Paul was* sounds incomplete.
   
   **Tree Diagram**:
 ![image](https://github.com/user-attachments/assets/8337416a-e219-42b9-92a5-a2d157189b2e)
