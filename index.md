@@ -1,5 +1,154 @@
 # English 2200
 
+## 10/24 Clause Constituents and Verb Valency (cont.)
+### Survey
+What do you want to do for extra credit?
+### Review
+On Tuesday we learned:
+- Overview of verb valencies
+- Overview of sentence constituents
+- Copular (cop) verb and its valencies
+  - Subj + Vcop + SC
+  - Subj + Vcop + Advloblig
+### Copula Valency Practice
+Diagram these:
+- That painting looks amazing.
+- I was a different person yesterday.
+- She is downstairs.
+- Dad is in the kitchen now.
+### Today's Agenda
+Today we learn:
+- intransitive (IT)
+- monotransitive (MT)
+- ditransitive (DT)
+
+---
+
+### Intransitive Valency Patterns (IT)
+**intransitive → not transitive → no objects**  
+**Intransitive verbs** are verbs that do not require any object to complete their meaning. They need only a subject and a verb to form a grammatically correct clause. In other words, the action of the verb doesn’t transfer to any object.
+  
+**Example**:  
+- *Tim smiled throughout the concert.*
+  - Here, the verb *smiled* does not act on any object. The **prepositional phrase** *throughout the concert* provides additional information about when the action happened, but it’s not required to complete the sentence.
+  - The sentence still makes sense without the optional adverbial: *Tim smiled.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/8cb9697f-0a7c-4e20-8912-3a57d7556faa)  
+  
+**Another Example**:  
+- *They arrived next week.*  
+  - Here, *next week* is an **optional adverbial** indicating time. It’s not essential to the sentence’s meaning, but it provides extra information about when the action happened. The sentence has no object.
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/47782779-6988-423d-bbf8-810c136e015d)  
+
+In summary, **intransitive verbs**:
+- Do not require any object.
+- May be accompanied by **optional adverbials** that provide extra information about time, place, or manner, but the sentence can stand alone without them.
+
+---
+
+#### **Monotransitive Valency Patterns (MT)**
+**monotransitive → ONE transitive → ONE object**  
+**Monotransitive verbs** are verbs that require one additional element after the verb, specifically a **direct object (DO)**. The **direct object** is the entity affected by the verb’s action.
+
+**Example Sentence**:  
+- *The man hit the table with full force.*  
+  - The verb *hit* needs a **direct object** to complete the sentence. Without it (*The man hit Ø*), the sentence becomes incomplete.
+  - *The table* is the **direct object** because it’s the thing being acted upon (the thing that was hit).
+  - *With full force* is an **optional adverbial** describing how the action happened, but it’s not necessary to complete the sentence.
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/5bfa5e1b-869a-4789-bc2b-896e0e132da0)
+
+
+- In this sentence, the **direct object** (DO) is essential for the sentence to be complete, but the **prepositional phrase** (PP:Advl) *with full force* is optional, providing extra detail about the manner of the action.
+
+**Another Example**:  
+- *The dressmaker cut the expensive fabric.*  
+  - The verb *cut* requires a **direct object** (*the expensive fabric*). The sentence would be incomplete without it: *The dressmaker cut Ø*.
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/772abcfc-6cdd-437c-9aff-bafba00b44b8)
+
+**You can also put a clause in the direct object slot:**  
+![image](https://github.com/user-attachments/assets/1163c33a-5540-4327-b7ca-a2b9639c7821)
+![image](https://github.com/user-attachments/assets/215db453-7234-4329-af63-b94458166ad4)
+
+**Summary of Monotransitive Verbs**:
+- The verb must be followed by a **direct object**.
+- **Optional adverbials** may also be present but aren’t required for grammatical completeness.
+
+---
+
+#### **Ditransitive Valency Patterns (DT)**
+**ditransitive → TWO transitive → TWO objects**  
+**Ditransitive verbs** are more complex because they require two objects: a **direct object (DO)** and an **indirect object (IO)**. The **indirect object** is typically the recipient of the **direct object**.
+
+There are two common patterns for ditransitive verbs:
+
+1. **Pattern 1: Subj + VDT + IO + DO**  
+   In this pattern, the **indirect object** comes before the **direct object**.
+ 
+   **Example Sentence**:  
+   - *John gave me the money.*  
+     - *Me* is the **indirect object** (the person receiving the money).
+     - *The money* is the **direct object** (the thing being given).
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/e6cacaee-7edb-425f-b00e-debb0b35abae)
+
+   **Another example**
+   ![image](https://github.com/user-attachments/assets/3506a2b2-06d2-43f5-b132-c379970369cd)
+
+2. **Pattern 2: Subj + VDT + DO + to/for IO**  
+   In this pattern, the **direct object** comes first, followed by a **prepositional phrase** with *to* or *for* indicating the **indirect object**.
+
+   **Example Sentence**:  
+   - *The teacher sent the homework to the absent student.*  
+     - *The homework* is the **direct object** (the thing being sent).
+     - *To the absent student* is the **indirect object** (the recipient of the homework).
+
+   ![image](https://github.com/user-attachments/assets/6f3094c1-9c40-409d-bd15-123f362add66)
+
+   **More examples**
+   ![image](https://github.com/user-attachments/assets/9adcd39f-5243-4ab6-93b6-ce10d3f5dee5)  
+   ![image](https://github.com/user-attachments/assets/764b48c5-285b-4659-b048-8d57816977f6)
+
+   **Again, sometimes we can put a clause in the object slots, for example:**
+   ![image](https://github.com/user-attachments/assets/5a141806-cdfb-4896-b09a-cb2c73c88564)
+
+3. **Ditransitive verb with ellipted direct object**  
+Occasionally, the direct object of a ditransitive verb is ellipted, or not explicitly stated. However, logically, we know that something has to be serving as the direct object. For example:
+- Her mother had promised her. 
+  - _her_ ≠ direct object (_her_ is not what she promised)
+  - _her_ = indirect object (_her_ is who received the promise)
+  
+![image](https://github.com/user-attachments/assets/18b24eda-65e4-48c5-a94f-243c66c6f866)
+
+
+**Summary of Ditransitive Verbs**:
+- **Pattern 1**: The **indirect object** comes before the **direct object**.
+- **Pattern 2**: The **direct object** comes before the **indirect object**, which is indicated by a **prepositional phrase** (with *to* or *for*).
+
+---
+
+### Conclusion
+- **Intransitive verbs** don’t need objects, and the sentence can often have optional adverbials.
+- **Monotransitive verbs** require a **direct object**, and additional adverbials can provide extra information.
+- **Ditransitive verbs** require both a **direct object** and an **indirect object**, with different patterns to indicate the relationship between these objects. Additional adverbials can provide extra information.
+- **Copular verbs**, connect the subject to a subject complement or an obligatory adverbial to complete the meaning of the sentence. They can't have objects.
+
+---
+
+### Practice
+1. She baked a cake yesterday.
+2. They gave him a birthday present.
+3. The meeting was in the conference room.
+4. The librarian sent the book to the student.
+5. He laughed pretty loud.
+
 ## 10/22 Clause Constituents and Verb Valency
 **Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)**
 
