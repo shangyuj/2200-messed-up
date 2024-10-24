@@ -10,12 +10,14 @@ On Tuesday we learned:
 - Copular (cop) verb and its valencies
   - Subj + Vcop + SC
   - Subj + Vcop + Advloblig
+  
 ### Copula Valency Practice
 Diagram these:
 - That painting looks amazing.
 - I was a different person yesterday.
 - She is downstairs.
 - Dad is in the kitchen now.
+  
 ### Today's Agenda
 Today we learn:
 - intransitive (IT)
