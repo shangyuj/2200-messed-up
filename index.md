@@ -123,7 +123,7 @@ There are two common patterns for ditransitive verbs:
 
 3. **Ditransitive verb with ellipted direct object**  
 Occasionally, the direct object of a ditransitive verb is ellipted, or not explicitly stated. However, logically, we know that something has to be serving as the direct object. For example:
-  - Her mother had promised her. 
+  For example: _Her mother had promised her._ 
     - _her_ ≠ direct object (_her_ is not what she promised)
     - _her_ = indirect object (_her_ is who received the promise)
   
