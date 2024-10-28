@@ -28,7 +28,7 @@ Today we learn:
 
 ### Intransitive Valency Patterns (IT)
 **intransitive → not transitive → no objects**  
-**Intransitive verbs** are verbs that do not require any object to complete their meaning. They need only a subject and a verb to form a grammatically correct clause. In other words, the action of the verb doesn’t transfer to any object.
+- **Intransitive verbs** are verbs that do not require any object to complete their meaning. They need only a subject and a verb to form a grammatically correct clause. In other words, the action of the verb doesn’t transfer to any object.
   
 **Example**:  
 - *Tim smiled throughout the concert.*
@@ -53,7 +53,7 @@ In summary, **intransitive verbs**:
 
 #### **Monotransitive Valency Patterns (MT)**
 **monotransitive → ONE transitive → ONE object**  
-**Monotransitive verbs** are verbs that require one additional element after the verb, specifically a **direct object (DO)**. The **direct object** is the entity affected by the verb’s action.
+- **Monotransitive verbs** are verbs that require one additional element after the verb, specifically a **direct object (DO)**. The **direct object** is the entity affected by the verb’s action.
 
 **Example Sentence**:  
 - *The man hit the table with full force.*  
@@ -86,7 +86,7 @@ In summary, **intransitive verbs**:
 
 #### **Ditransitive Valency Patterns (DT)**
 **ditransitive → TWO transitive → TWO objects**  
-**Ditransitive verbs** are more complex because they require two objects: a **direct object (DO)** and an **indirect object (IO)**. The **indirect object** is typically the recipient of the **direct object**.
+- **Ditransitive verbs** are more complex because they require two objects: a **direct object (DO)** and an **indirect object (IO)**. The **indirect object** is typically the recipient of the **direct object**.
 
 There are two common patterns for ditransitive verbs:
 
