@@ -211,17 +211,15 @@ When diagramming passive voice, note both the **grammatical function** (position
 
 2. **Ditransitive Passive**:
    - Ditransitive verbs allow for both the direct and indirect objects to become the subject.
-   - **Example**:
+   - **Example with direct object as grammatical subject**:
      - *No other power had been given to the delegates.* 
      - (Active: *Someone had given no other power to the delegates.*)
+       ![image](https://github.com/user-attachments/assets/ffbfec02-764b-4362-b148-4a30be96dd69)
 
-![image](https://github.com/user-attachments/assets/ffbfec02-764b-4362-b148-4a30be96dd69)
-
-   - **Example**:
+   - **Example with indirect object as grammatical subject**:
      - *The subjects were handed a copy of the test.* 
      - (Active: *(someone) handed the subjects a copy of the test.*)
-
-![image](https://github.com/user-attachments/assets/53e480a8-2a83-4080-a973-0a945a4ff057)
+       ![image](https://github.com/user-attachments/assets/53e480a8-2a83-4080-a973-0a945a4ff057)
 
 3. **Complex Transitive Passive**:
    - Complex transitive verbs in passive voice can have an **object complement** or **obligatory adverbial**.
