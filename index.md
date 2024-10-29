@@ -1,6 +1,10 @@
 # English 2200
 
 ## 10/24 Clause Constituents and Verb Valency (cont.)
+**Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)**
+
+---
+  
 ### Survey
 What do you want to do for extra credit?
 ### Review
