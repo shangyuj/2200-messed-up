@@ -1,5 +1,249 @@
 # English 2200
 
+## 10/29 Clause Constituents and Verb Valency (cont.) & Voice
+### Valency Review
+- copular
+- intransitive
+- transitive
+  - monotransitive
+  - ditransitive
+  - complex transitive ⇦ we learn this today
+ 
+### Complex Transitive Verbs
+
+**Complex transitive verbs** are verbs that require two additional elements after the verb to complete their meaning. These verbs are unique because, unlike ditransitive verbs, they require a **direct object (DO)** followed by an **object complement (OC)** or an **obligatory adverbial (Advloblig)**. 
+
+Here’s a breakdown of the key features:
+
+1. **Direct Object (DO)**: The first element following the verb, which is the entity affected by the action.
+2. **Object Complement (OC)** or **Obligatory Adverbial (Advloblig)**: 
+   - The **object complement (OC)** provides extra information about the direct object, describing or renaming it.
+   - The **obligatory adverbial (Advloblig)** provides essential circumstantial information such as location or state, completing the meaning of the verb.
+
+#### **Patterns for Complex Transitive Verbs**
+
+1. **Pattern 1: Subj + VCT + DO + OC**
+   - The object complement (OC) adds more detail or description to the direct object (DO). It can be an adjective phrase, noun phrase, or clause that provides additional information about the direct object.
+   
+   **Example Sentence**:
+   - *Still, he considered himself lucky.*
+     - *Himself* is the **direct object** (the person affected by the verb).
+     - *Lucky* is the **object complement**, describing the state of the direct object.
+   
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/76d285ef-2d8e-41cb-9592-2750ccdb05ed)
+
+   **Another Example**:
+   - *They found the boy friendly.*
+     - *The boy* is the **direct object**.
+     - *Friendly* is the **object complement** describing *the boy*.
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/e3ad9728-a67e-48bd-b87c-053eda014855)
+
+  
+   The above examples use adjective phrases as object complements. Sometimes, object complements can also be noun phrases:
+   ![image](https://github.com/user-attachments/assets/57a75bcb-7099-4805-83a1-db492fa7a30d)
+   ![image](https://github.com/user-attachments/assets/24914254-6aa8-4bb2-9ec9-a3f0b6c81cab)
+
+
+3. **Pattern 2: Subj + VCT + DO + Advloblig**
+   - In this pattern, the verb requires an **obligatory adverbial** instead of an object complement. This adverbial often indicates the location or state of the direct object.
+
+   **Example Sentence**:
+   - *The verdict left their hope in pieces.*
+     - *Their hope* is the **direct object** (the thing affected by the verb).
+     - *In pieces* is the **obligatory adverbial** indicating the resulting state of the direct object.
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/5631f4de-7403-41a6-85a9-97e6e4d18d5a)
+
+   **Another Example**:
+   - *Americans’ debts are driving the economy into a danger zone.*
+     - *The economy* is the **direct object**.
+     - *Into a danger zone* is the **obligatory adverbial** providing necessary detail about the state or location of the direct object.
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/f7f507b9-5877-4f6b-8018-0f873ffce26b)
+
+---
+
+Thank you for providing the text! I'll carefully create detailed, student-friendly notes on **multi-word verbs** without focusing on their types, as you've requested.
+
+---
+
+### Multi-Word Verbs
+
+**Multi-word verbs** consist of a main verb combined with one or more particles (like prepositions or adverbs) that, together, create a new, often idiomatic, meaning. In these verbs, the combination of words changes the literal meaning, making it necessary to interpret them as a unit.
+
+#### **Recognizing Multi-Word Verbs**
+To identify a multi-word verb, consider whether the verb and particle together create a unique meaning that doesn’t match the individual meanings of each word. For instance:
+- *He ended up homeless.* Here, *ended up* means *became*, which differs from *end* and *up* used separately.
+
+**Examples of Multi-Word Verbs with Single-Word Paraphrases**:
+1. *He **ended up** homeless.* (became)
+2. *The business **took off** after that.* (succeeded or grew)
+3. *The semi-truck had **shut down** the interstate.* (closed)
+4. *The court **looked at** traditional forms of communication.* (considered)
+
+When diagramming, treat these verb and particle/preposition combinations as single units under the **MV** node. 
+
+#### **Diagramming Multi-Word Verbs and Identifying Valency**
+
+Multi-word verbs can have different **valencies** based on the sentence’s structure. Let’s look at how to determine the valency by examining the number and function of constituents after the verb.
+
+1. **Multi-Word Verb with Copular Valency**:
+   - When the multi-word verb functions like a **copular verb**, it links the subject to additional descriptive information.
+   
+   **Example Sentence**:
+   - *He ended up homeless.*
+     - Here, *ended up* acts as a **copular verb** connecting *He* (subject) with *homeless* (subject complement), describing his state.
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/ee3219b5-86b2-477b-b60f-8625cdcd005d)
+
+
+2. **Multi-Word Verb with Intransitive Valency**:
+   - When there’s no required element after the multi-word verb, it has an **intransitive** valency.
+   
+   **Example Sentence**:
+   - *After that, the business really took off.*
+     - Here, *took off* stands alone with no required direct or indirect object, making it an **intransitive verb**.
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/e75a9cd2-f6b5-442b-9e39-f0cf31b2185f)
+
+3. **Multi-Word Verb with Monotransitive Valency**:
+   - When the multi-word verb requires a **direct object** to complete the meaning, it has a **monotransitive** valency.
+   
+   **Example Sentence**:
+   - *The semi-truck rollover had shut down the interstate.*
+     - Here, *shut down* acts on *the interstate* (direct object), making the verb monotransitive.
+
+   **Diagram**:
+   ![image](https://github.com/user-attachments/assets/bd45155a-4bb5-4147-aebb-b7200d55199e)
+
+
+4. **Monotransitive Multi-Word Verbs with Particle Movement**:
+   - For some monotransitive multi-word verbs, the particle can move after the direct object. In these cases, both forms are correct:
+     - *The semi-truck rollover had shut down the interstate.*
+     - *The semi-truck rollover had shut the interstate down.*
+
+   - **Diagram**:
+     ![image](https://github.com/user-attachments/assets/8fae6661-d4b1-4728-bf49-5fc33ad53b25)  
+
+     - Use **…** in the diagram to show the particle’s movement after the direct object. Place an arrow to indicate the particle’s surface position in the sentence.
+
+### Voice
+![image](https://github.com/user-attachments/assets/e0a04656-59d6-4431-856e-f8438a5efdc7)
+
+**Voice** in English describes the relationship between the subject and the action of the verb. There are two primary voices:
+1. **Active Voice**: The subject performs the action.
+2. **Passive Voice**: The subject receives the action.
+
+---
+
+#### **Understanding Active Voice**
+
+In **active voice**, the sentence follows the typical structure where:
+- The **subject** performs the action.
+- The **verb** is in a straightforward form.
+- Any **object** follows the verb, receiving the action.
+
+**Example of Active Voice**:
+- *The operative collected the information from Russian intelligence sources.*
+  - Here, *the operative* is the **subject** performing the action on *the information*, which is the **direct object**.
+
+---
+
+#### **Transforming from Active Voice to Passive Voice**
+
+In **passive voice**, the action is emphasized rather than the subject performing it. Follow these steps to transform an active sentence into passive voice:
+
+1. **Move the Direct Object to the Subject Position**:
+   - In passive voice, the **direct object** of the active sentence becomes the **grammatical subject**.
+
+2. **Add an Auxiliary Verb**:
+   - Insert a form of **BE** (e.g., is, was, were) before the main verb. Match the **tense** of the auxiliary verb to the original main verb.
+   - Caveat: Sometimes BE can be replaced by GET.
+
+3. **Change the Main Verb to its Past Participle**:
+   - Use the **-ed** or past participle form of the main verb (e.g., collected → is collected).
+
+4. **Add a "By" Phrase for the Original Subject** (optional):
+   - Place the original subject in a **by-phrase** in the predicate if you wish to keep it. This is called a **long passive**. Omitting it is called a **short passive**.
+
+**Example Transformation**:
+- **Active**: *The operative collects the information.*
+- **Long Passive**: *The information is collected by the operative.*
+- **Short Passive**: *The information is collected.*
+
+---
+
+#### **Valency and Passive Voice**
+
+Only **transitive verbs** (verbs that require an object) can be in passive voice. To analyze valency, first convert the passive back to active form:
+- **Example**:
+  - *The information is collected by the operative.*
+  - **Active Form**: *The operative collects the information.* This is **monotransitive** (one direct object required).
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/6785d840-fccf-4848-b08c-d6fb05a29726)
+
+
+When diagramming passive voice, note both the **grammatical function** (position in the sentence) and the **logical function** (role in the action).
+
+1. **Grammatical Subject**: *The information* serves as the grammatical subject but is logically the **direct object**.
+2. **Verb Phrase**: Contains **is** (auxiliary) and **collected** (past participle).
+3. **By-Phrase**: *By the operative* is an adverbial prepositional phrases showing the logical subject. *The operative* is the logical subject.
+
+**To confirm a clause is in passive voice:**
+- Check if the verb phrase includes BE/GET (auxiliary) + past participle (main verb).
+- Determine if an active version exists, where the logical subject performs the action.
+
+---
+
+#### **Passive Voice Patterns with Different Verbs**
+
+1. **Monotransitive Passive**:
+   - *The priceless Ming vase was dropped.* (Active: *Someone dropped the priceless Ming vase.*)
+
+![image](https://github.com/user-attachments/assets/21b8e76f-090f-4dfd-94af-eb3af5046eb2)
+
+
+2. **Ditransitive Passive**:
+   - Ditransitive verbs allow for both the direct and indirect objects to become the subject.
+   - **Example**:
+     - *No other power had been given to the delegates.* 
+     - (Active: *Someone had given no other power to the delegates.*)
+
+![image](https://github.com/user-attachments/assets/ffbfec02-764b-4362-b148-4a30be96dd69)
+
+   - **Example**:
+     - *The subjects were handed a copy of the test.* 
+     - (Active: *(someone) handed the subjects a copy of the test.*)
+
+![image](https://github.com/user-attachments/assets/53e480a8-2a83-4080-a973-0a945a4ff057)
+
+3. **Complex Transitive Passive**:
+   - Complex transitive verbs in passive voice can have an **object complement** or **obligatory adverbial**.
+   - **Example**:
+     - *The third style of meditation has been called unfocused.*
+     - (Active: *Someone has called the third style of meditation unfocused.*)
+
+![image](https://github.com/user-attachments/assets/7b3e82f7-5a96-4357-aaf3-db7d227ad198)
+
+
+4. **Transitive Multi-Word Verbs in Passive**:
+   - Transitive multi-word verbs can also be in passive voice.
+   - **Example**:
+     - *The errors should be pointed out immediately.*
+     - (Active: *Someone should point out the errors immediately.*)
+
+![image](https://github.com/user-attachments/assets/90a67a5b-5459-4533-8275-1902e495e6f9)
+
+---
+
 ## 10/24 Clause Constituents and Verb Valency (cont.)
 **Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)**
 
