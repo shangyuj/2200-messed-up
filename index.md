@@ -68,10 +68,6 @@ Here’s a breakdown of the key features:
 
 ---
 
-Thank you for providing the text! I'll carefully create detailed, student-friendly notes on **multi-word verbs** without focusing on their types, as you've requested.
-
----
-
 ### Multi-Word Verbs
 
 **Multi-word verbs** consist of a main verb combined with one or more particles (like prepositions or adverbs) that, together, create a new, often idiomatic, meaning. In these verbs, the combination of words changes the literal meaning, making it necessary to interpret them as a unit.
