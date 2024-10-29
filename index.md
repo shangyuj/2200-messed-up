@@ -38,7 +38,7 @@ Here’s a breakdown of the key features:
      - *The boy* is the **direct object**.
      - *Friendly* is the **object complement** describing *the boy*.
 
-   **Diagram**:
+   **Diagram**:  
    ![image](https://github.com/user-attachments/assets/e3ad9728-a67e-48bd-b87c-053eda014855)
 
   
@@ -55,7 +55,7 @@ Here’s a breakdown of the key features:
      - *Their hope* is the **direct object** (the thing affected by the verb).
      - *In pieces* is the **obligatory adverbial** indicating the resulting state of the direct object.
 
-   **Diagram**:
+   **Diagram**:  
    ![image](https://github.com/user-attachments/assets/5631f4de-7403-41a6-85a9-97e6e4d18d5a)
 
    **Another Example**:
