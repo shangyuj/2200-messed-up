@@ -130,6 +130,8 @@ Multi-word verbs can have different **valencies** based on the sentence’s stru
 
      - Use **…** in the diagram to show the particle’s movement after the direct object. Place an arrow to indicate the particle’s surface position in the sentence.
 
+---
+
 ### Voice
 ![image](https://github.com/user-attachments/assets/e0a04656-59d6-4431-856e-f8438a5efdc7)
 
