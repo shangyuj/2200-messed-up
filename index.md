@@ -1,5 +1,10 @@
 # English 2200
 
+## 10/31 Optional review session
+We take a break to let the knowledge sink in.  
+![image](https://github.com/user-attachments/assets/22e6625c-838b-4a99-845f-33bc0947ab7c)
+
+
 ## 10/29 Clause Constituents and Verb Valency (cont.) & Voice
 ### Valency Review
 - copular
