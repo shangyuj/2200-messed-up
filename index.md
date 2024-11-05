@@ -156,10 +156,6 @@ In tree diagrams:
 - **Main Clause**: Appears as the top-level structure in the diagram.
 - **Subordinate Clause**: Appears as an embedded node within the main clause, labeled according to its function (e.g., **fin sub cls:DO** for a finite subordinate clause acting as a direct object).
 
-#### Example with Subordinate Clause
-
-
-
 ## 10/31 Optional review session
 We take a break to let the knowledge sink in.   
   
