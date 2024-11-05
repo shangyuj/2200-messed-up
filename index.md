@@ -1,5 +1,165 @@
 # English 2200
 
+## 11/5 Coordination & Subordination: Introduction
+
+### Overview of Coordination
+
+**Coordination** is a syntactic structure in which two or more elements are linked by coordinating conjunctions to serve the same grammatical role within a phrase or clause. The linked elements are of equal syntactic status, meaning they share the same role in the sentence's grammatical structure.
+
+#### Coordinating Conjunctions
+In English, common coordinating conjunctions (also known as coordinators) include:
+- **Single-word Coordinators**: `and`, `or`, `but`, `nor`
+- **Correlative Coordinators**: Pairs such as `either...or`, `neither...nor`, `both...and`, `not only...but also`
+
+> **Example**:
+> - **Sentence**: *Colleges and universities are experiencing declines in enrollment.*
+> - In this example, *colleges* and *universities* are coordinated using the conjunction **and**, and both serve as the subject of the sentence.
+
+### Diagramming Coordination
+
+In sentence diagrams, coordinated elements are represented together under a single node to show their equal syntactic status. The coordinating conjunction appears between the elements at the same hierarchical level, visually indicating their relationship.
+
+#### Example Diagram
+
+Consider the sentence:
+
+> *Colleges and universities are experiencing declines in enrollment.*
+
+- **Breakdown**:
+  - The words *colleges* and *universities* are nouns that jointly serve as the subject of the sentence.
+  - **Diagram**: Both nouns are connected under one node, with the coordinator **and** linking them.
+
+Here’s how the sentence would look in a syntactic tree diagram:
+
+![image](https://github.com/user-attachments/assets/3b67ff4e-a177-46d0-8691-1561ec2aca96)
+
+
+### Types of Coordination
+
+#### 1. Word-Level Coordination
+
+At the word level, coordination can connect nouns, adjectives, or verbs that share the same syntactic role.
+
+**Examples**:
+1. **Coordinated Nouns**: *These works reflect contemporary ideas about race, class, and gender.*
+2. **Coordinated Adjectives**: *Business at the shop had been slow but steady.*
+
+Each example illustrates coordination at the word level, using a conjunction to link elements that share the same grammatical role within the sentence.
+
+- **Diagram for Coordinated Nouns (Example 1)**:
+ ![image](https://github.com/user-attachments/assets/752bb93e-0fe9-42b6-99c1-6b5dd47555c8)
+
+
+- **Diagram for Coordinated Adjectives (Example 2)**:
+![image](https://github.com/user-attachments/assets/56624d59-1826-440e-a9a6-7c8fc1de73b3)
+
+
+#### 2. Phrase-Level Coordination
+
+Coordination can also occur between entire phrases, such as noun phrases or verb phrases, where both phrases serve the same function in the sentence.
+
+**Examples**:
+![image](https://github.com/user-attachments/assets/f9af996d-d554-4225-819a-a6e8387e4cbb)
+![image](https://github.com/user-attachments/assets/ad56c5cd-292d-4bfc-8ef8-eccae81fe4f9)
+![image](https://github.com/user-attachments/assets/17eacb4a-1f52-4652-9a35-d7f57aa5ddde)
+![image](https://github.com/user-attachments/assets/2455a392-361b-4645-9472-262a667588d3)
+
+#### 3. Clause-Level Coordination
+
+Finally, coordination can connect entire clauses, giving each clause equal syntactic weight within the sentence.
+
+**Example**:
+- *I just have to say it or I might burst.*
+
+In this sentence, the coordinator **or** links two clauses (*I just have to say it* and *I might burst*), each of which could stand alone as an independent clause.
+
+**Diagram for Coordinated Clauses**:
+
+![image](https://github.com/user-attachments/assets/d59155c1-13bd-420f-b082-beaafd39f923)
+
+Here is the detailed class note for **B. Overview of Main Clauses vs. Subordinate Clauses**, with explanations and diagrams to help students understand the distinctions.
+
+---
+
+### Overview of Main Clauses vs. Subordinate Clauses
+
+In English syntax, sentences are often composed of different types of clauses. These clauses can be **main (independent) clauses** or **subordinate (dependent) clauses**. Understanding how these clauses function and interact helps us analyze complex sentences and understand sentence structure.
+
+### Main (Independent) Clauses
+
+A **main clause** is a complete clause that can stand alone as a sentence. It has:
+- A subject
+- A finite verb phrase (with tense or modality)
+- Any required constituents, such as objects or complements
+- Optional elements like adverbials
+
+**Example of a Main Clause**:
+> *I had promised him the next waltz.*
+
+- **Analysis**: This clause is independent and complete. It has a subject (*I*), a verb phrase (*had promised*), an indirect object (*him*), and a direct object (*the next waltz*).
+
+#### Diagram for Main Clause
+
+![image](https://github.com/user-attachments/assets/9865b040-ffe6-4d35-81c2-0ab41da3402e)
+
+
+### Subordinate (Dependent) Clauses
+
+A **subordinate clause** cannot stand alone as a complete sentence. It relies on a main clause and fills a syntactic role within that main clause (e.g., as a subject, object, or adverbial).
+
+A subordinate clause is **embedded** within a main clause, meaning it acts as a constituent of the main clause.
+
+#### Embedded Clause Example
+
+Let’s modify the main clause example above by replacing the direct object noun phrase with an entire clause:
+
+> *I had promised him that the money didn’t mean anything.*
+
+- **Explanation**: Here, the clause *that the money didn’t mean anything* serves as the **direct object** of the main clause *I had promised him X*. This clause is embedded within the main clause and cannot stand alone.
+
+#### Diagram for Sentence with Subordinate Clause as Direct Object
+
+![image](https://github.com/user-attachments/assets/17abfce3-19a7-4a5b-9b90-cd7dbb96339b)
+
+
+### Characteristics of Subordinate Clauses
+
+1. **Dependence on the Main Clause**: Subordinate clauses are also called dependent clauses because they cannot stand alone; they require a main clause to form a complete sentence.
+
+2. **Syntactic Role within the Main Clause**: Subordinate clauses fill a syntactic role within the main clause, such as the subject, direct object, or adverbial.
+
+3. **Embedded Structure**: In diagrams, a subordinate clause is often shown as an embedded structure within the main clause.
+
+---
+
+### Types of Subordinate Clauses (Preview)
+
+Subordinate clauses can take various forms depending on their structure and role within the sentence. Here are some key types:
+  
+1. **Finite Subordinate Clauses**: Contain a subject and verb phrase marked for tense or modality.
+2. **Non-Finite Subordinate Clauses**: Often lack an expressed subject and use verb forms that do not indicate tense (e.g., *to eat*, *eating*, *eaten*).
+
+In this module, we will focus on **finite subordinate clauses** and their roles within main clauses, including:
+   - **That-complement clauses**
+   - **Wh-complement clauses**
+   - **If/whether complement clauses**
+   - **Finite adverbial clauses**
+   - **relative clauses**
+
+Non-finite clauses will be covered in the next module.
+
+---
+
+### Recognizing Main vs. Subordinate Clauses in Diagramming
+
+In tree diagrams:
+- **Main Clause**: Appears as the top-level structure in the diagram.
+- **Subordinate Clause**: Appears as an embedded node within the main clause, labeled according to its function (e.g., **fin sub cls:DO** for a finite subordinate clause acting as a direct object).
+
+#### Example with Subordinate Clause
+
+
+
 ## 10/31 Optional review session
 We take a break to let the knowledge sink in.   
   
