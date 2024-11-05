@@ -1,8 +1,9 @@
 # English 2200
 
 ## 10/31 Optional review session
-We take a break to let the knowledge sink in.  
-![image](https://github.com/user-attachments/assets/22e6625c-838b-4a99-845f-33bc0947ab7c)
+We take a break to let the knowledge sink in.   
+  
+![image](https://github.com/user-attachments/assets/0a923f01-28fc-4803-88ae-0777e76c6e2b)
 
 
 ## 10/29 Clause Constituents and Verb Valency (cont.) & Voice
