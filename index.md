@@ -8,7 +8,7 @@
 
 #### Coordinating Conjunctions
 In English, common coordinating conjunctions (also known as coordinators) include:
-- **Single-word Coordinators**: `and`, `or`, `but`, `nor`
+- **Single-word Coordinators**: `and`, `or`, `but`, `nor`, `yet`
 - **Correlative Coordinators**: Pairs such as `either...or`, `neither...nor`, `both...and`, `not only...but also`
 
 > **Example**:
@@ -76,8 +76,6 @@ In this sentence, the coordinator **or** links two clauses (*I just have to say 
 **Diagram for Coordinated Clauses**:
 
 ![image](https://github.com/user-attachments/assets/d59155c1-13bd-420f-b082-beaafd39f923)
-
-Here is the detailed class note for **B. Overview of Main Clauses vs. Subordinate Clauses**, with explanations and diagrams to help students understand the distinctions.
 
 ---
 
