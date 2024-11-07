@@ -1,12 +1,16 @@
 # English 2200
 
+## 11/7 Finite Subordinate Clauses
+
+
+
 ## 11/5 Coordination & Subordination: Introduction
 
 ### Overview of Coordination
 
 **Coordination** is a syntactic structure in which two or more elements are linked by coordinating conjunctions to serve the same grammatical role within a phrase or clause. The linked elements are of equal syntactic status, meaning they share the same role in the sentence's grammatical structure.
 
-#### Coordinating Conjunctions
+### Coordinating Conjunctions
 In English, common coordinating conjunctions (also known as coordinators) include:
 - **Single-word Coordinators**: `and`, `or`, `but`, `nor`, `yet`
 - **Correlative Coordinators**: Pairs such as `either...or`, `neither...nor`, `both...and`, `not only...but also`
@@ -19,7 +23,7 @@ In English, common coordinating conjunctions (also known as coordinators) includ
 
 In sentence diagrams, coordinated elements are represented together under a single node to show their equal syntactic status. The coordinating conjunction appears between the elements at the same hierarchical level, visually indicating their relationship.
 
-#### Example Diagram
+### Example Diagram
 
 Consider the sentence:
 
@@ -138,10 +142,10 @@ Subordinate clauses can take various forms depending on their structure and role
 2. **Non-Finite Subordinate Clauses**: Often lack an expressed subject and use verb forms that do not indicate tense (e.g., *to eat*, *eating*, *eaten*).
 
 In this module, we will focus on **finite subordinate clauses** and their roles within main clauses, including:
-   - **That-complement clauses**
-   - **Wh-complement clauses**
-   - **If/whether complement clauses**
-   - **Finite adverbial clauses**
+   - **_that_-complement clauses**
+   - **_wh_-complement clauses**
+   - **_if_/_whether_ complement clauses**
+   - **finite adverbial clauses**
    - **relative clauses**
 
 Non-finite clauses will be covered in the next module.
