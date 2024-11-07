@@ -2,7 +2,186 @@
 
 ## 11/7 Finite Subordinate Clauses
 
+### Review: Diagramming Coordination
+1. The manager and the assistant reviewed the report.
+2. The weather was cold and windy.
+3. They bought new chairs and fixed the old tables.
+4. He read the book, but he didn’t understand it.
 
+### Review: Types of Subordination (only clausal level)
+
+A **subordinate clause** (or dependent clause) cannot stand alone as a complete sentence. It depends on a **main (independent) clause** to complete its meaning and fulfill a grammatical role within the sentence. These roles can include acting as subjects, objects, adverbials, or complements.
+
+Subordinate clauses are often introduced by specific **subordinating conjunctions** or **relativizers** (such as *that*, *who*, *if*, *when*, etc.) that help indicate their function.
+
+The main types of subordinate clauses are:
+
+- **_that_-complement clauses**
+- **_wh_-complement clauses**
+- **_if_/_whether_ complement clauses**
+- **finite adverbial clauses**
+- **relative clauses**
+
+Now we learn each of these clause types in detail. 
+
+---
+
+### _That_-Complement Clauses
+
+**_That_-complement clauses** (often called **_that_-clauses**) are **finite subordinate clauses** beginning with the word **_that_**. They are controlled by **verbs**, **adjectives**, **adverbs**, and **nouns** in a sentence. 
+
+In this context, **control** means that a specific word (the controlling word) governs or relates directly to the _that_-clause. The _that_-clause is syntactically tied to the meaning of this controlling word and often provides additional information required to complete its meaning. 
+
+- **Controlling Word**: The word whose meaning is ‘complemented’ by the _that_-clause.
+- **Examples of Controlling Words**: Verbs like *think*, adjectives like *aware*, or nouns like *idea*.
+
+**Example**:
+> *I think **that we should just do away with it altogether.***
+
+- In this example:
+  - **Controlling Word**: The verb *think*.
+  - **That-Complement Clause**: *that we should just do away with it altogether*, which acts as the **direct object** of the verb, completing its meaning.
+
+### Internal Structure of That-Complement Clauses
+
+Regardless of what controls them, all that-complement clauses share the same internal structure:
+
+1. **Subordinator (_that_)**: Introduces the clause and signals that an embedded clause will follow.
+2. **Complete Clause**: Contains its own **subject**, **verb phrase**, and any necessary objects or complements.
+
+**Simplified Example**:
+> *I think **that we should just do away with it altogether.***
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/e5be6bb3-bcde-48fe-9158-68b2109e51be)
+
+#### Terminology Note
+
+- **Subordinator vs. Complementizer**: The word **that** is sometimes called a *complementizer*, as it specifically introduces complement clauses. However, we will refer to it with the broader term **subordinator** in our diagrams.
+
+#### Omission of "That"
+
+- In some sentences, particularly those with **verb-controlled** that-clauses, the **that** subordinator can be omitted.
+- **Example**: *I think Ø we should just do away with it altogether.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/00d4c792-9987-437b-ae29-e34bd257c7ae)
+
+### Types of That-Complement Clauses Based on Controlling Words
+
+1. **Verb-Controlled _That_-Complement Clauses**
+2. **Adjective-Controlled _That_-Complement Clauses**
+3. **Adverb-Controlled _That_-Complement Clauses**
+4. **Noun-Controlled _That_-Complement Clauses**
+
+---
+
+### 1. Verb-Controlled That-Complement Clauses
+
+When a **verb** controls a that-complement clause, the that-clause fills a syntactic role required by the verb, typically as a **subject**, **direct object**, or **subject complement**.
+
+#### That-Clause as Subject
+
+Although rare, a that-complement clause can function as the **subject** of the sentence.
+
+**Example**:
+> *That the technique is in demand is no surprise.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/25d40410-fbb4-4f39-a1df-48b2048acffc)
+
+
+#### That-Clause as Direct Object (Monotransitive Verb)
+
+A that-complement clause commonly functions as the **direct object** of a verb, providing the content of what the subject thinks, remembers, etc.
+
+**Example**:
+> *Tom remembered that the sight of them had made him smile.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/62872858-554f-4ce0-9db3-e4adb7978986)
+
+
+#### That-Clause as Direct Object (Ditransitive Verb)
+
+In some sentences, the that-complement clause serves as a **direct object** of a ditransitive verb, with an additional **indirect object** present.
+
+**Example**:
+> *She told her mother that she worried too much.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/2e18255c-a612-4541-b404-1071978b0535)
+
+#### That-Clause as Direct Object (Passive Verb Phrase)
+
+That-complement clauses can also act as the direct object in sentences with passive verb phrases.
+
+**Example**:
+> *I had been promised that it would be quiet and peaceful.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/1c340df7-f904-4daa-af8e-0cb1d12c8eb3)
+
+
+#### That-Clause as Subject Complement (Copular Verb)
+
+When a copular verb is used, a that-complement clause can function as a **subject complement**, completing the subject’s meaning.
+
+**Example**:
+> *One explanation may be that self-esteem measures are not sufficiently specific.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/6480bdb8-3fe7-471a-af3d-a85f891b2529)
+
+
+---
+
+### 2. Adjective-Controlled That-Complement Clauses
+
+When controlled by an **adjective**, the that-complement clause completes the adjective’s meaning by explaining or expanding on the subject’s state or feeling.
+
+**Example**:
+> *They were happy that I had succeeded.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/980941b5-f6b5-4518-b164-3fa44fa43b22)
+
+---
+
+### 3. Adverb-Controlled That-Complement Clauses
+
+An adverb-controlled that-complement clause provides additional information related to the intensity or extent of an action.
+
+**Example**:
+> *Jenny startled so badly that she screamed.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/b2306952-8298-4d44-8031-ffcc9a69c252)
+
+(the _that_-clause completes the meaning of "badly," providing the result from how badly she startled)
+
+---
+
+### 4. Noun-Controlled That-Complement Clauses
+
+With **noun-controlled** that-complement clauses, the clause specifies the content of the abstract noun, often acting as a further definition.
+
+**Example**:
+> *The idea that any noise could condemn you to death is a fundamental staple of horror movies.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/bf2cdc14-8853-46c1-bcd8-b96224a8d25d)
+
+the _that_-clause completes the meaning of "idea," stating what the idea actually is:  
+- the idea = any noise could condemn you to death
+
+### Exercise
+2. He thought that they might arrive early.
+3. They were told that the meeting was canceled.
+5. We were relieved that the test was postponed.
+6. The dog barked so loudly that the neighbors complained.
+8. The idea that we could visit Japan excited everyone.
+12. The assumption that everyone understood the instructions was incorrect.
 
 ## 11/5 Coordination & Subordination: Introduction
 
@@ -36,7 +215,6 @@ Consider the sentence:
 Here’s how the sentence would look in a syntactic tree diagram:
 
 ![image](https://github.com/user-attachments/assets/3b67ff4e-a177-46d0-8691-1561ec2aca96)
-
 
 ### Types of Coordination
 
