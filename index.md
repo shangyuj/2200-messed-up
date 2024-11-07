@@ -52,7 +52,7 @@ Regardless of what controls them, all that-complement clauses share the same int
 **Simplified Example**:
 > *I think **that we should just do away with it altogether.***
 
-**Diagram**:
+**Diagram**:  
 ![image](https://github.com/user-attachments/assets/e5be6bb3-bcde-48fe-9158-68b2109e51be)
 
 #### Terminology Note
@@ -64,7 +64,7 @@ Regardless of what controls them, all that-complement clauses share the same int
 - In some sentences, particularly those with **verb-controlled** that-clauses, the **that** subordinator can be omitted.
 - **Example**: *I think Ø we should just do away with it altogether.*
 
-**Diagram**:
+**Diagram**:  
 ![image](https://github.com/user-attachments/assets/00d4c792-9987-437b-ae29-e34bd257c7ae)
 
 ### Types of That-Complement Clauses Based on Controlling Words
@@ -176,12 +176,157 @@ the _that_-clause completes the meaning of "idea," stating what the idea actuall
 - the idea = any noise could condemn you to death
 
 ### Exercise
-2. He thought that they might arrive early.
+1. He thought that they might arrive early.
 3. They were told that the meeting was canceled.
 5. We were relieved that the test was postponed.
 6. The dog barked so loudly that the neighbors complained.
 8. The idea that we could visit Japan excited everyone.
 12. The assumption that everyone understood the instructions was incorrect.
+
+---
+
+### D. Finite _Wh_-Complement Clauses
+
+**_Wh_-complement clauses** (or **_wh_-clauses**) are a type of finite complement clause that typically start with a **_wh_-word**. These clauses are sometimes called **interrogative subordinate clauses** because they can express **indirect questions**. They are structurally similar to **_wh_-questions** (like *Who are we going to see?*), but they function differently within sentences.
+
+Like **_that_-complement clauses**, _wh_-clauses can occur as complements controlled by **verbs**, **adjectives**, and **nouns**. 
+
+---
+
+### Example of a Verb-Controlled Wh-Complement Clause
+
+In the sentence below, the embedded wh-clause functions as the **direct object** of the verb (bolded), and the _wh_-clause is underlined.
+
+> *Rachel can’t remember **what they served last year**.*
+
+- **Controlling Word**: The verb *remember*.
+- **_Wh_-Complement Clause** (Direct Object): *what they served last year*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/27841f83-9fe9-4f04-bb98-40b2c32ae98b)
+
+---
+
+### Structure of _Wh_-Complement Clauses
+
+A _wh_-complement clause is similar to _that_-complement clauses in structure. It begins with a **subordinator**, which is the **_wh_-word** (e.g., *what*, *who*, *where*). This subordinator signals the start of the embedded clause, followed by a complete clause that contains:
+- A subject,
+- A verb phrase marked for tense or modality,
+- Any required constituents.
+
+**Example Structure**:
+![image](https://github.com/user-attachments/assets/2a910e90-ed3c-4e0c-a7e5-40e20ec0eaa8)
+
+### Missing Constituent: The Gap
+
+One distinctive feature of _wh_-complement clauses is the **gap**—a missing constituent in the clause, which is represented by the _wh_-word itself. The _wh_-word **fills the gap** by moving to the front of the clause, and this gap represents a missing constituent within the clause.
+
+**Example with Gap Identification**:
+> *They served Ø last year.*
+> - Here, *something* is missing in the object slot, replaced by the wh-word *what*.
+
+This structure is rephrased as:
+> *what they served last year*
+
+In full diagrams for wh-clauses, an arrow shows the movement of the wh-word to the front of the clause, linking it back to the gap.
+
+**Diagram with Movement Arrow**:
+![image](https://github.com/user-attachments/assets/8f29f362-ab19-4424-8a18-a106e8d01258)
+
+In abbreviated diagrams, we use an arrow to show this relationship between the _wh_-subordinator and the embedded clause, as seen below:
+
+**Abbreviated Diagram**:
+![image](https://github.com/user-attachments/assets/65e4c3e6-8e5f-42a4-8dd5-33904c523601)
+
+
+### Positions for the Missing Constituent (Gap)
+
+The _wh_-word can fulfill different syntactic roles in the embedded clause by filling in the gap for various types of missing constituents.
+
+---
+
+### Types of Wh-Complement Clauses Based on Control
+
+Wh-complement clauses can occur in various syntactic positions within the main clause, depending on whether they are controlled by a **verb**, **adjective**, or **noun**.
+
+---
+
+### 1. Verb-Controlled Wh-Complement Clauses
+
+#### Wh-Clause as Subject
+
+A wh-clause can serve as the **subject** of the main clause.
+
+**Example**:
+> *What was in his heart doesn’t matter.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/350925e6-5895-4738-9970-46fc6bb7ad99)
+
+
+#### Wh-Clause as Subject Complement
+
+A wh-clause can also act as a **subject complement** for a copular verb.
+
+**Example**:
+> *That would have been how Grandfather would do it.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/265a6afc-7162-4f7c-8a23-70d6525e31ac)
+
+
+#### Wh-Clause as Direct Object (Monotransitive Verb)
+
+A wh-clause can serve as a **direct object** of a monotransitive verb.
+
+**Example**:
+> *They had carefully recorded what they had taken.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/163dc5dd-3bc0-439f-9de4-c1301c5328aa)
+
+
+#### Wh-Clause as Direct Object (Ditransitive Verb)
+
+Wh-clauses can serve as the **direct object** of a ditransitive verb as well.
+
+**Example**:
+> *I told them when everyone had to clear out.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/294f4b31-6720-40f7-a696-8a57f26ecbd3)
+
+---
+
+### 2. Adjective- and Noun-Controlled Wh-Complement Clauses
+
+#### Wh-Clause as Adjective Complement
+
+A wh-complement clause can also function as an **adjective complement**, completing the meaning of an adjective.
+
+**Example**:
+> *I wasn’t sure who hung up first.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/0ee94a60-cb5b-4e0d-83cf-e98633ed675d)
+
+
+#### Wh-Clause as Noun Complement
+
+Wh-clauses can also complete the meaning of a **noun**, often describing the content or specifics of the noun.
+
+**Example**:
+> *I have no question what his ambitions are.*
+
+**Diagram**:
+![image](https://github.com/user-attachments/assets/c19473d9-b4b3-4446-8078-605eb1612055)
+
+### Exercise
+1. She wondered what he meant.
+2. They couldn't remember where they parked the car.
+3. I don't know who called last night.
+4. He was unsure why the results changed.
+5. The teacher explained how the experiment worked.
 
 ## 11/5 Coordination & Subordination: Introduction
 
