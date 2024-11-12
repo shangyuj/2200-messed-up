@@ -19,7 +19,7 @@ In the sentence below, the embedded wh-clause functions as the **direct object**
 - **Controlling Word**: The verb *remember*.
 - **_Wh_-Complement Clause** (Direct Object): *what they served last year*
 
-**Diagram**:
+**Diagram**:  
 ![image](https://github.com/user-attachments/assets/27841f83-9fe9-4f04-bb98-40b2c32ae98b)
 
 ---
@@ -31,7 +31,7 @@ A _wh_-complement clause is similar to _that_-complement clauses in structure. I
 - A verb phrase marked for tense or modality,
 - Any required constituents.
 
-**Example Structure**:
+**Example Structure**:  
 ![image](https://github.com/user-attachments/assets/2a910e90-ed3c-4e0c-a7e5-40e20ec0eaa8)
 
 ### Missing Constituent: The Gap
@@ -47,12 +47,12 @@ This structure is rephrased as:
 
 In full diagrams for wh-clauses, an arrow shows the movement of the wh-word to the front of the clause, linking it back to the gap.
 
-**Diagram with Movement Arrow**:
+**Diagram with Movement Arrow**:  
 ![image](https://github.com/user-attachments/assets/8f29f362-ab19-4424-8a18-a106e8d01258)
 
 In abbreviated diagrams, we use an arrow to show this relationship between the _wh_-subordinator and the embedded clause, as seen below:
 
-**Abbreviated Diagram**:
+**Abbreviated Diagram**:  
 ![image](https://github.com/user-attachments/assets/65e4c3e6-8e5f-42a4-8dd5-33904c523601)
 
 
@@ -88,7 +88,7 @@ A wh-clause can also act as a **subject complement** for a copular verb.
 **Example**:
 > *That would have been how Grandfather would do it.*
 
-**Diagram**:
+**Diagram**:  
 ![image](https://github.com/user-attachments/assets/265a6afc-7162-4f7c-8a23-70d6525e31ac)
 
 
@@ -96,10 +96,10 @@ A wh-clause can also act as a **subject complement** for a copular verb.
 
 A wh-clause can serve as a **direct object** of a monotransitive verb.
 
-**Example**:
+**Example**:  
 > *They had carefully recorded what they had taken.*
 
-**Diagram**:
+**Diagram**:  
 ![image](https://github.com/user-attachments/assets/163dc5dd-3bc0-439f-9de4-c1301c5328aa)
 
 
@@ -107,10 +107,10 @@ A wh-clause can serve as a **direct object** of a monotransitive verb.
 
 Wh-clauses can serve as the **direct object** of a ditransitive verb as well.
 
-**Example**:
+**Example**:  
 > *I told them when everyone had to clear out.*
 
-**Diagram**:
+**Diagram**:  
 ![image](https://github.com/user-attachments/assets/294f4b31-6720-40f7-a696-8a57f26ecbd3)
 
 **Example**:
