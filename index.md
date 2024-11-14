@@ -1,5 +1,103 @@
 # English 2200
 
+## 11/14 Finite Subordinate Clauses (cont.): Adverbial clauses & relative clauses
+
+### Finite Adverbial Subordinate Clauses
+
+Finite adverbial subordinate clauses always fill an adverbial role in the main clause. They convey a range of adverbial meanings, such as when something happened (time adverbials), where something happened (place adverbials), and how something happened (manner adverbials)—typical meanings associated with adverbials.
+
+#### Examples of Time, Place, and Manner Adverbials:
+- **Time:**  
+  - *After we explained our situation, he let us in.*  
+  - *When they called us to lunch, many people did not go.*
+  - *These criteria are met once the prosecution negotiates pleas with defendants.*
+  - *I would doze off on the sofa while the kids were awake.*
+
+- **Place:**  
+  - *Wherever she went, she saw many fine and beautiful things.*
+
+- **Manner:**  
+  - *We will go on, as though it never happened.*  
+  - *They just might transform your game like they did for me.*
+
+Finite adverbial clauses also convey other meanings such as reason, purpose, result, concession, and condition.
+
+#### Examples of Other Adverbial Meanings:
+- **Reason:** *I had misgivings about that because our equipment was far too inferior.*
+- **Purpose:** *Since the program had been a success, the company applied for a full permit.*
+- **Result:** *Everyone should see it soon, so that we can really exchange opinions.*
+
+- **Concession:** Despite the main clause's truth, other facts may contradict it.
+  - *Although she rarely is the protagonist, her presence is felt and appreciated in books and film.*
+  - *This article concentrates on software, even though threats also arise from hardware, insiders, and physical attacks.*
+
+- **Condition/Contingency:** The main clause is true only if specific conditions are met.
+  - *If our interpretation is correct, we are led toward a completely different view.*
+  - *Most students only take the test one time, unless they didn't pass it.*
+  - *Stats and carries don't mean anything to me, as long as we win games.*
+
+### Structure of Finite Adverbial Clauses
+Finite adverbial clauses begin with a **subordinator** (also known as an adverbial subordinator), which is followed by a complete finite clause with a subject, verb phrase marked for tense or modality, and any required constituents.
+
+#### Diagram Example:
+- *After we explained our situation, he let us in.*
+![image](https://github.com/user-attachments/assets/a43acbc0-daa8-441b-b493-04d2097fe3e1)
+
+### Characteristics of Adverbial Clauses
+1. **Nature of the Subordinator:** Some subordinators consist of multiple words (e.g., *as though*, *even though*, *as long as*).
+2. **Position of the Clause:** Finite adverbial clauses can occur in **sentence-initial** or **sentence-final** positions.
+
+#### Multi-Word Subordinator Examples:
+  - *as though it never happened*
+  - *so that we can really exchange opinions*
+
+![image](https://github.com/user-attachments/assets/e63238e1-8984-4bed-b3c5-496bcfd4a71e)
+
+
+### Diagramming Sentence Positions
+1. **Sentence-Initial Position:** Diagrammed directly from the main "S" node.
+   - *After we explained our situation, he let us in.*
+![image](https://github.com/user-attachments/assets/5ae0267f-cedb-44e8-a8ab-3825105b84ba)
+
+
+2. **Sentence-Final Position:** Diagrammed from the LVP node.
+   - *These criteria are met once the prosecution negotiates pleas with defendants.*
+![image](https://github.com/user-attachments/assets/80bfb1bc-d622-40f3-aa25-4de2ce761b14)
+
+
+### Complement vs. Finite Adverbial Clauses
+Some finite adverbial clauses look similar to wh-complement clauses and finite clauses with *if/whether*. The difference lies in the syntactic role of the embedded clause:
+
+- **Complement Clauses** (obligatory): Fill required roles (e.g., direct object).
+  - *You never know **when trouble will crop up**.*  
+  - *The brain monitors told them **when I woke up**.*
+
+- **Finite Adverbial Clauses** (optional): Modify the main clause, providing context without filling a required syntactic slot.
+  - *They will know the truth **when they hear it**.*
+  - *She had told the tale **when she was 21**.*
+
+### Sentence Diagrams by Type
+
+#### Sentence-Initial Examples:
+1. **Time Adverbial**
+   - *When they called us to lunch, many people did not go.*
+![image](https://github.com/user-attachments/assets/0d44947d-1c2d-4047-841e-2b5b973d508e)
+
+2. **Place Adverbial**
+   - *Wherever she went, she saw many fine and beautiful things.*
+![image](https://github.com/user-attachments/assets/acad9b45-67bb-48e3-bd80-97274f9f00c7)
+
+
+#### Sentence-Final Examples:
+1. **Time Adverbial**
+   - *I would doze off on the sofa while the kids were awake.*
+![image](https://github.com/user-attachments/assets/9f4a6e0e-b3b0-4ffe-bf86-36bfb6cc430b)
+
+
+2. **Manner Adverbial**
+   - *We will go on, as though it never happened.*
+![image](https://github.com/user-attachments/assets/cdd6160e-00af-4b18-8c45-8daf7d530aa5)
+
 ## 11/12 Finite Subordinate Clauses (cont.)
 
 ### Finite _Wh_-Complement Clauses
