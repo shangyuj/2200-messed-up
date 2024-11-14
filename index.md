@@ -7,7 +7,7 @@ You can choose to fully diagram the subordinate clauses or choose to abbreviate 
   
 P.S. The paper version says due next Thursday, but the actual due date has changed to after Thanksgiving.
 
-### Study matierals 
+### Study materials 
 1. This Github page
 2. Comprehensive diagramming supplements (if this Github page is not enough for you):
    - [Valency & Voice supplement](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)
