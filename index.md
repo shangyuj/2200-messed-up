@@ -23,7 +23,7 @@ P.S. The paper version says due next Thursday, but the actual due date has chang
    - [_wh_-clause examples](https://drive.google.com/file/d/1d-g9rDOhODYYDFcjuRVwB6CpuZ-qgnHT/view?usp=sharing)
    - [_whether_/_if_-clause examples](https://drive.google.com/file/d/17tDvhTzjS2R6Rr6EOqSjdl_w0g33LcxL/view?usp=sharing)
    - [Finite adverbial clause examples](https://drive.google.com/file/d/1GpssC1-r_Z80BATkRB5ywUa2GCEQGrD3/view?usp=sharing)
-   - [Relative clauses examples](https://drive.google.com/file/d/1fV90yyOhVjAJyFSv6eB8p8orgRNXY1XK/view?usp=sharing)
+   - [Relative clause examples](https://drive.google.com/file/d/1fV90yyOhVjAJyFSv6eB8p8orgRNXY1XK/view?usp=sharing)
 
 ## 11/14 Finite Subordinate Clauses (cont.): Adverbial clauses & relative clauses
 
