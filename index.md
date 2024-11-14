@@ -1,5 +1,28 @@
 # English 2200
 
+## Major Assignment 2
+Major Assignment 2 was given to you on paper on Thursday. In case you need another copy, here's the digital version you can print by yourself: [Digital File](https://drive.google.com/file/d/1OqqQHMvhvYnoTH8AejduNTfHHWJc8gMn/view?usp=sharing)  
+  
+P.S. The paper version says due next Thursday, but the actual due date has changed to after Thanksgiving.
+
+### Study matierals 
+1. This Github page
+2. Comprehensive diagramming supplements (if this Github page is not enough for you):
+   - [Valency & Voice supplement](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)
+   - [Co-/Sub-ordination supplement](https://drive.google.com/file/d/12YNdM60xFxonOkl0kXSV9DGM1DKv3Jt_/view?usp=sharing)
+3. More example diagrams (you can also use these to practice):
+   - [Clause constituents and functions examples](https://drive.google.com/file/d/1fzoy6GIdZayVEoR7MyARMSVve6DOun7Q/view?usp=sharing)
+   - [Valency examples](https://drive.google.com/file/d/1LhgRPZWW1Irr_cu6zDQubcupmKvqr5ww/view?usp=sharing)
+   - [Single-word vs. multi-word verb examples](https://drive.google.com/file/d/1lJh_esTXVwTvk6sJnSHzPzwbud0XHtbO/view?usp=sharing)
+   - [Active voice examples](https://drive.google.com/file/d/174rHjpcQ8OWQ2eSJmp_bKxjBSP9P7_c9/view?usp=sharing)
+   - [Passive voice examples](https://drive.google.com/file/d/16b1ji_4HVX1Bv2ZbRR9Z4y0q1_AyKsO1/view?usp=sharing)
+   - [Coordination examples](https://drive.google.com/file/d/1GYEPMAQXH2VznRyonygsmzFwGkwDuOHw/view?usp=sharing)
+   - [_that_-clause examples](https://drive.google.com/file/d/1ZsTaI01IyNtvpG1Gb0k5GE4IWeQJoglz/view?usp=sharing)
+   - [_wh_-clause examples](https://drive.google.com/file/d/1d-g9rDOhODYYDFcjuRVwB6CpuZ-qgnHT/view?usp=sharing)
+   - [_whether_/_if_-clause examples](https://drive.google.com/file/d/17tDvhTzjS2R6Rr6EOqSjdl_w0g33LcxL/view?usp=sharing)
+   - [Finite adverbial clause examples](https://drive.google.com/file/d/1GpssC1-r_Z80BATkRB5ywUa2GCEQGrD3/view?usp=sharing)
+   - [Relative clauses examples](https://drive.google.com/file/d/1fV90yyOhVjAJyFSv6eB8p8orgRNXY1XK/view?usp=sharing)
+
 ## 11/14 Finite Subordinate Clauses (cont.): Adverbial clauses & relative clauses
 
 ### Finite Adverbial Subordinate Clauses
@@ -162,8 +185,7 @@ The syntactic role of the gap can vary, and relative clauses can exhibit differe
 3. **Direct Object Gap**
    - *Example*: *They primarily confirmed information that we had obtained elsewhere.*
    - **Diagram**:
-![Screenshot 2024-11-14 135250](https://github.com/user-attachments/assets/df6d9293-d542-4985-9c0d-296b3f704f3c)
-
+![image](https://github.com/user-attachments/assets/91508329-dc27-4d64-94e8-06295625d1a1)
 
 4. **Indirect Object Gap**
    - *Example*: *Prosecutors talked to the woman to whom he told all his dirty little secrets.*
