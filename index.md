@@ -98,6 +98,122 @@ Some finite adverbial clauses look similar to wh-complement clauses and finite c
    - *We will go on, as though it never happened.*
 ![image](https://github.com/user-attachments/assets/cdd6160e-00af-4b18-8c45-8daf7d530aa5)
 
+---
+
+### Finite Relative Clauses
+
+Throughout this semester, we have seen many prepositional phrases that occur after head nouns, functioning to modify or describe the head noun:
+
+- **Example**: *the boy on the winning soccer team*
+
+Finite relative clauses function similarly to post-modifying prepositional phrases by providing additional information about the noun they follow. Here’s how a prepositional phrase can be rephrased into a relative clause:
+
+- **Example**: *the boy who was on the winning soccer team*
+
+This structural similarity is reflected in tree diagrams where both prepositional phrases and relative clauses act as post-nominal modifiers (PNMs) within a noun phrase (NP). The difference lies in their form:
+
+![image](https://github.com/user-attachments/assets/08d79e16-ad79-42ec-a4f0-8d98558a9d64)
+
+
+---
+
+### Structure of Relative Clauses
+
+Unlike prepositional phrases, relative clauses are finite clauses, containing a subject, a verb phrase with tense or modality marking, and any other necessary constituents. Each relative clause is introduced by a **relativizer** (a function word like *who*, *which*, or *that*). Relativizers can be **relative pronouns** (which, who, whom, whose, that) or **relative adverbs** (where, when, why).
+
+Example diagram of a relative clause:
+- **Example**: *the boy who was on the winning soccer team*
+
+![image](https://github.com/user-attachments/assets/71eff298-af22-4223-a91a-7c55e8cd40bb)
+
+
+- **Explanation**:
+  - *who* acts as the relativizer, introducing the clause.
+  - The relativizer points to a gap, or missing constituent, which it helps to fill. In this example, *who* represents the missing subject of the clause: "the boy *who* Ø was on the winning soccer team."
+
+---
+
+### Recognizing the Gap in Relative Clauses
+
+The relative clause is often missing a constituent, known as the **gap**. This gap can be identified by examining the S node to locate any missing syntactic elements. The **relativizer** fills this gap, making the clause complete. The head noun and the relativizer are co-referential; they refer to the same entity, allowing the head noun to logically fill the missing slot in the relative clause.
+
+Diagram with gap indication:
+![image](https://github.com/user-attachments/assets/d1b55b92-b44b-419c-83b9-6c6bfdeed3c4)
+
+
+---
+
+### Types of Gaps in Relative Clauses
+
+The syntactic role of the gap can vary, and relative clauses can exhibit different types of gaps:
+
+1. **Subject Gap**  
+   - *Example*: *I have a few kids who are trying some sewing.*
+   - **Diagram**:
+![image](https://github.com/user-attachments/assets/79c1ebe4-3bc6-40fd-9354-a2e781983f3e)
+
+
+2. **Subject Complement Gap**
+   - *Example*: *The commercial society that we have become sometimes bothers me.*
+   - **Diagram**:
+![image](https://github.com/user-attachments/assets/68ffaba2-89e8-46f9-9154-f5811c9513cf)
+
+
+3. **Direct Object Gap**
+   - *Example*: *They primarily confirmed information that we had obtained elsewhere.*
+   - **Diagram**:
+![Screenshot 2024-11-14 135250](https://github.com/user-attachments/assets/df6d9293-d542-4985-9c0d-296b3f704f3c)
+
+
+4. **Indirect Object Gap**
+   - *Example*: *Prosecutors talked to the woman to whom he told all his dirty little secrets.*
+   - **Diagram**:
+![image](https://github.com/user-attachments/assets/c834bc3d-383c-4b73-bae3-bdf9e45c96a3)
+
+
+5. **Object Complement Gap**
+   - *Example*: *Tony could never forget the hurtful names that his so-called ‘friends’ had called him in high school.*
+   - **Diagram**:
+![image](https://github.com/user-attachments/assets/dbbc2ae3-2344-454a-9bd5-d3384ae7032d)
+
+
+6. **Object of a Preposition Gap**
+   - *Example*: *We should reject the modern conveniences that we have become accustomed to.*
+   - **Diagram**:
+![image](https://github.com/user-attachments/assets/c8a3687f-8ef5-46f4-9afd-43766144dfcc)
+
+
+7. **Adverbial Gap**
+   - *Example*: *The ancient prophecies had foretold a time when destruction by man had left the Earth desolate.*
+   - **Diagram**:
+![image](https://github.com/user-attachments/assets/1347680d-65fa-47ef-a95b-ea8a696c18f1)
+
+
+### Restrictive vs. Non-Restrictive Relative Clauses
+
+- **Restrictive Relative Clauses**: Narrow down the reference of the noun (e.g., *He went looking for the kids who stole his bike.*).
+- **Non-Restrictive Relative Clauses**: Provide supplementary information without limiting reference (e.g., *One restriction is the dormant Commerce Clause, which prohibits certain state tax schemes.*).
+
+**Note**: Diagramming does not differentiate between restrictive and non-restrictive meanings as this distinction is primarily semantic.
+
+---
+
+### Omission of the Relativizer (Zero Relativizer)
+
+In some cases, the **relativizer** can be omitted (known as a zero relativizer), represented by the symbol Ø in diagrams. Zero relativizers are not possible with subject gaps.
+
+- **Example**: *They primarily confirmed information Ø we had obtained elsewhere.*
+![Screenshot 2024-1250](https://github.com/user-attachments/assets/12f83b48-f658-47c3-9c37-1fec3d824aa8)
+
+
+### Placement of Prepositions with Relativizers
+
+When the gap is associated with a preposition, the preposition can remain with the relativizer. For instance:
+
+- **Example**: *the woman to whom he told all his dirty little secrets*
+![image](https://github.com/user-attachments/assets/028ac4b9-162b-4dd0-a098-8e271207f9aa)
+
+
 ## 11/12 Finite Subordinate Clauses (cont.)
 
 ### Finite _Wh_-Complement Clauses
