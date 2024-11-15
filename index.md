@@ -3,7 +3,7 @@
 ## Major Assignment 2
 Major Assignment 2 was given to you on paper on Thursday. In case you need another copy, here's the digital version you can print by yourself: [Digital File](https://drive.google.com/file/d/1OqqQHMvhvYnoTH8AejduNTfHHWJc8gMn/view?usp=sharing)  
   
-You can choose to fully diagram the subordinate clauses or choose to abbreviate the subordinate part in your diagram. In the examples you will see below, all the subordinate clauses are abbreviated. However, I encourage you to fully diagram them. Think of it as a challenge! 
+You can choose to fully diagram the subordinate clauses or abbreviate the subordinate parts in your diagrams. In the examples you will see below, all the subordinate clauses are abbreviated. However, I encourage you to fully diagram them. Think of it as a challenge! 
   
 P.S. The paper version says due next Thursday, but the actual due date has changed to after Thanksgiving.
 
