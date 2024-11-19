@@ -1,5 +1,44 @@
 # English 2200
 
+## Extra credit assignment
+When should we do it?
+
+## Review before Major Assignment 2
+  
+Diagram these:  
+  
+  
+He is a player who loves the responsibility of scoring goals.  
+
+
+
+
+
+
+
+
+Ultimately, that is the dilemma we all grapple with every day.  
+
+
+
+
+
+
+
+
+If things go well, he can study in the library with his friend Aziz.  
+
+
+
+
+
+
+
+
+
+## Preview
+non-finite clause
+
 ## Major Assignment 2
 Major Assignment 2 was given to you on paper on Thursday. In case you need another copy, here's the digital version you can print by yourself: [Digital File](https://drive.google.com/file/d/1OqqQHMvhvYnoTH8AejduNTfHHWJc8gMn/view?usp=sharing)  
   
