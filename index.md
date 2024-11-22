@@ -28,13 +28,16 @@ P.S. The paper version says due next Thursday, but the actual due date has chang
 
 
 ## 11/19 Review and Preview
+
 ### Review for Major Assignment 2
 Diagram these:  
 - He is a player who loves the responsibility of scoring goals.  
 - Ultimately, that is the dilemma we all grapple with every day.  
 - If things go well, he can study in the library with his friend Aziz.  
+
 ### Preview of non-finite clauses 
 What is a non-finite clause? We will learn it after the Thanksgiving break.
+
 ## 11/14 Finite Subordinate Clauses (cont.): Adverbial clauses & relative clauses
 
 ### Finite Adverbial Subordinate Clauses
