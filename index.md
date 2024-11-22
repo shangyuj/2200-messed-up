@@ -27,8 +27,8 @@ P.S. The paper version says due next Thursday, but the actual due date has chang
    - [Relative clause examples](https://drive.google.com/file/d/1fV90yyOhVjAJyFSv6eB8p8orgRNXY1XK/view?usp=sharing)
 
 
-## 11/19
-### Review before Major Assignment 2
+## 11/19 Review and Preview
+### Review for Major Assignment 2
 Diagram these:  
 - He is a player who loves the responsibility of scoring goals.  
 - Ultimately, that is the dilemma we all grapple with every day.  
