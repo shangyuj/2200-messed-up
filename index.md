@@ -1,7 +1,7 @@
 # English 2200
 ## Extra Credit Assignment
 You have a chance to earn 5 more points in your final grade (equal to one or two steps up in your letter grade). Find details in [Canvas](https://canvas.iastate.edu/courses/113318/assignments/2408698). 
-## Major Assignment 2
+## Major Assignment 2 (due after Thanksgiving)
 Major Assignment 2 was given to you on paper on Thursday. In case you need another copy, here's the digital version you can print by yourself: [Digital File](https://drive.google.com/file/d/1OqqQHMvhvYnoTH8AejduNTfHHWJc8gMn/view?usp=sharing)  
   
 You can choose to fully diagram the subordinate clauses or abbreviate the subordinate parts in your diagrams. In the examples below, all the subordinate clauses are abbreviated. However, I encourage you to fully diagram them. Think of it as a challenge! 
