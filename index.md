@@ -23,11 +23,10 @@
 10. He writes a story down whenever he’s in a new city.
 
 ### Non-finite subordinate clauses
-# Module 6: Non-Finite Subordination
 
-## A. Overview – Non-Finite Subordination
+#### What is non-finite subordination?
 
-In Module 5, we learned about and practiced subordination, the embedding of dependent clauses into a main independent clause. We focused on **finite subordinate clauses**, which contain:
+Before the break, we learned about and practiced subordination, the embedding of dependent clauses into a main independent clause. We focused on **finite subordinate clauses**, which contain:
 
 1. An explicit subject.
 2. A verb phrase marked for tense or modality.
@@ -43,12 +42,12 @@ Finite subordinate clauses are often introduced by subordinators. Examples:
 - **Wh-complement clause:**  
   *I knew what the appearance of indifference might mean.*
 
-In this module, we focus on **non-finite subordinate clauses**, another type of dependent clause that cannot stand alone as an independent clause. These differ from finite clauses in two key ways:
+In this week, we focus on **non-finite subordinate clauses**, another type of dependent clause that cannot stand alone as an independent clause. These differ from finite clauses in two key ways:
 
 1. They generally lack an explicit subject.
 2. Their verb phrases are not marked for tense or modality.
 
-### Examples of Non-Finite Subordinate Clauses
+#### Examples of Non-Finite Subordinate Clauses
 
 Non-finite subordinate clauses are underlined in the examples below. Note that these clauses cannot stand alone as independent clauses:
 
@@ -64,25 +63,26 @@ Non-finite subordinate clauses are underlined in the examples below. Note that t
 - *Taken by surprise, he simply made the wrong choice.*  
   (*ed-participle clause*)
 
-### Key Characteristics
-
+  
+From the above examples, we can see:
 - Non-finite clauses begin directly with a verb (e.g., *to secure*, *dust*, *facing*, *taken*), followed by other elements in the predicate.
 - They lack grammatical tense or modality.
-- The subject is not explicitly present but can often be inferred logically.
+- The subject is usually not explicitly present but can often be inferred logically.
 
-### Diagramming Non-Finite Subordinate Clauses
+#### Diagramming Non-Finite Subordinate Clauses
 
 Non-finite clauses share the following basic structure:
 
 - **Verb Phrase (VP):** Includes the main verb and any required or optional elements.  
   Example:  
-  - *To secure their life jackets properly*  
+  - *To secure their life jackets properly*
+    - Main verb: *secure*
     - Required: *their life jackets* (direct object)  
     - Optional: *properly* (adverbial)
 
 When diagramming, non-finite subordinate clauses are labeled as **nf sub cls** (non-finite subordinate clause).
 
-### Syntactic Positions
+#### Syntactic Positions
 
 Non-finite subordinate clauses can serve as constituents in a main clause. They can occur in various syntactic positions, including:
 
@@ -99,7 +99,84 @@ They may also appear as:
 - Noun Complements
 - Objects of Prepositions
 
-Each type of non-finite clause and its syntactic positions will be explored in detail in the sections that follow.
+
+### To-Infinitive Clauses
+
+To-infinitive clauses, or **to-clauses**, are the most common type of non-finite clause and are highly flexible in terms of their syntactic positions. They are easily recognized by their introduction with the infinitive marker **to**, which acts as a subordinator.
+
+#### Characteristics of To-Clauses
+
+1. The clause begins with the infinitive marker **to**.
+2. The verb phrase (VP) has **no grammatical tense**.
+3. The VP consists of the **predicate parts** of a finite clause, followed by required and optional constituents (e.g., objects, adverbials).
+
+#### Example Diagram
+
+- *To secure their life jackets properly*  
+![image](https://github.com/user-attachments/assets/1cdaa92e-c502-498c-b75b-5ac000d6652c)
+
+
+#### Passive Voice in To-Clauses
+
+Though to-clauses are not marked for tense or modality, the verb in a to-clause can occur in passive voice.  
+Example:  
+- *Perhaps this shift in the economy was to be expected as the baby boomers aged.*
+
+#### Syntactic Positions of To-Clauses
+
+1. **As Verb Complements**
+
+To-clauses often fulfill a syntactic slot required by a verb, serving as a complement. They can act as:
+
+- **Subject:**  
+  *To restore the village became his primary goal.*  
+![image](https://github.com/user-attachments/assets/1ce8f298-e827-4e65-914b-fd9c9875f599)
+
+
+- **Direct Object (DO) of Monotransitive Verbs:**  
+  *We might need to know the law of a previous era.*  
+![image](https://github.com/user-attachments/assets/72167849-6673-4eae-9bfb-ec27b162cf4a)
+
+
+- **Direct Object (DO) of Ditransitive Verbs:**  
+  *I told the kids to meet me at lunchtime.*  
+![image](https://github.com/user-attachments/assets/48b30c50-2dfd-4508-b122-2795815a5bdd)
+
+
+- **Subject Complement:**  
+  *Almost overnight, the challenge became to make ends meet.*  
+![image](https://github.com/user-attachments/assets/99b05960-9296-469d-a665-d67209259e6f)
+
+
+- **Object Complement:**  
+  *They believed the tradition to be relatively new.*  
+![image](https://github.com/user-attachments/assets/ceaee6dc-b5a7-4d52-881a-dd1c4836aeee)
+
+2. **As Adjective Complements**
+
+To-clauses can complement adjectives, providing additional information.
+
+- Example:  
+  *I’m so sorry to wake you up so early.*  
+![image](https://github.com/user-attachments/assets/c5d661f8-416a-44c8-ab9d-1825b88085e3)
+
+3. **As Post-Nominal Modifiers**
+
+To-clauses can modify nouns by adding descriptive information, functioning as post-modifiers.
+
+- Example:  
+  *She had never seen such beautiful things to buy.*  
+![image](https://github.com/user-attachments/assets/f825c6e6-8a90-4933-b581-d9339b0d4b1b)
+
+4. **As Adverbials**
+
+To-clauses as adverbials typically convey reason or purpose, answering "why?" for the main clause.
+
+- Example:
+  *To battle my stress, I run every day of the week.*
+![image](https://github.com/user-attachments/assets/160d0df1-5f8f-476e-85a0-4d1ca3675bd1)
+
+
 
 
 ## Extra Credit Assignment
