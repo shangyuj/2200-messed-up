@@ -177,7 +177,20 @@ To-clauses as adverbials typically convey reason or purpose, answering "why?" fo
 ![image](https://github.com/user-attachments/assets/160d0df1-5f8f-476e-85a0-4d1ca3675bd1)
 
 
+### Sentences for Practice:
+- To win the game was their ultimate goal.
 
+- She asked me to help her with the project.
+
+- He struggled to find the right solution in time.
+
+- The plan is to implement the new policy by next month.
+
+- I want them to complete the assignment today.
+
+- The opportunity to learn a new language excited her.
+
+- To save time, we decided to take a shortcut.
 
 ## Extra Credit Assignment
 You have a chance to earn 5 more points in your final grade (equal to one or two steps up in your letter grade). Find details on [Canvas](https://canvas.iastate.edu/courses/113318/assignments/2408698). 
