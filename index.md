@@ -22,6 +22,86 @@
 
 10. He writes a story down whenever he’s in a new city.
 
+### Non-finite subordinate clauses
+# Module 6: Non-Finite Subordination
+
+## A. Overview – Non-Finite Subordination
+
+In Module 5, we learned about and practiced subordination, the embedding of dependent clauses into a main independent clause. We focused on **finite subordinate clauses**, which contain:
+
+1. An explicit subject.
+2. A verb phrase marked for tense or modality.
+
+Finite subordinate clauses are often introduced by subordinators. Examples:
+
+- **Finite adverbial clause:**  
+  *Because we looked so much alike, I was her celebrity double.*
+
+- **That-complement clause:**  
+  *I reminded myself that there is a first time for everything.*
+
+- **Wh-complement clause:**  
+  *I knew what the appearance of indifference might mean.*
+
+In this module, we focus on **non-finite subordinate clauses**, another type of dependent clause that cannot stand alone as an independent clause. These differ from finite clauses in two key ways:
+
+1. They generally lack an explicit subject.
+2. Their verb phrases are not marked for tense or modality.
+
+### Examples of Non-Finite Subordinate Clauses
+
+Non-finite subordinate clauses are underlined in the examples below. Note that these clauses cannot stand alone as independent clauses:
+
+- *I told everyone **to secure their life jackets properly.***  
+  (*to-infinitive clause*)
+
+- *She helped her mother **dust the precious books.***  
+  (*bare infinitive clause*)
+
+- *Facing the possibility of years in prison, she agreed to a plea deal.*  
+  (*ing-participle clause*)
+
+- *Taken by surprise, he simply made the wrong choice.*  
+  (*ed-participle clause*)
+
+### Key Characteristics
+
+- Non-finite clauses begin directly with a verb (e.g., *to secure*, *dust*, *facing*, *taken*), followed by other elements in the predicate.
+- They lack grammatical tense or modality.
+- The subject is not explicitly present but can often be inferred logically.
+
+### Diagramming Non-Finite Subordinate Clauses
+
+Non-finite clauses share the following basic structure:
+
+- **Verb Phrase (VP):** Includes the main verb and any required or optional elements.  
+  Example:  
+  - *To secure their life jackets properly*  
+    - Required: *their life jackets* (direct object)  
+    - Optional: *properly* (adverbial)
+
+When diagramming, non-finite subordinate clauses are labeled as **nf sub cls** (non-finite subordinate clause).
+
+### Syntactic Positions
+
+Non-finite subordinate clauses can serve as constituents in a main clause. They can occur in various syntactic positions, including:
+
+- Direct Object (DO)
+- Object Complement (OC)
+- Adverbial (Advl)
+
+They may also appear as:
+
+- Subjects
+- Subject Complements
+- Adjective Complements
+- Noun Modifiers
+- Noun Complements
+- Objects of Prepositions
+
+Each type of non-finite clause and its syntactic positions will be explored in detail in the sections that follow.
+
+
 ## Extra Credit Assignment
 You have a chance to earn 5 more points in your final grade (equal to one or two steps up in your letter grade). Find details on [Canvas](https://canvas.iastate.edu/courses/113318/assignments/2408698). 
 ## Major Assignment 2 (due after Thanksgiving)
