@@ -1,4 +1,27 @@
 # English 2200
+## 12/3 Review and non-finite subordinate clauses
+### Review of Major Assignment 2
+1. This lotion makes me itchy.
+
+2. Monsters are under my bed.
+
+3. The movie was screened at the local theater.
+
+
+4. I was told he was going to perform tonight.
+
+5. What he did made him a hero.
+
+6. The committee has tallied the votes and will soon announce the winner.
+
+7. I have to be the person who tells the truth.
+
+8. I was hired because they liked my proposal.
+
+9. Her face lit up when she saw him, which we didn’t notice.
+
+10. He writes a story down whenever he’s in a new city.
+
 ## Extra Credit Assignment
 You have a chance to earn 5 more points in your final grade (equal to one or two steps up in your letter grade). Find details on [Canvas](https://canvas.iastate.edu/courses/113318/assignments/2408698). 
 ## Major Assignment 2 (due after Thanksgiving)
