@@ -181,7 +181,7 @@ Bare infinitive clauses occur with a restricted set of verbs. Examples include:
 
 In this class, bare infinitive clauses are **not diagrammed**, but you are expected to recognize them when they appear.
 
-### D. Ing-Participle Clauses
+### Ing-Participle Clauses
 
 Ing-participle clauses, or **ing-clauses**, are a type of non-finite clause that begins with an **ing-participle form** of a verb. These clauses are straightforward to identify because of their characteristic **-ing** verb form.
 
@@ -239,7 +239,7 @@ Ing-clauses as adverbials typically convey descriptive information about how, wh
 ![image](https://github.com/user-attachments/assets/d2808717-bc9f-472d-bcec-5bed68d1dc0a)
 
 
-### E. Ed-Participle Clauses
+### Ed-Participle Clauses
 
 Ed-participle clauses, or **ed-clauses**, are a type of non-finite clause that begins with an **ed-participle form** of a verb. These clauses are relatively less common and occur in more restricted syntactic positions compared to other non-finite clauses.
 
