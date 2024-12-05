@@ -1,55 +1,28 @@
 # English 2200
-## 12/3 Review and non-finite subordinate clauses
-### Review of Major Assignment 2
-1. This lotion makes me itchy.
-
-2. Monsters are under my bed.
-
-3. The movie was screened at the local theater.
-
-
-4. I was told he was going to perform tonight.
-
-5. What he did made him a hero.
-
-6. The committee has tallied the votes and will soon announce the winner.
-
-7. I have to be the person who tells the truth.
-
-8. I was hired because they liked my proposal.
-
-9. Her face lit up when she saw him, which we didn’t notice.
-
-10. He writes a story down whenever he’s in a new city.
-
-### Non-finite subordinate clauses
-
-#### What is non-finite subordination?
-
-Before the break, we learned about and practiced subordination, the embedding of dependent clauses into a main independent clause. We focused on **finite subordinate clauses**, which contain:
-
+## 12/5 Non-finite Subordination
+### What is non-finite subordination?
+So far, the subordinate clauses we have diagrammed have been finite. Finite subordinate clauses usually contain:
 1. An explicit subject.
 2. A verb phrase marked for tense or modality.
 
 Finite subordinate clauses are often introduced by subordinators. Examples:
 
 - **Finite adverbial clause:**  
-  *Because we looked so much alike, I was her celebrity double.*
+  ***Because** we looked so much alike, I was her celebrity double.*
 
 - **That-complement clause:**  
-  *I reminded myself that there is a first time for everything.*
+  *I reminded myself **that** there is a first time for everything.*
 
 - **Wh-complement clause:**  
-  *I knew what the appearance of indifference might mean.*
+  *I knew **what** the appearance of indifference might mean.*
 
-In this week, we focus on **non-finite subordinate clauses**, another type of dependent clause that cannot stand alone as an independent clause. These differ from finite clauses in two key ways:
-
+Now, we move on to **non-finite subordinate clauses**, another type of dependent clause that cannot stand alone. Non-finite clauses differ from finite clauses in two key ways:
 1. They generally lack an explicit subject.
 2. Their verb phrases are not marked for tense or modality.
 
-#### Examples of Non-Finite Subordinate Clauses
+### Examples of Non-Finite Subordinate Clauses
 
-Non-finite subordinate clauses are underlined in the examples below. Note that these clauses cannot stand alone as independent clauses:
+Non-finite subordinate clauses are bold in the examples below. Note that these clauses cannot stand alone as independent clauses:
 
 - *I told everyone **to secure their life jackets properly.***  
   (*to-infinitive clause*)
@@ -62,14 +35,13 @@ Non-finite subordinate clauses are underlined in the examples below. Note that t
 
 - *Taken by surprise, he simply made the wrong choice.*  
   (*ed-participle clause*)
-
   
 From the above examples, we can see:
 - Non-finite clauses begin directly with a verb (e.g., *to secure*, *dust*, *facing*, *taken*), followed by other elements in the predicate.
 - They lack grammatical tense or modality.
 - The subject is usually not explicitly present but can often be inferred logically.
 
-#### Diagramming Non-Finite Subordinate Clauses
+### Diagramming Non-Finite Subordinate Clauses
 
 Non-finite clauses share the following basic structure:
 
@@ -99,16 +71,9 @@ They may also appear as:
 - Noun Complements
 - Objects of Prepositions
 
-
 ### To-Infinitive Clauses
 
-To-infinitive clauses, or **to-clauses**, are the most common type of non-finite clause and are highly flexible in terms of their syntactic positions. They are easily recognized by their introduction with the infinitive marker **to**, which acts as a subordinator.
-
-#### Characteristics of To-Clauses
-
-1. The clause begins with the infinitive marker **to**.
-2. The verb phrase (VP) has **no grammatical tense**.
-3. The VP consists of the **predicate parts** of a finite clause, followed by required and optional constituents (e.g., objects, adverbials).
+To-infinitive clauses, or **to-clauses**, are the most common type of non-finite clause and are highly flexible in terms of their syntactic positions. They are easily recognized by their introduction with the infinitive marker **_to_**, which acts as a subordinator.
 
 #### Example Diagram
 
@@ -116,15 +81,15 @@ To-infinitive clauses, or **to-clauses**, are the most common type of non-finite
 ![image](https://github.com/user-attachments/assets/1cdaa92e-c502-498c-b75b-5ac000d6652c)
 
 
-#### Passive Voice in To-Clauses
+### Passive Voice in To-Clauses
 
 Though to-clauses are not marked for tense or modality, the verb in a to-clause can occur in passive voice.  
 Example:  
 - *Perhaps this shift in the economy was to be expected as the baby boomers aged.*
 
-#### Syntactic Positions of To-Clauses
+### Syntactic Positions of To-Clauses
 
-1. **As Verb Complements**
+#### **As Verb Complements**
 
 To-clauses often fulfill a syntactic slot required by a verb, serving as a complement. They can act as:
 
@@ -152,7 +117,7 @@ To-clauses often fulfill a syntactic slot required by a verb, serving as a compl
   *They believed the tradition to be relatively new.*  
 ![image](https://github.com/user-attachments/assets/ceaee6dc-b5a7-4d52-881a-dd1c4836aeee)
 
-2. **As Adjective Complements**
+#### **As Adjective Complements**
 
 To-clauses can complement adjectives, providing additional information.
 
@@ -160,7 +125,7 @@ To-clauses can complement adjectives, providing additional information.
   *I’m so sorry to wake you up so early.*  
 ![image](https://github.com/user-attachments/assets/c5d661f8-416a-44c8-ab9d-1825b88085e3)
 
-3. **As Post-Nominal Modifiers**
+#### **As Post-Nominal Modifiers**
 
 To-clauses can modify nouns by adding descriptive information, functioning as post-modifiers.
 
@@ -176,24 +141,161 @@ To-clauses as adverbials typically convey reason or purpose, answering "why?" fo
   *To battle my stress, I run every day of the week.*
 ![image](https://github.com/user-attachments/assets/160d0df1-5f8f-476e-85a0-4d1ca3675bd1)
 
+### Bare Infinitive Clauses
 
-### Sentences for Practice:
-- To win the game was their ultimate goal.
+Bare infinitive clauses are a special type of **to-infinitive clause**. They are structurally similar to to-clauses but do **not** begin with the infinitive marker **to**. Instead, these clauses begin with the **base form of the verb**, which is the same form that typically follows the infinitive marker **to**.
 
-- She asked me to help her with the project.
+### Examples of Bare Infinitive Clauses
 
-- He struggled to find the right solution in time.
+1. *He helped him find a job as a car mechanic.*  
+2. *A community effort helped build this company.*
 
-- The plan is to implement the new policy by next month.
+### Identifying Bare Infinitive Clauses
 
-- I want them to complete the assignment today.
+1. **Re-insertion of "to":**  
+   In many cases, you can reinsert the infinitive marker **to** into a bare infinitive clause:  
+   - *He helped him **to** find a job as a car mechanic.*  
+   - *A community effort helped **to** build this company.*
 
-- The opportunity to learn a new language excited her.
+2. **Exceptions:**  
+   Some bare infinitive clauses do not allow reinsertion of **to**:  
+   - *HMOs are letting the public know the benefits of their organizations.*  
+     - Incorrect: *HMOs are letting the public **to** know the benefits of their organizations.*
 
-- To save time, we decided to take a shortcut.
+### Verbs Associated with Bare Infinitive Clauses
+
+Bare infinitive clauses occur with a restricted set of verbs. Examples include:
+
+- **Help** + bare infinitive:  
+  - *He helped find the solution.*
+
+- **Dare** + bare infinitive:  
+  - *She dared speak the truth.*
+
+- **Feel/See/Make** + NP + bare infinitive:  
+  - *They felt the wind blow.*
+  - *I saw him leave the house.*
+  - *She made the team work harder.*
+
+### Diagramming Bare Infinitive Clauses
+
+In this class, bare infinitive clauses are **not diagrammed**, but you are expected to recognize them when they appear.
+
+### D. Ing-Participle Clauses
+
+Ing-participle clauses, or **ing-clauses**, are a type of non-finite clause that begins with an **ing-participle form** of a verb. These clauses are straightforward to identify because of their characteristic **-ing** verb form.
+
+### Characteristics of Ing-Clauses
+
+1. **Non-finite Nature:**
+   - The verb phrase (VP) is **not marked for tense or modality**.
+   - The **-ing** participle appears alone without the auxiliary verb *be*.  
+     - Example (finite progressive clause): *She is reading a book.*  
+     - Example (non-finite ing-clause): *Reading a book is relaxing.*
+
+2. **Syntactic Positions:**
+   - Ing-clauses can occur in a range of syntactic positions, though their usage is more restricted compared to to-clauses.
+
+### Syntactic Positions of Ing-Clauses
+
+#### 1. **As Verb Complements**
+
+- **Subject:**  
+  *Having a reliable clinical test can make diagnoses safe, fast, and accurate.*  
+![image](https://github.com/user-attachments/assets/d01ff5a7-97bd-4685-9eb9-33ac04833586)
+
+- **Subject Complement (SC):**  
+  *My favorite pastime is curling up by a roaring fire.*  
+![image](https://github.com/user-attachments/assets/dfd44dd4-5bbc-4974-af92-9154c1212972)
+
+- **Direct Object (DO):**  
+  *Witnesses don’t remember hearing any screeching before impact.*  
+![image](https://github.com/user-attachments/assets/11a256c5-a946-4341-8f46-fa8f3085d9d5)
+
+- **Object Complement (OC):**  
+  *I found myself thinking about all the possibilities.*  
+![image](https://github.com/user-attachments/assets/5ad49659-ac94-4243-9a84-c622baa54522)
+
+#### 2. **As Objects of a Preposition**
+
+- Example:  
+  *We are interested in seeing the depth of this information.*  
+![image](https://github.com/user-attachments/assets/90c7e101-5857-4f94-9d9f-eacaa08f7529)
+
+#### 3. **As Post-Nominal Modifiers**
+
+Ing-clauses can modify nouns, functioning as post-nominal modifiers by adding descriptive information about the head noun.
+
+- Example:  
+  *They have outreach materials for people working with different constituencies.*  
+![image](https://github.com/user-attachments/assets/dde4ca92-0d5a-4b5a-879b-f05f8b6f121a)
+
+#### 4. **As Adverbials**
+
+Ing-clauses as adverbials typically convey descriptive information about how, when, where, or why events in the main clause occurred.
+
+- Example:  
+  *Holding the frame in his left hand, he wiped the dust from the glass.*  
+![image](https://github.com/user-attachments/assets/d2808717-bc9f-472d-bcec-5bed68d1dc0a)
+
+
+### E. Ed-Participle Clauses
+
+Ed-participle clauses, or **ed-clauses**, are a type of non-finite clause that begins with an **ed-participle form** of a verb. These clauses are relatively less common and occur in more restricted syntactic positions compared to other non-finite clauses.
+
+### Characteristics of Ed-Clauses
+
+1. **Non-finite Nature:**
+   - The verb phrase lacks auxiliary verbs like *have* (used for perfect aspect) or *be* (used for passive voice).
+   - The **ed-participle** appears alone.
+
+2. **Logical Passive Voice:**
+   - Ed-clauses are inherently passive. If restated as finite clauses with an explicit subject, they would always take the passive voice.  
+     - Example:  
+       - Ed-clause: *Frustrated by the lack of action, activists have taken their causes to the courts.*  
+       - Finite clause: *Activists were frustrated by the lack of action.*
+
+### Syntactic Positions of Ed-Clauses
+
+#### 1. **As Adverbials**
+
+Ed-clauses as adverbials provide descriptive information about the circumstances of the main clause, answering questions like **how**, **when**, **where**, or **why**.
+
+- Example 1:  
+  *Frustrated by the lack of action, activists have taken their causes to the courts.*  
+![image](https://github.com/user-attachments/assets/d3b45b8a-fef2-43c1-9379-1f0cffaf9e4f)
+
+- Example 2:  
+  *Accompanied by a roar of approval, they delivered a passionate bilingual version.*  
+![image](https://github.com/user-attachments/assets/121c4aa6-edfb-4e1b-8460-31349553b601)
+
+#### 2. **As Post-Nominal Modifiers**
+
+Ed-clauses can also modify nouns as post-nominal modifiers. Similar to ing-clauses in this role, ed-clauses provide descriptive information about the noun they follow.
+
+- Example 1:  
+  *The damage caused by the intelligence leak is far-reaching and irrefutable.*  
+![image](https://github.com/user-attachments/assets/7f4090af-93f8-440d-ac6e-f4a811282c70)
+
+- Example 2:  
+  *We have always been supportive of legal actions taken by the ACLU.*  
+![image](https://github.com/user-attachments/assets/13e59fb7-c6cc-44f1-b684-e80bc154932d)
 
 ## Extra Credit Assignment
 You have a chance to earn 5 more points in your final grade (equal to one or two steps up in your letter grade). Find details on [Canvas](https://canvas.iastate.edu/courses/113318/assignments/2408698). 
+
+## 12/3 Review of Major Assignment 2
+1. This lotion makes me itchy.
+2. Monsters are under my bed.
+3. The movie was screened at the local theater.
+4. I was told he was going to perform tonight.
+5. What he did made him a hero.
+6. The committee has tallied the votes and will soon announce the winner.
+7. I have to be the person who tells the truth.
+8. I was hired because they liked my proposal.
+9. Her face lit up when she saw him, which we didn’t notice.
+10. He writes a story down whenever he’s in a new city.
+
 ## Major Assignment 2 (due after Thanksgiving)
 Major Assignment 2 was given to you on paper on Thursday. In case you need another copy, here's the digital version you can print by yourself: [Digital File](https://drive.google.com/file/d/1OqqQHMvhvYnoTH8AejduNTfHHWJc8gMn/view?usp=sharing)  
   
