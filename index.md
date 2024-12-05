@@ -133,7 +133,7 @@ To-clauses can modify nouns by adding descriptive information, functioning as po
   *She had never seen such beautiful things to buy.*  
 ![image](https://github.com/user-attachments/assets/f825c6e6-8a90-4933-b581-d9339b0d4b1b)
 
-4. **As Adverbials**
+#### **As Adverbials**
 
 To-clauses as adverbials typically convey reason or purpose, answering "why?" for the main clause.
 
