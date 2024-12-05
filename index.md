@@ -1,4 +1,6 @@
 # English 2200
+## Major Assignment 3
+[Major Assignment 3](https://drive.google.com/file/d/12L1NfDd27Ir-nHYTeNsew09soulTDu4F/view?usp=sharing) is a preview of the Final Exam. We will work on this assignment together in class next Tuesday, but you should also try to do it yourself before that.
 ## 12/5 Non-finite Subordination
 ### What is non-finite subordination?
 So far, the subordinate clauses we have diagrammed have been finite. Finite subordinate clauses usually contain:
