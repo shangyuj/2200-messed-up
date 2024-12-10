@@ -1,4 +1,8 @@
 # English 2200
+## 12/10 Prepping for Final Exam
+### Course and Instructor Evaluation
+Please evaluate this course and Shangyu's teaching. He's a rookie and really needs your feedback!  
+[Click to go to course evaluation](https://canvas.iastate.edu/courses/113318/external_tools/5010)
 ## Major Assignment 3
 [Major Assignment 3](https://drive.google.com/file/d/12L1NfDd27Ir-nHYTeNsew09soulTDu4F/view?usp=sharing) is a preview of the Final Exam. We will work on this assignment together in class next Tuesday, but you should also try to do it yourself before that.
 ## 12/5 Non-finite Subordination
