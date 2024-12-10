@@ -287,15 +287,15 @@ Ed-clauses can also modify nouns as post-nominal modifiers. Similar to ing-claus
 You have a chance to earn 5 more points in your final grade (equal to one or two steps up in your letter grade). Find details on [Canvas](https://canvas.iastate.edu/courses/113318/assignments/2408698). 
 
 ## 12/3 Review of Major Assignment 2
-1. This lotion makes me itchy.
+1. This lotion makes me itchy.  
    ![This lotion makes me itchy](https://github.com/user-attachments/assets/17a76faf-cf1a-4f48-8b84-a5ada575650f)
-3. Monsters are under my bed.
+3. Monsters are under my bed.  
    ![Monsters are under my bed](https://github.com/user-attachments/assets/c4bfaf35-660d-4f82-94ca-ca30b6302fc2)
 
-5. The movie was screened at the local theater.
+5. The movie was screened at the local theater.  
    ![The movie was screened at the local theater](https://github.com/user-attachments/assets/092a6e04-597d-4200-809d-d3d8b148116c)
 
-7. I was told he was going to perform tonight.
+7. I was told he was going to perform tonight.  
    ![I was told he was going to perform tonight](https://github.com/user-attachments/assets/6be62b91-b2c2-41a5-ad80-a7dfb1626de3)
 
 9. What he did made him a hero.
