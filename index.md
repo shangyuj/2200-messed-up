@@ -1,4 +1,12 @@
 # English 2200
+## 12/12 Last Class!
+### Extra-Credit Presentation
+Today is the day.
+### Final Review
+We will do some exercise. 
+### Thank You!
+Shangyu really wants to thank everyone of you for making his Tuesdays and Thursdays something to look forward to. He is very grateful and wants everyone to know that. Also why am I writing in the third person?  
+THANK YOU!!
 ## 12/10 Prepping for Final Exam
 ### Course and Instructor Evaluation
 Please evaluate this course and Shangyu's teaching. He's a rookie and really needs your feedback!  
