@@ -1,4 +1,6 @@
 # English 2200
+## Final Exam
+Final Exam will happen on Thursday, December 19th from 12 to 2 PM in the usual classroom. It will be open-note. You can use whatever materials you like. Don't forget to bring a pen!
 ## 12/12 Last Class!
 ### Extra-Credit Presentation
 Today is the day.
