@@ -10,6 +10,7 @@ We will do some exercise.
 Shangyu really wants to thank everyone of you for making his Tuesdays and Thursdays something to look forward to. He is grateful for having met all of you and wants to wish you all good luck in everything you do. Also why am I writing in the third person?  
   
 THANK YOU!!
+  
 ## 12/10 Prepping for Final Exam
 ### Course and Instructor Evaluation
 Please evaluate this course and Shangyu's teaching. He's a rookie and really needs your feedback!  
@@ -21,8 +22,10 @@ Please evaluate this course and Shangyu's teaching. He's a rookie and really nee
 4.	Ultimately, that is the dilemma that we all grapple with every day.
 5.	I wanted to work with young people to make a difference in their lives.
 6.	She's been writing about issues facing girls for two decades.
+     
 ## Major Assignment 3
 [Major Assignment 3](https://drive.google.com/file/d/12L1NfDd27Ir-nHYTeNsew09soulTDu4F/view?usp=sharing) is a preview of the Final Exam. We will work on this assignment together in class next Tuesday, but you should also try to do it yourself before that.
+  
 ## 12/5 Non-finite Subordination
 ### What is non-finite subordination?
 So far, the subordinate clauses we have diagrammed have been finite. Finite subordinate clauses usually contain:
