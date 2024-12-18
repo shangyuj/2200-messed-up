@@ -57,10 +57,10 @@ Non-finite subordinate clauses are bold in the examples below. Note that these c
 - *She helped her mother **dust the precious books.***  
   (*bare infinitive clause*)
 
-- *Facing the possibility of years in prison, she agreed to a plea deal.*  
+- ***Facing the possibility of years in prison**, she agreed to a plea deal.*  
   (*ing-participle clause*)
 
-- *Taken by surprise, he simply made the wrong choice.*  
+- ***Taken by surprise**, he simply made the wrong choice.*  
   (*ed-participle clause*)
   
 From the above examples, we can see:
