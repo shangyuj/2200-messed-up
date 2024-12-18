@@ -323,13 +323,6 @@ You have a chance to earn 5 more points in your final grade (equal to one or two
 7. I was told he was going to perform tonight.  
    ![I was told he was going to perform tonight](https://github.com/user-attachments/assets/6be62b91-b2c2-41a5-ad80-a7dfb1626de3)
 
-9. What he did made him a hero.
-10. The committee has tallied the votes and will soon announce the winner.
-11. I have to be the person who tells the truth.
-12. I was hired because they liked my proposal.
-13. Her face lit up when she saw him, which we didn’t notice.
-14. He writes a story down whenever he’s in a new city.
-
 ## Major Assignment 2 (due after Thanksgiving)
 Major Assignment 2 was given to you on paper on Thursday. In case you need another copy, here's the digital version you can print by yourself: [Digital File](https://drive.google.com/file/d/1OqqQHMvhvYnoTH8AejduNTfHHWJc8gMn/view?usp=sharing)  
   
@@ -504,7 +497,7 @@ Example diagram of a relative clause:
 
 The relative clause is often missing a constituent, known as the **gap**. This gap can be identified by examining the S node to locate any missing syntactic elements. The **relativizer** fills this gap, making the clause complete. The head noun and the relativizer are co-referential; they refer to the same entity, allowing the head noun to logically fill the missing slot in the relative clause.
 
-Diagram with gap indication:
+Diagram with gap indication (you are not required to diagram subordinate clauses fully):
 ![image](https://github.com/user-attachments/assets/d1b55b92-b44b-419c-83b9-6c6bfdeed3c4)
 
 
@@ -627,7 +620,7 @@ This structure is rephrased as:
 
 In full diagrams for wh-clauses, an arrow shows the movement of the wh-word to the front of the clause, linking it back to the gap.
 
-**Diagram with Movement Arrow**:  
+**Diagram with Movement Arrow** (you are not required to diagram subordinate clauses fully):  
 ![image](https://github.com/user-attachments/assets/8f29f362-ab19-4424-8a18-a106e8d01258)
 
 In abbreviated diagrams, we use an arrow to show this relationship between the _wh_-subordinator and the embedded clause, as seen below:
