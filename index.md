@@ -102,7 +102,7 @@ They may also appear as:
 
 To-infinitive clauses, or **to-clauses**, are the most common type of non-finite clause and are highly flexible in terms of their syntactic positions. They are easily recognized by their introduction with the infinitive marker **_to_**, which acts as a subordinator.
 
-#### Example Diagram
+#### Example Full Diagram (you are not required to diagram subordinate clauses fully)
 
 - *To secure their life jackets properly*  
 ![image](https://github.com/user-attachments/assets/1cdaa92e-c502-498c-b75b-5ac000d6652c)
