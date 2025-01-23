@@ -70,6 +70,6 @@ Do the diagnostic quiz on [Canvas](https://canvas.iastate.edu/courses/118016/ass
 Pick a few questions to discussion with people around you!  
 
 ### Homework
-- Read the [syllabus](https://drive.google.com/file/d/1EMPuEAgCFSAzzUEYiL9PpB3aQwDnRYUS/view?usp=sharing). 
+- Read the [syllabus](https://drive.google.com/file/d/1EMPuEAgCFSAzzUEYiL9PpB3aQwDnRYUS/view?usp=sharing) 
 - Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/118016/modules/items/7001752)
 - Read ["Varieties of English"](https://canvas.iastate.edu/courses/118016/modules/items/7001753)
