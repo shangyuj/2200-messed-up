@@ -6,7 +6,10 @@
 - Learn key influences on English usage (e.g., prescriptive vs. descriptive grammar, regional and social dialects, language standards)
 
 ### Warm-up
-- Read [this article](https://www.theguardian.com/world/2022/feb/16/academie-francaise-denounces-rise-of-english-words-in-public-life) and discuss with your peers what you think. 
+- Read [this article](https://www.theguardian.com/world/2022/feb/16/academie-francaise-denounces-rise-of-english-words-in-public-life) and discuss with your peers what you think.
+
+### Survey
+Prescriptive versus descriptive grammar, which side are you on?
 
 ### In-class readings
 - Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/113318/modules/items/6622711) (5 min)
