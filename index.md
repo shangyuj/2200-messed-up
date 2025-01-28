@@ -8,12 +8,12 @@
 ### Warm-up
 - Read [this article](https://www.theguardian.com/world/2022/feb/16/academie-francaise-denounces-rise-of-english-words-in-public-life) and discuss with your peers what you think.
 
+### In-class readings
+- Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/118016/modules/items/7001752) (5 min)
+- Read ["Varieties of English"](https://canvas.iastate.edu/courses/118016/modules/items/7001753) (5 min)
+
 ### Survey
 Prescriptive versus descriptive grammar, which side are you on?
-
-### In-class readings
-- Read ["What is grammar and how is grammar used?"](https://canvas.iastate.edu/courses/113318/modules/items/6622711) (5 min)
-- Read ["Varieties of English"](https://canvas.iastate.edu/courses/113318/modules/items/6622759) (5 min)
 
 ### Definitions of grammar
 - Klammer et al. (2010):
