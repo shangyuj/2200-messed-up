@@ -1,6 +1,6 @@
 # English 2200
 
-## 8/29 Study of Grammar
+## 1/28 Study of Grammar
 ### Objectives for this lesson
 - Identify how grammar is defined
 - Learn key influences on English usage (e.g., prescriptive vs. descriptive grammar, regional and social dialects, language standards)
