@@ -180,6 +180,13 @@ The August 2020 derecho windstorm was **bigger** than most people remember. The 
 **gusts** **measured** up to 110 mph in Iowa. Trees were **broken** off by the wind. Nevertheless, **ISU's**
 campus **remains** the **prettiest** campus in the world.
 
+### Homework (due before next Tuesday)
+Here are some quizzes to help you test your learning. If you find it difficult to answer them, go back to our reading to review the concepts: [Morphology Overview](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing).
+- [Quiz: Syntax or Morphology?](https://canvas.iastate.edu/courses/118016/modules/items/7001759)
+- [Quiz: Identifying Roots](https://canvas.iastate.edu/courses/118016/modules/items/7001760)
+- [Quiz: Labeling Morphemes (Part 1)](https://canvas.iastate.edu/courses/118016/modules/items/7001761)
+- [Quiz: Labeling Morphemes (Part 2)](https://canvas.iastate.edu/courses/118016/modules/items/7024071)
+
 ## 1/28 Study of Grammar
 ### Objectives for this lesson
 - Identify how grammar is defined
