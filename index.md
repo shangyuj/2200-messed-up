@@ -13,6 +13,21 @@ Any questions about the homework quizzes?
 This game is based on the [GUM Corpus (Georgetown University Multilayer Corpus)](https://gucorpling.org/gum/).  
   
 **Question: What are the top 10 most commonly used words in English?**  
+
+Answer:  
+<pre>
+Rank    Word              Percentage    
+1       the               5.24%    
+2       be (of any form)  2.90%    
+3       of                2.53%     
+4       and               2.50%    
+5       a                 1.86%    
+6       in                1.75%     
+7       to                1.27%    
+8       for               0.73%    
+9       you               0.72%    
+10      it                0.65%    
+</pre>
   
 What word class is each of these top 10 words?
   
