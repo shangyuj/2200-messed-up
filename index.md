@@ -150,7 +150,7 @@ _who_, _whom_, _whose_, _which_, _that_
   - [Quiz: Count and noncount nouns](https://canvas.iastate.edu/courses/118016/modules/items/7001765)
   - [Quiz: Concrete or abstract nouns, common or proper nouns](https://canvas.iastate.edu/courses/118016/modules/items/7001766)
   - [Quiz: Possessive, demonstrative, and reflexive pronouns](https://canvas.iastate.edu/courses/118016/modules/items/7001767)
-  - [Quiz: Reciprocal, indefinite, interrogative, and relative pronouns](https://canvas.iastate.edu/courses/118016/modules/items/7001768)
+  - [Quiz: Reciprocal, indefinite, and interrogative pronouns](https://canvas.iastate.edu/courses/118016/modules/items/7001768)
 
 ## 1/30 Morphology
 ### Objectives for this lesson
