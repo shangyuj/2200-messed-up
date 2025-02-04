@@ -18,7 +18,7 @@ Answer:
 <pre>
 Rank    Word              Percentage    
 1       the               5.24%    
-2       be (of any form)  2.90%    
+2       BE (of any form)  2.90%    
 3       of                2.53%     
 4       and               2.50%    
 5       a                 1.86%    
