@@ -101,11 +101,11 @@ Note: Some words look like adverbs but are not:
   - He ran _towards_ us.
 
 ### Quizzes
-[Quiz: Identifying verbs](https://canvas.iastate.edu/courses/113318/modules/items/6640358)   
-[Quiz: Auxiliary and main verbs](https://canvas.iastate.edu/courses/113318/modules/items/6640363)     
-[Quiz: Identifying adjectives](https://canvas.iastate.edu/courses/113318/modules/items/6640371)   
-[Quiz: Identifying adverbs](https://canvas.iastate.edu/courses/113318/modules/items/6640385)  
-[Quiz: Review of the major word classes](https://canvas.iastate.edu/courses/113318/modules/items/6640388)  
+[Quiz: Identifying verbs](https://canvas.iastate.edu/courses/118016/modules/items/7001770)   
+[Quiz: Auxiliary and main verbs](https://canvas.iastate.edu/courses/118016/modules/items/7001771)     
+[Quiz: Identifying adjectives](https://canvas.iastate.edu/courses/118016/modules/items/7001772)   
+[Quiz: Identifying adverbs](https://canvas.iastate.edu/courses/118016/modules/items/7001773)  
+[Quiz: Review of the major word classes](https://canvas.iastate.edu/courses/118016/modules/items/7001774)  
 
 ## 2/4 Word Classes
 ### Review of Morphology
