@@ -128,9 +128,9 @@ Conjunctions connect words, phrases and clauses inside a sentence. They also con
 7. __After__ they buy their tickets, students and seniors have along wait __until__ curtain time.
 
 ### Quizzes:
-[Quiz: Determiners](https://canvas.iastate.edu/courses/113318/modules/items/6649782)  
-[Quiz: Prepositions](https://canvas.iastate.edu/courses/113318/modules/items/6649784)  
-[Quiz: Conjunctions](https://canvas.iastate.edu/courses/113318/modules/items/6649785)  
+[Quiz: Determiners](https://canvas.iastate.edu/courses/118016/modules/items/7001776)  
+[Quiz: Prepositions](https://canvas.iastate.edu/courses/118016/modules/items/7001777)  
+[Quiz: Conjunctions](https://canvas.iastate.edu/courses/118016/modules/items/7001778)  
 
 ## 2/6 Verbs, Auxiliaries, Adjectives, Adverbs
 
