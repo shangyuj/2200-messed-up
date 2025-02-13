@@ -3,7 +3,7 @@
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
 ## 2/13 Exam 1 Preparation
-- Exam 1 will be on next Tuesday (February 18). Please bring a pen, and let me know if you need any accommodation. 
+- Exam 1 will be on next Tuesday (February 18). The exam will be closed-book. Please bring a pen, and let me know if you need any accommodation. 
 - In the review session, we will go over the Exam 1's from 2024 Spring and Fall semester.
   - [Exam 1 from Spring 2024](https://docs.google.com/document/d/1X0PXfwmWRgZuipLDzqtR8X2dVDgvGXp8/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true)
     - [w/ answers](https://docs.google.com/document/d/1KW42kNB5s7srwg8kHzcJFEJQmqo3rXus/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true)
@@ -13,7 +13,7 @@
 ## 2/11 Minor Word Classes
 
 ### Exam 1 Announcement
-- Exam 1 will be on next Tuesday (February 18). Please bring a pen, and let me know if you need any accommodation. 
+- Exam 1 will be on next Tuesday (February 18). The exam will be closed-book. Please bring a pen, and let me know if you need any accommodation. 
 - This Thursday (February 13) will be an optional review session. You are allowed to skip this session if you're confident!
 - In the review session, we will go over the Exam 1's from 2024 Spring and Fall semester.
   - [Exam 1 from Spring 2024](https://docs.google.com/document/d/1X0PXfwmWRgZuipLDzqtR8X2dVDgvGXp8/edit?usp=sharing&ouid=105452858281062359965&rtpof=true&sd=true)
