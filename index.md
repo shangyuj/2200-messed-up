@@ -98,6 +98,8 @@ e.g.: She	opened the	drawer in	the	cupboard near	the	antique	table in	the	middle
 [Quiz: Identifying prepositional phrases](https://canvas.iastate.edu/courses/118016/modules/items/7001788)  
 [Quiz: Adjective, adverb, or prepositional phrase](https://canvas.iastate.edu/courses/118016/modules/items/7001789)  
 
+### Supplement Reading
+[Diagramming Supplement Part 1 (Introduction, w/ Abbreviations)](https://drive.google.com/file/d/18wTYf5A6KoJieOD7TlqrxRSuGoYsQGqy/view?usp=sharing)
 ## 2/25 Exam 1 feedback
 
 ## 2/18 & 2/20 Exam 1
