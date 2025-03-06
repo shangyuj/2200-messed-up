@@ -4,6 +4,29 @@
 
 ## 3/6 Phrases: Review/exercise
 
+### What is in a diagram?  
+![image](https://github.com/user-attachments/assets/fb2ec639-1e51-4fe9-90c8-ac62088d137e)  
+#### Word
+![image](https://github.com/user-attachments/assets/3901c3fc-c22b-45ba-b81c-28fbd05b279f)
+
+#### Word Form Labels
+![image](https://github.com/user-attachments/assets/dcd4ac3e-c62c-4141-a1ec-b6e7861ebc16)
+
+#### Phrase Form Labels
+![image](https://github.com/user-attachments/assets/18162a31-8676-40bf-b629-eb774e39d798)
+
+#### Phrase Function Labels
+![image](https://github.com/user-attachments/assets/720ffa1a-a4c2-47da-b25f-c0518fe34b17)
+
+#### Sentence
+![image](https://github.com/user-attachments/assets/9240628a-3e2a-4b00-af46-5f33df82cf26)
+
+#### Verb Tense/Modality, Aspect, Voice Labels
+![image](https://github.com/user-attachments/assets/242a0c41-39af-4505-90a4-faea7326c5dd)
+
+#### Verb Valency Labels
+![image](https://github.com/user-attachments/assets/e3ea4508-d231-4b00-bd50-cdccb1a9cb70)
+
 ### Exercise: Exercise 1: Identifying Phrases / Segmenting Sentences into Constituents
 ![image](https://github.com/user-attachments/assets/750d1895-a511-4291-8297-2a6a13ce2b99)
 ![image](https://github.com/user-attachments/assets/f3530d29-a4f4-41ef-92cd-ebd018ffa933)
