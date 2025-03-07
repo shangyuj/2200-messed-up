@@ -1,10 +1,16 @@
 # English 2200
+
 ## Attendance
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
 ## 3/6 Phrases: Review/exercise
+
+### Announcement 
+
+Major Assignment 1 due March 25. Midterm March 27.
   
-Objective of this lesson: You will know how to diagram common types of noun phrases, adjective phrases, adverb phrases, and prepositional phrases.
+### Objective of this lesson
+You will practice how to diagram common types of noun phrases, adjective phrases, adverb phrases, and prepositional phrases.
   
 ### What is in a diagram?  
 ![image](https://github.com/user-attachments/assets/fb2ec639-1e51-4fe9-90c8-ac62088d137e)  
