@@ -3,7 +3,9 @@
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
 ## 3/6 Phrases: Review/exercise
-
+  
+Objective of this lesson: You will know how to diagram common types of noun phrases, adjective phrases, adverb phrases, and prepositional phrases.
+  
 ### What is in a diagram?  
 ![image](https://github.com/user-attachments/assets/fb2ec639-1e51-4fe9-90c8-ac62088d137e)  
 #### Word
@@ -21,10 +23,10 @@
 #### Sentence
 ![image](https://github.com/user-attachments/assets/9240628a-3e2a-4b00-af46-5f33df82cf26)
 
-#### Verb Tense/Modality, Aspect, Voice Labels
+#### Verb Tense/Modality, Aspect, Voice Labels (we haven't learned this)
 ![image](https://github.com/user-attachments/assets/242a0c41-39af-4505-90a4-faea7326c5dd)
 
-#### Verb Valency Labels
+#### Verb Valency Labels (we haven't learned this)
 ![image](https://github.com/user-attachments/assets/e3ea4508-d231-4b00-bd50-cdccb1a9cb70)
 
 ### Exercise: Exercise 1: Identifying Phrases / Segmenting Sentences into Constituents
@@ -33,7 +35,6 @@
 ![image](https://github.com/user-attachments/assets/a71ff009-8156-4f28-8474-c11ecf60c1fc)
 ![image](https://github.com/user-attachments/assets/c929e54f-edd2-4afe-81e6-f2e688879475)
 ![image](https://github.com/user-attachments/assets/87e0aeea-1553-4883-a078-3bac758e7713)
-
 
 ### Diagrams of Noun Phrases, Adjective Phrases, Adverb Phrases, and Prepositional Phrases
 See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.google.com/file/d/18wTYf5A6KoJieOD7TlqrxRSuGoYsQGqy/view?usp=sharing).
