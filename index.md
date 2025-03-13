@@ -9,8 +9,8 @@ When diagramming verb phrases, we mark tense/modality, aspect, voice, and valenc
 
 ### The Verb-Auxiliary-Modal hierarchy
 - Verbs
-   - Auxiliary verbs
-      - Modal verbs
+   - Auxiliary verbs (subset of verbs)
+      - Modal verbs (subset of auxiliary verbs)
 
 Core modal verbs: _can_, _could_, _may_, _might_, _shall_, _should_, _will_, _would_, _must_  
 Semi-modal (aka phrasal modal) verbs: _had better_, _have to_, _have got to_, _need to_, _ought to_, _be supposed to_, _be going to_, _used to_
