@@ -6,6 +6,10 @@
 ## Major Assignment 1 and Midterm Exam
 [Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) is a preview of Midterm Exam.  
 (Midterm is just [Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) with new phrases). 
+  
+[Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) is due on March 25th. It is worth 5% of the final grade. You can come to the classroom to work together on this assignment on March 13 or March 25 (the review sessions).
+
+Midterm exam will take place on March 27. It will be open-book.
 
 ## 3/13 Review Session
 
