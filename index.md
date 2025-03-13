@@ -5,7 +5,7 @@
 
 ## 3/11 Verb Phrases (VP)
 
-When diagramming verb phrases, we mark tense/modality, aspect, voice, and valency. Today we only learn tense/modality and aspect. Major Assignment 1 and Midterm Exam will only ask you to mark tense/modality and aspect and not voice or valency since we haven't learned them. In the following examples, I provide the valency labels for some examples, but other times I will use an empty placeholder (MV: _____________) in the diagram to remind you of where the valency information will go.
+When diagramming verb phrases, we mark tense/modality, aspect, voice, and valency. For now we are only learning tense/modality and aspect. Major Assignment 1 and Midterm Exam will only ask you to mark tense/modality and aspect and not voice or valency since we haven't learned them. In the following examples, I provide the valency labels for some examples, but other times I will use an empty placeholder (MV: _____________) in the diagram to remind you of where the valency information will go.
 
 ### The Verb-Auxiliary-Modal hierarchy
 - Verbs
