@@ -11,7 +11,7 @@ When diagramming verb phrases, we mark tense/modality, aspect, voice, and valenc
 - Verbs
    - Auxiliary verbs (subset of verbs)
       - Modal verbs (subset of auxiliary verbs)
-
+  
 - Core modal verbs:
    - _can_, _could_, _may_, _might_, _shall_, _should_, _will_, _would_, _must_  
 - Semi-modal (aka phrasal modal) verbs:
