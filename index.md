@@ -4,8 +4,8 @@
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
 ## Major Assignment 1 and Midterm Exam
-Major Assignment 1 is a preview of Midterm Exam!  
-(Midterm is just Major Assignment 1 with new phrases). 
+[Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) is a preview of Midterm Exam.  
+(Midterm is just [Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) with new phrases). 
 
 ## 3/13 Review Session
 
