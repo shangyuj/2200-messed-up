@@ -1,6 +1,6 @@
 # English 2200
 
-## Attendance
+## Attendance (No attendance 3/13 and 3/25)
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
 ## Major Assignment 1 and Midterm Exam
