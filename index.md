@@ -10,7 +10,9 @@
 
 - Midterm exam will take place on March 27. It will be open-book.
 
-## 3/13 & 3/25 Review Sessions (optional; pick one to attend or skip both (not recommended))
+## 3/13 & 3/25 Review Sessions 
+
+**These two review sessions are optional. You can pick one to attend or skip both (not recommended).**
 
 ### AdjCompl (adjective complement); AdvCompl (adverb complement); ObjP (object of a preposition); PNM (post-nominal modifier)
 Adjective complement, adverb complement, object of a preposition, and post-nominal modifier were briefly mentioned before but not explained in detail. However, you do need to understand these concepts to be able to complete Major Assignment 1 and Midterm Exam.
