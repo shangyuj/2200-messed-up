@@ -23,8 +23,16 @@
 ![image](https://github.com/user-attachments/assets/8bff0ac6-5264-4421-bd99-115c8d0c6a6c)
 ![image](https://github.com/user-attachments/assets/2d5a280d-7353-4ca8-a739-5db74024f404)
 6. the picturesque scenery of the countryside  
-![image](https://github.com/user-attachments/assets/7a5ade1d-38bb-4cfb-97d0-c18b93e60b52)
+![image](https://github.com/user-attachments/assets/cb1b88cf-dbf9-43a3-93a2-9baccafbcccb)
+  
 ![image](https://github.com/user-attachments/assets/7f32319b-d209-4e65-9b1a-f962c80271fe)
+7. rather unexpectedly  
+![image](https://github.com/user-attachments/assets/8ac086bc-3cf1-4fed-a7cd-076222ff731d)
+8. hasn’t been studying  
+![image](https://github.com/user-attachments/assets/4ca4254a-55e3-46c1-a52d-d6c8d28041ed)
+9. the fiercely determined athlete  
+![image](https://github.com/user-attachments/assets/bed06e7e-fce3-4ede-9725-e9ad435b97b1)
+10. very confident about his purchase of a franchise from a well-known studio  
 
 
 ## 3/13 & 3/25 Review Sessions 
