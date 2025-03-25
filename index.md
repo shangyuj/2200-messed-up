@@ -12,6 +12,11 @@
 
 ### Major Assignment 1 Answers
 ![image](https://github.com/user-attachments/assets/47d28c14-4db2-4570-995a-81c86988ed19)
+![image](https://github.com/user-attachments/assets/bb409ce4-fc05-438c-bdb3-393f3538adee)
+![image](https://github.com/user-attachments/assets/b7a5d7a3-d13b-4040-874f-4d0e1b5e140c)
+![image](https://github.com/user-attachments/assets/4208b676-d6fd-41e7-aadb-182e5835352c)
+![image](https://github.com/user-attachments/assets/8bff0ac6-5264-4421-bd99-115c8d0c6a6c)
+![image](https://github.com/user-attachments/assets/2d5a280d-7353-4ca8-a739-5db74024f404)
 
 
 ## 3/13 & 3/25 Review Sessions 
