@@ -22,7 +22,7 @@
 5. until the early hours of the morning  
 ![image](https://github.com/user-attachments/assets/8bff0ac6-5264-4421-bd99-115c8d0c6a6c)
 ![image](https://github.com/user-attachments/assets/2d5a280d-7353-4ca8-a739-5db74024f404)
-6. the picturesque scenery of the countryside
+6. the picturesque scenery of the countryside  
 ![image](https://github.com/user-attachments/assets/7a5ade1d-38bb-4cfb-97d0-c18b93e60b52)
 ![image](https://github.com/user-attachments/assets/7f32319b-d209-4e65-9b1a-f962c80271fe)
 
