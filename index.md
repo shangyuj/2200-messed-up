@@ -10,6 +10,10 @@
 
 - Midterm exam will take place on March 27. It will be open-book.
 
+### Major Assignment 1 Answers
+![image](https://github.com/user-attachments/assets/47d28c14-4db2-4570-995a-81c86988ed19)
+
+
 ## 3/13 & 3/25 Review Sessions 
 
 **These two review sessions are optional. You can pick one to attend or skip both (not recommended).**
