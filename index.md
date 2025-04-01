@@ -1,7 +1,88 @@
 # English 2200
 
-## Attendance (No attendance 3/13 and 3/25)
+## Attendance
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
+
+## 4/1 Clause Constituents and Verb Valency (Intro)
+  
+When we talk about **clauses**, we're referring to groups of words that form complete ideas with a predicate. Every clause contains **constituents** that perform specific functions in the sentence.
+  
+Here are the key components:
+- **Subject**: Who or what the sentence is about (often a noun phrase).
+- **Verb (Predicator)**: The action or state in the sentence (with the main verb).
+- **Object**: The entity that is affected by the action (**sometimes not needed**).
+  
+In diagrams, we label both the **form** (what type of phrase it is) and the **function** (what role it plays in the sentence). For example:
+- **NP: Subj** (Noun Phrase as Subject)
+
+**Example Sentence**:  
+*The news outlet retracted the story about the accident.*
+- *the news outlet* is the **subject**.
+- *retracted the story about the accident* is the predicative **long verb phrase**.
+- *retracted* is the **verb phrase**.
+- *the story about the accident* is the **direct object** (what got retracted).
+
+**Tree Diagram**:
+![image](https://github.com/user-attachments/assets/5fa21511-8243-4727-a010-6769f353d107)
+
+---
+
+#### **Verb Valency Explained**
+The term **valency** refers to how many extra pieces (constituents) a verb needs to form a complete sentence. Verbs can require different numbers of these pieces, depending on their type.
+
+Some examples to show you what this means:
+- e.g.: **Intransitive verbs (IT)**: These verbs don’t need anything beyond a subject and a verb phrase. Example: *I slept.*
+- e.g.: **Monotransitive verbs (MT)**: These verbs need a subject, a verb phrase, and a **direct object** (DO). Example: *I ate the pizza slice.*
+  
+##### Full list of Verb Valency
+
+| Valency Type     | Abbreviation | Clause Pattern                                  |
+|------------------|--------------|------------------------------------------------|
+| Copular          | cop          | Subj + Vcop + SC / Advloblig                    |
+| Intransitive     | IT           | Subj + VIT                                      |
+| Monotransitive   | MT           | Subj + VMT + DO                                 |
+| Ditransitive     | DT           | Subj + VDT + IO + DO / Subj + VDT + DO + to IO  |
+| Complex Transitive| CT          | Subj + VCT + DO + OC / Advloblig                |
+
+
+---
+
+#### **Grammatical Functions and Valency Patterns**
+
+Let’s break down the different parts of a sentence and how verbs interact with them:
+
+| Function                 | Abbreviation | Description |
+|--------------------------|--------------|-------------|
+| Subject                  | Subj         | The entity the sentence is about, typically placed before the verb. |
+| Subject complement       | SC           | Describes the subject, often an adjective or noun phrase. |
+| Direct object            | DO           | The entity affected by the verb. |
+| Indirect object          | IO           | The entity receiving the direct object. |
+| Object complement        | OC           | Provides information about the direct object. |
+| Optional adverbial       | Advl         | Additional information on time, place, manner, etc., not required to form a complete clause. |
+| Obligatory adverbial     | Advloblig    | Necessary adverbial information required to complete the clause. |
+
+#### **Optional vs. Obligatory Adverbials**
+
+This distinction is important because adverbials can either be optional or necessary for the sentence to be complete:
+
+- **Optional Adverbials**: These are extra details about the action. If we remove them, the sentence still makes sense.
+  - Example: *The news outlet retracted the story by the next day.*
+    - *by the next day* is optional—it tells **when** the action happened but is not essential.
+  
+  **Tree Diagram**:
+![image](https://github.com/user-attachments/assets/c75e6cbd-dd9d-491e-8f4f-9bc92a58043f)
+
+
+- **Obligatory Adverbials (Advloblig)**: These are necessary for the sentence to make sense. Without them, the sentence would be incomplete.
+  - Example: *Paul was in power at that moment.*
+    - *in power* is essential here. Without it, *Paul was* sounds incomplete.
+  
+  **Tree Diagram**:
+![image](https://github.com/user-attachments/assets/8337416a-e219-42b9-92a5-a2d157189b2e)
+
+--- 
+
+**Reading: [Diagramming Supplement Part 3](https://drive.google.com/file/d/1yGsI3knZI8djQyI2LQ2q3ScyyS24o5am/view?usp=sharing)**
 
 ## Major Assignment 1 and Midterm Exam
 - [Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) is a preview of Midterm Exam. (Midterm is just [Major Assignment 1](https://canvas.iastate.edu/courses/118016/assignments/2490074) with new phrases.)
