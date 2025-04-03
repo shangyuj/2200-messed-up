@@ -3,6 +3,61 @@
 ## Attendance
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
+## 4/3 Copular & how to diagram a sentence/clause
+
+### **Copular Valency Patterns**
+
+**Copular verbs** (also called **linking verbs**) are a special type of verb. Instead of showing an action, they connect the subject to something that gives more information about it. These verbs usually need one of two things to complete the sentence:
+1. A **subject complement (SC)**: This describes the subject.
+2. An **obligatory adverbial (Advloblig)**: This tells something like where or when the subject is.
+
+#### **Pattern 1: Subj + Vcop + SC**
+The **subject complement (SC)** describes the subject, often adding more information or identifying it.
+
+- **Example**: 
+  - *Frank is a cardiologist.*
+  - *The music sounds fantastic.*
+
+  **Tree Diagram**:  
+![image](https://github.com/user-attachments/assets/f9f12171-ec47-412c-9727-1855f096ee27)
+
+#### **Pattern 2: Subj + Vcop + Advloblig**
+The **obligatory adverbial** is needed to complete the sentence, often describing **where** or **when** something is happening.
+
+- **Example**: 
+  - *Paul was in power at that moment.*
+
+  **Tree Diagram**:
+![image](https://github.com/user-attachments/assets/cce81da5-8e4c-4391-ac07-9422e9c7a902)
+
+
+#### **Subject Complement Test for Copular Verbs**
+To see if a verb is copular, try replacing the verb with an equals sign. If the sentence still makes sense, it’s a copular verb:
+- *Frank = a cardiologist.*
+- *The music = fantastic.*
+
+---
+
+### How to diagram a copular clause
+
+#### What is long verb phrase (LVP)?
+The LVP consists of the verb phrase plus all other constituents that are required by the main verb.
+
+1. *The final exam proved difficult.*  
+   - *Difficult* is describing the subject.
+![image](https://github.com/user-attachments/assets/b45901fe-4a4b-44b8-9c9f-df158b360bac)
+
+
+2. *Annie and Janine look surprised.*  
+   - *Surprised* is describing Annie and Janine.
+![image](https://github.com/user-attachments/assets/8b70cdc7-7376-4234-bc0e-78ae1f09c91a)
+
+
+3. *Her sincerest wish is that Bill makes a speedy and full recovery.*  
+   - The subject complement here is a whole clause.
+![image](https://github.com/user-attachments/assets/722a04fa-f224-409b-9004-79db91ef0dc2)
+
+
 ## 4/1 Clause Constituents and Verb Valency (Intro)
   
 When we talk about **clauses**, we're referring to groups of words that form complete ideas with a predicate. Every clause contains **constituents** that perform specific functions in the sentence.
