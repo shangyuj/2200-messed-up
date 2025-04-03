@@ -56,6 +56,13 @@ The LVP consists of the verb phrase plus all other constituents that are require
    - The subject complement here is a whole clause.
 ![image](https://github.com/user-attachments/assets/722a04fa-f224-409b-9004-79db91ef0dc2)
 
+### Copula Valency Practice
+Diagram these:
+- That painting looks amazing.
+- I was a different person yesterday.
+- She is downstairs.
+- Dad is in the kitchen now.
+
 
 ## 4/1 Clause Constituents and Verb Valency (Intro)
   
