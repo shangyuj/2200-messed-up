@@ -45,13 +45,12 @@ The LVP consists of the verb phrase plus all other constituents that are require
 
 1. *The final exam proved difficult.*  
    - *Difficult* is describing the subject.
-![image](https://github.com/user-attachments/assets/b45901fe-4a4b-44b8-9c9f-df158b360bac)
+![378984004-b45901fe-4a4b-44b8-9c9f-df158b360bac](https://github.com/user-attachments/assets/375fca64-95a4-4b0b-beff-3b8d43280a4f)
 
 
 2. *Annie and Janine look surprised.*  
    - *Surprised* is describing Annie and Janine.
-![image](https://github.com/user-attachments/assets/8b70cdc7-7376-4234-bc0e-78ae1f09c91a)
-
+![378984063-8b70cdc7-7376-4234-bc0e-78ae1f09c91a](https://github.com/user-attachments/assets/59a11dc8-ed89-420d-89c1-40417c85956b)
 
 3. *Her sincerest wish is that Bill makes a speedy and full recovery.*  
    - The subject complement here is a whole clause.
