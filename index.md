@@ -1,7 +1,12 @@
 # English 2200
 
-## Attendance
+## No Attendance Taking Today!
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
+
+## 4/10 Midterm review & (In)transitive valency
+- Copular valency review
+- Midterm review
+- (In)transitive valency
 
 ## 4/3 Copular & how to diagram a sentence/clause
 
