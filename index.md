@@ -76,8 +76,7 @@ Occasionally, the direct object of a ditransitive verb is ellipted, or not expli
 - For example: _Her mother had promised her._ 
     - _her_ ≠ direct object (_her_ is not what she promised)
     - _her_ = indirect object (_her_ is who received the promise)
-  
-![image](https://github.com/user-attachments/assets/18b24eda-65e4-48c5-a94f-243c66c6f866)
+  ![image](https://github.com/user-attachments/assets/18b24eda-65e4-48c5-a94f-243c66c6f866)
 
 
 **Summary of Ditransitive Verbs**:
