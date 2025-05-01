@@ -33,7 +33,7 @@
                                
 ```
 
-4. The Starbucks cup is full.
+3. The Starbucks cup is full.
 ```
                         S
            _____________|__________________
@@ -46,7 +46,21 @@
  The  Starbucks cup                 is               full
 ```
 
-6. We gave up the project yesterday.
+4. We gave up the project yesterday.
+```
+                             S
+             ________________|_____________________
+            |                                     LVP: pred
+            |              _________________________|___________________
+        NP: Subj          VP: past            NP: DO               AdvP: Advl
+            |                |               ___|___                   |
+           pro           MV: MT (MWV)       det     N                 adv
+            |                |              |       |                  |
+           We             gave up          the   project           yesterday
+
+                           
+```
+
 7. I've been craving McDonald's since yesterday.
 8. I made her very happy with the present.
 9. This task must be completed by the end of today.
