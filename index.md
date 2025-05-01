@@ -57,21 +57,34 @@
            pro           MV: MT (MWV)       det     N                 adv
             |                |              |       |                  |
            We             gave up          the   project           yesterday
-
-                           
+                  
 ```
 
-7. I've been craving McDonald's since yesterday.
-8. I made her very happy with the present.
-9. This task must be completed by the end of today.
-10. A message was sent to the group by the government.
-11. He runs really fast.
-12. My life is in a good place at this point.
-13. The American band the Ramones released their debut album in 1976.
-14. "Now and Then" has been called the "last Beatles song."
-15. You must have heard the news about the explosion of pagers in Lebanon.
-16. In 1973, my grandma passed away peacefully in her dream.
-17. The Pope gave his blessings to the crowd.
+5. I've been craving McDonald's since yesterday.
+```
+                              S
+          ____________________|_____________________
+         |                                        LVP: pred
+         |              ____________________________|____________________
+      NP: subj      VP: pres perf prog           NP: DO               PP: Advl
+         |           ______|_________              |               ______|_______
+        pro        aux    aux      MV: MT          N               Prep      NP: ObjP
+         |          |      |         |             |                |            |
+         I         've    been     craving      McDonalds          since         N
+                                                                                 |
+                                                                              yesterday
+```
+
+9. I made her very happy with the present.
+10. This task must be completed by the end of today.
+11. A message was sent to the group by the government.
+12. He runs really fast.
+13. My life is in a good place at this point.
+14. The American band the Ramones released their debut album in 1976.
+15. "Now and Then" has been called the "last Beatles song."
+16. You must have heard the news about the explosion of pagers in Lebanon.
+17. In 1973, my grandma passed away peacefully in her dream.
+18. The Pope gave his blessings to the crowd.
 
 ## 4/22 Voice (cont.)
 ### first, a review
