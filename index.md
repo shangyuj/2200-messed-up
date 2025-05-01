@@ -9,7 +9,7 @@ The Final Exam will take place on Thursday, May 15, 9:45–11:45 AM in the same 
 ## 5/8 Major Assignment 3 & Review
 [Major Assignment 3](https://canvas.iastate.edu/courses/118016/modules/items/7001804) is a preview of the Final Exam. We will work on this assignment together in class next Thursday (May 8), but you should try to do it yourself before that.
 
-## 5/6 Non-finite Subordinate (Dependent) Clauses & Extra-Credit Presentation
+## 5/6 Non-finite Subordination & Extra-Credit Presentation
 There is still time to sign up for [extra-credit presentation](https://canvas.iastate.edu/courses/118016/modules/items/7001805)!
 - Upload your presentation slides to this folder: [Google Drive link](https://drive.google.com/drive/folders/1cwIuOeNySi4u7uHu9Jplfwv5wcCIZdp_?usp=sharing)
 ### Non-finite Subordination
