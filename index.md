@@ -12,7 +12,7 @@ The Final Exam will take place on Thursday, May 15, 9:45–11:45 AM in the same 
 ## 5/6 Extra-Credit Presentation & Review
 There is still time to sign up for [extra-credit presentation](https://canvas.iastate.edu/courses/118016/modules/items/7001805)!
 
-## 5/1 Dependent clauses
+## 5/1 Dependent (aka Subordinate) Clauses
 ### Overview of Main Clauses vs. Subordinate Clauses
 
 In English syntax, sentences are often composed of different types of clauses. These clauses can be **main (independent) clauses** or **subordinate (dependent) clauses**. Understanding how these clauses function and interact helps us analyze complex sentences and understand sentence structure.
