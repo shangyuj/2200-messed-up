@@ -988,13 +988,53 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                   the   group              the  government
 ```
 
-13. He runs really fast.
-14. My life is in a good place at this point.
+9. He runs really fast.
+```
+                          S
+               ___________|______________
+              |                        LVP: pred
+              |                  _________|___________
+           NP: Subj           VP: pres            AdvP: advl
+              |                 |                  ____|_____
+             pro              MV: IT             adv     adv: head
+              |                 |                 |         |
+              He              runs              really     fast
+```
+
+10. My life is in a good place at this point.
+```
+                                     S
+                _____________________|_________________________
+               |                                            LVP: pred
+               |                   ____________________________|_________________
+            NP: Subj            VP: pres              PP: OblgAdvl            PP: Advl
+             ___|___               |                   _____|_____           _____|_____
+           det     N            MV: cop             prep    NP: objP        prep   NP: objP
+            |      |               |                 |      ___|____         |      ___|____
+           My    life              is               in    det  adj   N       at    det     N
+                                                           |    |    |              |      |
+                                                           a  good place          this   point
+```
+
 15. The American band the Ramones released their debut album in 1976.
-16. "Now and Then" has been called the "last Beatles song."
-17. You must have heard the news about the explosion of pagers in Lebanon.
-18. In 1973, my grandma passed away peacefully in her dream.
-19. The Pope gave his blessings to the crowd.
+```
+                                        S
+                      __________________|_________________________
+                     |                                         LVP: pred
+                     |                        ______________________|_____________________
+                 NP: Subj                  VP: past                NP: DO               PP: Advl
+           _________|___________              |               ________|________       _____|________
+          NP: head         NP: PNM          MV: MT           det     N     N:head     prep   NP: objP
+      ____|________        ___|___            |              |       |       |         |        |
+     det   adj    N       det    N         released        their   debut   album       in       N
+      |     |     |        |     |                                                              |
+     The American band    the Ramones                                                          1976
+```
+
+17. "Now and Then" has been called the "last Beatles song."
+18. You must have heard the news about the explosion of pagers in Lebanon.
+19. In 1973, my grandma passed away peacefully in her dream.
+20. The Pope gave his blessings to the crowd.
 
 ## 4/22 Voice (cont.)
 ### first, a review
