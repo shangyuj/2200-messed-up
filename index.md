@@ -973,7 +973,21 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                                                                today
 ```
 
-12. A message was sent to the group by the government.
+8. A message was sent to the group by the government.
+```
+                                   S
+                ___________________|_______________
+               |                               LVP: pred
+               |                     _____________|_________________________________________
+           NP: Subj (log DO)      VP: past passive        PP: Advl (log IO)         PP: Advl (log subj)
+             ___|___               _____|_____              _____|_____              _____|_____
+           det     N               aux     MV: DT         prep      NP: objP       prep     NP: objP
+            |      |                |        |             |       ___|___          |       ___|____
+            A   message            was     sent           to      det     N         by     det     N
+                                                                   |      |                 |      |
+                                                                  the   group              the  government
+```
+
 13. He runs really fast.
 14. My life is in a good place at this point.
 15. The American band the Ramones released their debut album in 1976.
