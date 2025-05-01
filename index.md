@@ -3,6 +3,9 @@
 ## Attendance
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
+## 5/15 Final Exam
+The Final Exam will take place on Thursday, May 15, 9:45–11:45 AM in the same classroom. It will be open-book.
+
 ## 5/8 Major Assignment 3 & Review
 [Major Assignment 3](https://canvas.iastate.edu/courses/118016/modules/items/7001804) is a preview of the Final Exam. We will work on this assignment together in class next Thursday (May 8), but you should try to do it yourself before that.
 
