@@ -34,18 +34,30 @@
 ```
 
 4. The Starbucks cup is full.
-5. We gave up the project yesterday.
-6. I've been craving McDonald's since yesterday.
-7. I made her very happy with the present.
-8. This task must be completed by the end of today.
-9. A message was sent to the group by the government.
-10. He runs really fast.
-11. My life is in a good place at this point.
-12. The American band the Ramones released their debut album in 1976.
-13. "Now and Then" has been called the "last Beatles song."
-14. You must have heard the news about the explosion of pagers in Lebanon.
-15. In 1973, my grandma passed away peacefully in her dream.
-16. The Pope gave his blessings to the crowd.
+```
+                        S
+           _____________|__________________
+          |                              LVP: pred
+          |                          _______|_________
+      NP: Subj                  VP: present        AdjP: SC
+    ____|_________                   |                |
+  det    N     N:head              MV: cop           adj
+   |     |       |                  |                 |
+ The  Starbucks cup                 is               full
+```
+
+6. We gave up the project yesterday.
+7. I've been craving McDonald's since yesterday.
+8. I made her very happy with the present.
+9. This task must be completed by the end of today.
+10. A message was sent to the group by the government.
+11. He runs really fast.
+12. My life is in a good place at this point.
+13. The American band the Ramones released their debut album in 1976.
+14. "Now and Then" has been called the "last Beatles song."
+15. You must have heard the news about the explosion of pagers in Lebanon.
+16. In 1973, my grandma passed away peacefully in her dream.
+17. The Pope gave his blessings to the crowd.
 
 ## 4/22 Voice (cont.)
 ### first, a review
