@@ -3,6 +3,23 @@
 ## Attendance
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
+## 4/29 Major Assignment 2
+1. My day was ruined by my car.
+2. She very graciously gave me a compliment.
+3. The Starbucks cup is full.
+4. We gave up the project yesterday.
+5. I've been craving McDonald's since yesterday.
+6. I made her very happy with the present.
+7. This task must be completed by the end of today.
+8. A message was sent to the group by the government.
+9. He runs really fast.
+10. My life is in a good place at this point.
+11. The American band the Ramones released their debut album in 1976.
+12. "Now and Then" has been called the "last Beatles song."
+13. You must have heard the news about the explosion of pagers in Lebanon.
+14. In 1973, my grandma passed away peacefully in her dream.
+15. The Pope gave his blessings to the crowd.
+
 ## 4/22 Voice (cont.)
 ### first, a review
 We learned verb valencies:
