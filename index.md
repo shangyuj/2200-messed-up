@@ -5,7 +5,20 @@
 
 ## 4/29 Major Assignment 2
 1. My day was ruined by my car.
-   <pre> ``` S ___________|_____________________ | LVP: pred | ____________|__________________ NP: Subj. VP: past passive PP: Advl | | ______|______ ____|____ det N aux MV:MT Prep NP: Obj.P | | | | | ____|____ My day was ruined by det N | | my car ``` </pre>
+```
+                      S
+           ___________|_____________________
+          |                                LVP: pred
+          |                     ____________|__________________
+       NP: Subj.           VP: past passive             PP: Advl
+       |      |              ______|______              ____|____
+     det      N            aux         MV:MT          Prep   NP: Obj.P
+     |        |             |             |             |     ____|____
+    My      day           was         ruined           by   det      N
+                                                               |       |
+                                                             my     car
+```
+
 3. She very graciously gave me a compliment.
 4. The Starbucks cup is full.
 5. We gave up the project yesterday.
