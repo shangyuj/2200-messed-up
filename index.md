@@ -19,7 +19,25 @@
                                                                my     car
 ```
 
-3. She very graciously gave me a compliment.
+2. She very graciously gave me a compliment.
+```
+                         S
+           ______________|___________________________
+          |             LVP: pred                    |
+          |         _______|__________               |
+       NP: Subj    AdvP         VP: past          NP: DO
+         |       ___|___           |              ___|____
+        pro    adv  adv:head     MV: DT         det       N
+         |       |     |           |             |        |
+       She    very  graciously    gave           a   compliment
+                                   |
+                                 NP: IO
+                                   |
+                                  pro
+                                   |
+                                  me
+```
+
 4. The Starbucks cup is full.
 5. We gave up the project yesterday.
 6. I've been craving McDonald's since yesterday.
