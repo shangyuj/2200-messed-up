@@ -90,7 +90,25 @@
                                                                          the   present
 ```
 
-11. This task must be completed by the end of today.
+7. This task must be completed by the end of today.
+```
+                                     S
+              _______________________|_________________________
+             |                                            LVP: pred
+          NP: Subj                              _________|___________________
+         (log:DO)                         VP: modal (MT) passive          PP: Advl
+         ____|_____                     ________|_________         __________|_________
+       det       N                  modal   aux     MV: MT         prep              NP: ObjP
+        |        |                    |      |        |             |          _________|_______________
+      This     task                 must    be    completed         by        det       N           PP: PNM
+                                                                               |        |        _______|_______
+                                                                               the     end     prep         NP: ObjP
+                                                                                                |               |
+                                                                                                of              N
+                                                                                                                |
+                                                                                                               today
+```
+
 12. A message was sent to the group by the government.
 13. He runs really fast.
 14. My life is in a good place at this point.
