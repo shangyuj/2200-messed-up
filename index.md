@@ -10,9 +10,9 @@
            ___________|_____________________
           |                                LVP: pred
           |                     ____________|__________________
-       NP: Subj            VP: past passive             PP: Advl
+       NP: Subj (log DO)     VP: past passive             PP: Advl
      _____|____              ______|______              ____|____
-     det      N            aux          MV:MT         prep     NP: ObjP
+     det      N            aux          MV:MT         prep     NP: ObjP (log Subj)
      |        |             |             |             |     ____|____
      My      day           was         ruined           by    det      N
                                                                |       |
