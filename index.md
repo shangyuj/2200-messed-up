@@ -10,13 +10,13 @@
            ___________|_____________________
           |                                LVP: pred
           |                     ____________|__________________
-       NP: Subj.           VP: past passive             PP: Advl
-       |      |              ______|______              ____|____
-     det      N            aux         MV:MT          Prep   NP: Obj.P
+       NP: Subj            VP: past passive             PP: Advl
+     _____|____              ______|______              ____|____
+     det      N            aux          MV:MT         prep     NP: ObjP
      |        |             |             |             |     ____|____
-    My      day           was         ruined           by   det      N
+     My      day           was         ruined           by    det      N
                                                                |       |
-                                                             my     car
+                                                               my     car
 ```
 
 3. She very graciously gave me a compliment.
