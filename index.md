@@ -22,20 +22,15 @@
 2. She very graciously gave me a compliment.
 ```
                          S
-           ______________|___________________________
-          |             LVP: pred                    |
-          |         _______|__________               |
-       NP: Subj    AdvP         VP: past          NP: DO
-         |       ___|___           |              ___|____
-        pro    adv  adv:head     MV: DT         det       N
-         |       |     |           |             |        |
-       She    very  graciously    gave           a   compliment
-                                   |
-                                 NP: IO
-                                   |
-                                  pro
-                                   |
-                                  me
+           ______________|__________________________________
+          |             LVP: pred                           |
+          |         _______|____________________            |
+       NP: Subj    AdvP         VP: past     NP: IO       NP: DO
+         |       ___|___           |           |         ___|____
+        pro    adv  adv:head     MV: DT       pro      det       N
+         |       |     |           |           |        |        |
+       She    very  graciously    gave        me        a   compliment
+                               
 ```
 
 4. The Starbucks cup is full.
