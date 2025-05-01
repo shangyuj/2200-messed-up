@@ -66,25 +66,39 @@
           ____________________|_____________________
          |                                        LVP: pred
          |              ____________________________|____________________
-      NP: subj      VP: pres perf prog           NP: DO               PP: Advl
+      NP: Subj      VP: pres perf prog           NP: DO               PP: Advl
          |           ______|_________              |               ______|_______
-        pro        aux    aux      MV: MT          N               Prep      NP: ObjP
+        pro        aux    aux      MV: MT          N               prep      NP: ObjP
          |          |      |         |             |                |            |
          I         've    been     craving      McDonalds          since         N
                                                                                  |
                                                                               yesterday
 ```
 
-9. I made her very happy with the present.
-10. This task must be completed by the end of today.
-11. A message was sent to the group by the government.
-12. He runs really fast.
-13. My life is in a good place at this point.
-14. The American band the Ramones released their debut album in 1976.
-15. "Now and Then" has been called the "last Beatles song."
-16. You must have heard the news about the explosion of pagers in Lebanon.
-17. In 1973, my grandma passed away peacefully in her dream.
-18. The Pope gave his blessings to the crowd.
+6. I made her very happy with the present.
+```
+                                 S
+               __________________|______________________
+              |                                        LVP: pred
+              |            ____________|___________ ______|______
+           NP: Subj     LVP: past    NP: DO      AdjP: OC          PP: Advl
+              |            |           |         ___|___        ______|___________          
+             pro         MV: CT       pro      adv     adj       prep      NP: ObjP
+              |            |           |        |       |         |        ___|____
+              I           made        her      very   happy      with     det     N
+                                                                          |       |
+                                                                         the   present
+```
+
+11. This task must be completed by the end of today.
+12. A message was sent to the group by the government.
+13. He runs really fast.
+14. My life is in a good place at this point.
+15. The American band the Ramones released their debut album in 1976.
+16. "Now and Then" has been called the "last Beatles song."
+17. You must have heard the news about the explosion of pagers in Lebanon.
+18. In 1973, my grandma passed away peacefully in her dream.
+19. The Pope gave his blessings to the crowd.
 
 ## 4/22 Voice (cont.)
 ### first, a review
