@@ -1016,7 +1016,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                            a  good place          this   point
 ```
 
-15. The American band the Ramones released their debut album in 1976.
+11. The American band the Ramones released their debut album in 1976.
 ```
                                         S
                       __________________|_________________________
@@ -1031,10 +1031,22 @@ When the gap is associated with a preposition, the preposition can remain with t
      The American band    the Ramones                                                          1976
 ```
 
-17. "Now and Then" has been called the "last Beatles song."
-18. You must have heard the news about the explosion of pagers in Lebanon.
-19. In 1973, my grandma passed away peacefully in her dream.
-20. The Pope gave his blessings to the crowd.
+12. "Now and Then" has been called the "last Beatles song."
+```
+                                        S
+                      __________________|_________________________
+                 NP:Subj (log DO)                              LVP: pred
+                     |                       ______________________|_______________
+                     N                  VP: present perfect passive            NP: SC (log OC)
+                     |                      ________|__________            ______|__________________
+           ____________________          aux     aux      MV: CT           det   det    N     N:head
+              "Now and Then"              |       |         |               |     |     |       |
+                                         has     been     called           the  last  Beatles  song
+```
+
+13. You must have heard the news about the explosion of pagers in Lebanon.
+14. In 1973, my grandma passed away peacefully in her dream.
+15. The Pope gave his blessings to the crowd.
 
 ## 4/22 Voice (cont.)
 ### first, a review
