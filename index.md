@@ -2577,7 +2577,7 @@ The August 2020 derecho windstorm was **bigger** than most people remember. The 
 **gusts** **measured** up to 110 mph in Iowa. Trees were **broken** off by the wind. Nevertheless, **ISU's**
 campus **remains** the **prettiest** campus in the world.
 
-### Homework (due before next Tuesday)
+### Homework
 Here are some quizzes to help you test your learning. If you find it difficult to answer them, go back to our reading to review the concepts: [Morphology Overview](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing).
 - [Quiz: Syntax or Morphology?](https://canvas.iastate.edu/courses/118016/modules/items/7001759)
 - [Quiz: Identifying Roots](https://canvas.iastate.edu/courses/118016/modules/items/7001760)
@@ -2630,14 +2630,14 @@ Here are some quizzes to help you test your learning. If you find it difficult t
 
 ### Prescriptive vs. Descriptive grammar
 What camp do you consider yourself to be in at this point? Why?
+  
+Let's revisit this question:  
+- How should language teachers handle dialect differences in the classroom?  
 
-### Let's revisit this question:
-How should language teachers handle dialect differences in the classroom?  
-
-### Why do we use language differently?
-- Language change
-- Dialects
-- Language development
+- Why do we use language differently?
+  - Language change
+  - Dialects
+  - Language development
 
 ### Summary of this lesson
 - Key definitions in the study of grammar, such as prescriptive/descriptive approaches, dialects, standard and nonstandard language
@@ -2647,8 +2647,8 @@ How should language teachers handle dialect differences in the classroom?
 [Study of Grammar Quiz](https://canvas.iastate.edu/courses/118016/quizzes/570954) (3 min)  
 Any question?
 
-### What's next?
-In the next part we take a look at morphology — the structure of words.
+- What's next?
+  - In the next part we take a look at morphology — the structure of words.
 
 ### Homework
 Give the [Morphology Overview](https://drive.google.com/file/d/1n4aM8rXXeFNkqBZZEW2NbPUFgvHUrFvu/view?usp=sharing) a read. You can skip the Knowledge Check questions for now. 
