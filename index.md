@@ -870,6 +870,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 
 ## 4/29 Major Assignment 2
 1. My day was ruined by my car.
+
 ```
                       S
            ___________|_____________________
@@ -885,6 +886,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 2. She very graciously gave me a compliment.
+
 ```
                          S
            ______________|__________________________________
@@ -899,6 +901,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 3. The Starbucks cup is full.
+
 ```
                         S
            _____________|__________________
@@ -912,6 +915,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 4. We gave up the project yesterday.
+
 ```
                              S
              ________________|_____________________
@@ -926,6 +930,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 5. I've been craving McDonald's since yesterday.
+
 ```
                               S
           ____________________|_____________________
@@ -941,6 +946,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 6. I made her very happy with the present.
+
 ```
                                  S
                __________________|______________________
@@ -956,6 +962,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 7. This task must be completed by the end of today.
+
 ```
                                      S
               _______________________|_________________________
@@ -975,6 +982,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 8. A message was sent to the group by the government.
+
 ```
                                    S
                 ___________________|_______________
@@ -990,6 +998,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 9. He runs really fast.
+
 ```
                           S
                ___________|______________
@@ -1003,6 +1012,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 10. My life is in a good place at this point.
+
 ```
                                      S
                 _____________________|_________________________
@@ -1018,6 +1028,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 11. The American band the Ramones released their debut album in 1976.
+
 ```
                                         S
                       __________________|_________________________
@@ -1033,6 +1044,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 12. "Now and Then" has been called the "last Beatles song."
+
 ```
                                         S
                       __________________|_________________________
