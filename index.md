@@ -89,7 +89,8 @@ They may also appear as:
 
 To-infinitive clauses, or **to-clauses**, are the most common type of non-finite clause and are highly flexible in terms of their syntactic positions. They are easily recognized by their introduction with the infinitive marker **_to_**, which acts as a subordinator.
 
-#### Example Full Diagram (you are not required to diagram subordinate clauses fully)
+#### Example Full Diagram 
+**(you are not required to diagram subordinate clauses fully)**  
 
 - *To secure their life jackets properly*  
 ![image](https://github.com/user-attachments/assets/1cdaa92e-c502-498c-b75b-5ac000d6652c)
@@ -1113,7 +1114,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 ## 4/22 Voice (cont.)
-### first, a review
+### review
 We learned verb valencies:
 - copular
 - intransitive
@@ -1618,28 +1619,28 @@ This distinction is important because adverbials can either be optional or neces
 - Midterm exam will take place on March 27. It will be open-book.
 
 ### Major Assignment 1 Answers
-#### was running    
+- was running    
 ![image](https://github.com/user-attachments/assets/47d28c14-4db2-4570-995a-81c86988ed19)    
-#### The Amazing Spider-Man      
+- The Amazing Spider-Man      
 ![image](https://github.com/user-attachments/assets/bb409ce4-fc05-438c-bdb3-393f3538adee)    
-#### must have forgotten    
+- must have forgotten    
 ![image](https://github.com/user-attachments/assets/b7a5d7a3-d13b-4040-874f-4d0e1b5e140c)    
-#### quickly walk    
+- quickly walk    
 ![image](https://github.com/user-attachments/assets/4208b676-d6fd-41e7-aadb-182e5835352c)   
-#### until the early hours of the morning    
+- until the early hours of the morning    
 ![image](https://github.com/user-attachments/assets/8bff0ac6-5264-4421-bd99-115c8d0c6a6c)  
 ![image](https://github.com/user-attachments/assets/2d5a280d-7353-4ca8-a739-5db74024f404)  
-#### the picturesque scenery of the countryside    
+- the picturesque scenery of the countryside    
 ![image](https://github.com/user-attachments/assets/cb1b88cf-dbf9-43a3-93a2-9baccafbcccb)  
     
 ![image](https://github.com/user-attachments/assets/7f32319b-d209-4e65-9b1a-f962c80271fe)    
-#### rather unexpectedly    
+- rather unexpectedly    
 ![image](https://github.com/user-attachments/assets/8ac086bc-3cf1-4fed-a7cd-076222ff731d)    
-#### hasn’t been studying    
+- hasn’t been studying    
 ![image](https://github.com/user-attachments/assets/4ca4254a-55e3-46c1-a52d-d6c8d28041ed)    
-#### the fiercely determined athlete     
+- the fiercely determined athlete     
 ![image](https://github.com/user-attachments/assets/bed06e7e-fce3-4ede-9725-e9ad435b97b1)    
-#### very confident about his purchase of a franchise from a well-known studio     
+- very confident about his purchase of a franchise from a well-known studio     
 ![image](https://github.com/user-attachments/assets/2fbfa481-8126-4b2a-8623-aec5665634f5)    
 ![image](https://github.com/user-attachments/assets/e7d6236b-5490-42bf-91e1-2015c3fbbde8)  
 
@@ -1802,10 +1803,10 @@ You will practice how to diagram common types of noun phrases, adjective phrases
 #### Sentence
 ![image](https://github.com/user-attachments/assets/9240628a-3e2a-4b00-af46-5f33df82cf26)
 
-#### Verb Tense/Modality, Aspect, Voice Labels (we haven't learned this)
+#### Verb Tense/Modality, Aspect, Voice Labels
 ![image](https://github.com/user-attachments/assets/242a0c41-39af-4505-90a4-faea7326c5dd)
 
-#### Verb Valency Labels (we haven't learned this)
+#### Verb Valency Labels
 ![image](https://github.com/user-attachments/assets/e3ea4508-d231-4b00-bd50-cdccb1a9cb70)
 
 ### Exercise: Exercise 1: Identifying Phrases / Segmenting Sentences into Constituents
@@ -1871,10 +1872,6 @@ See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.googl
 ![image](https://github.com/user-attachments/assets/b8ba9fa4-cfb5-4d3e-8529-da38385af3aa)
 ![image](https://github.com/user-attachments/assets/33beed8a-2112-433f-bebd-bf0819792388)
 ![image](https://github.com/user-attachments/assets/d37e1ff6-3f14-4ad8-bd8b-4b78eae1bd94)
-##### Draw the diagram
-1. simply not true
-2. very intuitive
-3. not too enthusiastically
 
 #### Prepositional Phrases
 ##### Prepositional phrase with simple preposition
@@ -1888,9 +1885,6 @@ See List of Abbreviations in [Diagramming Supplement Part 1](https://drive.googl
 ![image](https://github.com/user-attachments/assets/3f88034c-b630-4d75-86b8-3c79b3f84a4d)
 ![image](https://github.com/user-attachments/assets/601efb5f-44dd-4af6-bbd7-516360fef693)
 ![image](https://github.com/user-attachments/assets/9b83081e-84db-4b12-b693-863946ddb2bc)
-##### Draw the diagram
-1. beyond our wildest dreams
-2. besides all the exciting thrill rides
 
 ## 2/27 Phrases: NP, AdjP, AdvP, PP
 
@@ -2716,8 +2710,6 @@ If you have to miss class, you must inform your instrcutor. Missing class withou
 
 ### Diagnostic quiz
 Do the diagnostic quiz on [Canvas](https://canvas.iastate.edu/courses/118016/assignments/2490069).
-
-
 
 ### Study of grammar
   
