@@ -1081,7 +1081,36 @@ When the gap is associated with a preposition, the preposition can remain with t
 ```
 
 - In 1973, my grandma passed away peacefully in her dream.
+
+```
+                              S
+             _________________|____________________________________
+            |                                                LVP: pred
+            |                         __________________________|________________________
+         NP: Subj                  VP: past                    PP: Advl                PP: Advl
+      _____|_____            _________|_____________          ____|____               ____|____
+     det         N         MV: IT (MWV)          adv        prep    NP:ObjP         prep    NP:ObjP
+      |          |             |                  |          |      ___|___          |        |
+      My      grandma      passed away        peacefully     in    det    N          in       N
+                                                                    |     |                   |
+                                                                   her  dream                1973
+```
+
 - The Pope gave his blessings to the crowd.
+
+```
+                               S
+                  _____________|______________
+                 |                       LVP: pred
+                 |            _______________|_________________
+             NP: Subj        VP: past     NP: DO            PP: IO
+             ____|___           |       _____|___        ______|__________
+            det     N        MV: DT     det     N        prep     NP: ObjP
+             |      |           |        |      |         |       ____|___
+            The   Pope        gave     his  blessings     to      det    N
+                                                                   |     |
+                                                                  the   crowd
+```
 
 ## 4/22 Voice (cont.)
 ### first, a review
