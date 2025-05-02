@@ -1,6 +1,3 @@
-# English 2200
-* TOC
-{:toc}
 ## Attendance
 **[Attendance sheet](https://docs.google.com/spreadsheets/d/1V6gpI8_BbFhQojothBC0aBSvFfwybBr8sWzhPA187LQ/edit?usp=sharing)**: Tick next to your name!
 
