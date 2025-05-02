@@ -869,7 +869,7 @@ When the gap is associated with a preposition, the preposition can remain with t
 ![image](https://github.com/user-attachments/assets/028ac4b9-162b-4dd0-a098-8e271207f9aa)
 
 ## 4/29 Major Assignment 2
-1. My day was ruined by my car.
+- My day was ruined by my car.
 
 ```
                       S
@@ -885,7 +885,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                my     car
 ```
 
-2. She very graciously gave me a compliment.
+- She very graciously gave me a compliment.
 
 ```
                          S
@@ -900,7 +900,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                
 ```
 
-3. The Starbucks cup is full.
+- The Starbucks cup is full.
 
 ```
                         S
@@ -914,7 +914,7 @@ When the gap is associated with a preposition, the preposition can remain with t
  The  Starbucks cup                 is               full
 ```
 
-4. We gave up the project yesterday.
+- We gave up the project yesterday.
 
 ```
                              S
@@ -929,7 +929,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                   
 ```
 
-5. I've been craving McDonald's since yesterday.
+- I've been craving McDonald's since yesterday.
 
 ```
                               S
@@ -945,7 +945,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                               yesterday
 ```
 
-6. I made her very happy with the present.
+- I made her very happy with the present.
 
 ```
                                  S
@@ -961,7 +961,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                          the   present
 ```
 
-7. This task must be completed by the end of today.
+- This task must be completed by the end of today.
 
 ```
                                      S
@@ -981,7 +981,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                                                                today
 ```
 
-8. A message was sent to the group by the government.
+- A message was sent to the group by the government.
 
 ```
                                    S
@@ -997,7 +997,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                                   the   group              the  government
 ```
 
-9. He runs really fast.
+- He runs really fast.
 
 ```
                           S
@@ -1011,7 +1011,7 @@ When the gap is associated with a preposition, the preposition can remain with t
               He              runs              really     fast
 ```
 
-10. My life is in a good place at this point.
+- My life is in a good place at this point.
 
 ```
                                      S
@@ -1027,7 +1027,7 @@ When the gap is associated with a preposition, the preposition can remain with t
                                                            a  good place          this   point
 ```
 
-11. The American band the Ramones released their debut album in 1976.
+- The American band the Ramones released their debut album in 1976.
 
 ```
                                         S
@@ -1043,7 +1043,7 @@ When the gap is associated with a preposition, the preposition can remain with t
      The American band    the Ramones                                                          1976
 ```
 
-12. "Now and Then" has been called the "last Beatles song."
+- "Now and Then" has been called the "last Beatles song."
 
 ```
                                         S
@@ -1057,9 +1057,31 @@ When the gap is associated with a preposition, the preposition can remain with t
                                          has     been     called           the  last  Beatles  song
 ```
 
-13. You must have heard the news about the explosion of pagers in Lebanon.
-14. In 1973, my grandma passed away peacefully in her dream.
-15. The Pope gave his blessings to the crowd.
+- You must have heard the news about the explosion of pagers in Lebanon.
+
+```
+                                           S
+                    _______________________|________________________
+                   |                                      LVP: pred
+                   |                        __________________|______________
+                NP: Subj           VP: modal (NT) perf                   NP: DO
+                   |                _______|_________                ______|_______________
+                  pro             modal   aux    MV: MT             det     N          PP: PNM
+                   |                |      |        |                |      |        ______|__________________
+                  You              must   have    heard             the    news      prep                NP: ObjP
+                                                                                      |                      |
+                                                                                    about     _______________|______________________
+                                                                                              N           PP: PNM               PP: PNM
+                                                                                              |        ______|_______        ______|_____________
+                                                                                          explosion    prep    NP: ObjP      prep          NP: ObjP
+                                                                                                         |       |            |               |
+                                                                                                        of       N            in              N
+                                                                                                                 |                            |
+                                                                                                               pagers                      Lebanon
+```
+
+- In 1973, my grandma passed away peacefully in her dream.
+- The Pope gave his blessings to the crowd.
 
 ## 4/22 Voice (cont.)
 ### first, a review
